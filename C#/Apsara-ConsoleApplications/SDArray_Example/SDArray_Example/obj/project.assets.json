@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Apsara-ConsoleApplications\\SDArray_Example\\SDArray_Example\\SDArray_Example.csproj",
+      "projectUniqueName": "D:\\Dotnet_Core\\SM-06-Batch\\C#\\Apsara-ConsoleApplications\\SDArray_Example\\SDArray_Example\\SDArray_Example.csproj",
       "projectName": "SDArray_Example",
-      "projectPath": "D:\\Apsara-ConsoleApplications\\SDArray_Example\\SDArray_Example\\SDArray_Example.csproj",
+      "projectPath": "D:\\Dotnet_Core\\SM-06-Batch\\C#\\Apsara-ConsoleApplications\\SDArray_Example\\SDArray_Example\\SDArray_Example.csproj",
       "packagesPath": "C:\\Users\\Apsara\\.nuget\\packages\\",
-      "outputPath": "D:\\Apsara-ConsoleApplications\\SDArray_Example\\SDArray_Example\\obj\\",
+      "outputPath": "D:\\Dotnet_Core\\SM-06-Batch\\C#\\Apsara-ConsoleApplications\\SDArray_Example\\SDArray_Example\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Apsara\\AppData\\Roaming\\NuGet\\NuGet.Config",

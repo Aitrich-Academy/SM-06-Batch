@@ -1,0 +1,14 @@
+D:\Apsara-ConsoleApplications\Implicit_Conversion\Implicit_Conversion\bin\Debug\net8.0\Implicit_Conversion.exe
+D:\Apsara-ConsoleApplications\Implicit_Conversion\Implicit_Conversion\bin\Debug\net8.0\Implicit_Conversion.deps.json
+D:\Apsara-ConsoleApplications\Implicit_Conversion\Implicit_Conversion\bin\Debug\net8.0\Implicit_Conversion.runtimeconfig.json
+D:\Apsara-ConsoleApplications\Implicit_Conversion\Implicit_Conversion\bin\Debug\net8.0\Implicit_Conversion.dll
+D:\Apsara-ConsoleApplications\Implicit_Conversion\Implicit_Conversion\bin\Debug\net8.0\Implicit_Conversion.pdb
+D:\Apsara-ConsoleApplications\Implicit_Conversion\Implicit_Conversion\obj\Debug\net8.0\Implicit_Conversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apsara-ConsoleApplications\Implicit_Conversion\Implicit_Conversion\obj\Debug\net8.0\Implicit_Conversion.AssemblyInfoInputs.cache
+D:\Apsara-ConsoleApplications\Implicit_Conversion\Implicit_Conversion\obj\Debug\net8.0\Implicit_Conversion.AssemblyInfo.cs
+D:\Apsara-ConsoleApplications\Implicit_Conversion\Implicit_Conversion\obj\Debug\net8.0\Implicit_Conversion.csproj.CoreCompileInputs.cache
+D:\Apsara-ConsoleApplications\Implicit_Conversion\Implicit_Conversion\obj\Debug\net8.0\Implicit_Conversion.dll
+D:\Apsara-ConsoleApplications\Implicit_Conversion\Implicit_Conversion\obj\Debug\net8.0\refint\Implicit_Conversion.dll
+D:\Apsara-ConsoleApplications\Implicit_Conversion\Implicit_Conversion\obj\Debug\net8.0\Implicit_Conversion.pdb
+D:\Apsara-ConsoleApplications\Implicit_Conversion\Implicit_Conversion\obj\Debug\net8.0\Implicit_Conversion.genruntimeconfig.cache
+D:\Apsara-ConsoleApplications\Implicit_Conversion\Implicit_Conversion\obj\Debug\net8.0\ref\Implicit_Conversion.dll
