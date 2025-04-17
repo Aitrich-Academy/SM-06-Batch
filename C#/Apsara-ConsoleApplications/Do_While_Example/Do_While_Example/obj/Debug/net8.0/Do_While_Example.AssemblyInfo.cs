@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Do_While_Example")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c685b985cd3c67900a61443d0763451d4dfff6d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Do_While_Example")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Do_While_Example")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
