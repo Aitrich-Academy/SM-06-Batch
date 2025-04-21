@@ -1,6 +1,0 @@
-@Product_Crud_ebAPI_HostAddress = http://localhost:5287
-
-GET {{Product_Crud_ebAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
