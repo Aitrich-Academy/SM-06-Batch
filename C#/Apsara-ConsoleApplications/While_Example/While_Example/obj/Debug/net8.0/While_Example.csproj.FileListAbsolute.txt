@@ -1,0 +1,14 @@
+D:\Apsara-ConsoleApplications\While_Example\While_Example\bin\Debug\net8.0\While_Example.exe
+D:\Apsara-ConsoleApplications\While_Example\While_Example\bin\Debug\net8.0\While_Example.deps.json
+D:\Apsara-ConsoleApplications\While_Example\While_Example\bin\Debug\net8.0\While_Example.runtimeconfig.json
+D:\Apsara-ConsoleApplications\While_Example\While_Example\bin\Debug\net8.0\While_Example.dll
+D:\Apsara-ConsoleApplications\While_Example\While_Example\bin\Debug\net8.0\While_Example.pdb
+D:\Apsara-ConsoleApplications\While_Example\While_Example\obj\Debug\net8.0\While_Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apsara-ConsoleApplications\While_Example\While_Example\obj\Debug\net8.0\While_Example.AssemblyInfoInputs.cache
+D:\Apsara-ConsoleApplications\While_Example\While_Example\obj\Debug\net8.0\While_Example.AssemblyInfo.cs
+D:\Apsara-ConsoleApplications\While_Example\While_Example\obj\Debug\net8.0\While_Example.csproj.CoreCompileInputs.cache
+D:\Apsara-ConsoleApplications\While_Example\While_Example\obj\Debug\net8.0\While_Example.dll
+D:\Apsara-ConsoleApplications\While_Example\While_Example\obj\Debug\net8.0\refint\While_Example.dll
+D:\Apsara-ConsoleApplications\While_Example\While_Example\obj\Debug\net8.0\While_Example.pdb
+D:\Apsara-ConsoleApplications\While_Example\While_Example\obj\Debug\net8.0\While_Example.genruntimeconfig.cache
+D:\Apsara-ConsoleApplications\While_Example\While_Example\obj\Debug\net8.0\ref\While_Example.dll

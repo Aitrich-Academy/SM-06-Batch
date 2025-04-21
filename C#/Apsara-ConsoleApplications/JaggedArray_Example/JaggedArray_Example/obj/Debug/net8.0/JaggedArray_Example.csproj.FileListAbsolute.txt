@@ -1,0 +1,14 @@
+D:\Apsara-ConsoleApplications\JaggedArray_Example\JaggedArray_Example\bin\Debug\net8.0\JaggedArray_Example.exe
+D:\Apsara-ConsoleApplications\JaggedArray_Example\JaggedArray_Example\bin\Debug\net8.0\JaggedArray_Example.deps.json
+D:\Apsara-ConsoleApplications\JaggedArray_Example\JaggedArray_Example\bin\Debug\net8.0\JaggedArray_Example.runtimeconfig.json
+D:\Apsara-ConsoleApplications\JaggedArray_Example\JaggedArray_Example\bin\Debug\net8.0\JaggedArray_Example.dll
+D:\Apsara-ConsoleApplications\JaggedArray_Example\JaggedArray_Example\bin\Debug\net8.0\JaggedArray_Example.pdb
+D:\Apsara-ConsoleApplications\JaggedArray_Example\JaggedArray_Example\obj\Debug\net8.0\JaggedArray_Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apsara-ConsoleApplications\JaggedArray_Example\JaggedArray_Example\obj\Debug\net8.0\JaggedArray_Example.AssemblyInfoInputs.cache
+D:\Apsara-ConsoleApplications\JaggedArray_Example\JaggedArray_Example\obj\Debug\net8.0\JaggedArray_Example.AssemblyInfo.cs
+D:\Apsara-ConsoleApplications\JaggedArray_Example\JaggedArray_Example\obj\Debug\net8.0\JaggedArray_Example.csproj.CoreCompileInputs.cache
+D:\Apsara-ConsoleApplications\JaggedArray_Example\JaggedArray_Example\obj\Debug\net8.0\JaggedArray_Example.dll
+D:\Apsara-ConsoleApplications\JaggedArray_Example\JaggedArray_Example\obj\Debug\net8.0\refint\JaggedArray_Example.dll
+D:\Apsara-ConsoleApplications\JaggedArray_Example\JaggedArray_Example\obj\Debug\net8.0\JaggedArray_Example.pdb
+D:\Apsara-ConsoleApplications\JaggedArray_Example\JaggedArray_Example\obj\Debug\net8.0\JaggedArray_Example.genruntimeconfig.cache
+D:\Apsara-ConsoleApplications\JaggedArray_Example\JaggedArray_Example\obj\Debug\net8.0\ref\JaggedArray_Example.dll

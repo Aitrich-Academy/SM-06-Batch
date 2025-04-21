@@ -1,0 +1,14 @@
+D:\Apsara-ConsoleApplications\MDArray_Example\MDArray_Example\bin\Debug\net8.0\MDArray_Example.exe
+D:\Apsara-ConsoleApplications\MDArray_Example\MDArray_Example\bin\Debug\net8.0\MDArray_Example.deps.json
+D:\Apsara-ConsoleApplications\MDArray_Example\MDArray_Example\bin\Debug\net8.0\MDArray_Example.runtimeconfig.json
+D:\Apsara-ConsoleApplications\MDArray_Example\MDArray_Example\bin\Debug\net8.0\MDArray_Example.dll
+D:\Apsara-ConsoleApplications\MDArray_Example\MDArray_Example\bin\Debug\net8.0\MDArray_Example.pdb
+D:\Apsara-ConsoleApplications\MDArray_Example\MDArray_Example\obj\Debug\net8.0\MDArray_Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apsara-ConsoleApplications\MDArray_Example\MDArray_Example\obj\Debug\net8.0\MDArray_Example.AssemblyInfoInputs.cache
+D:\Apsara-ConsoleApplications\MDArray_Example\MDArray_Example\obj\Debug\net8.0\MDArray_Example.AssemblyInfo.cs
+D:\Apsara-ConsoleApplications\MDArray_Example\MDArray_Example\obj\Debug\net8.0\MDArray_Example.csproj.CoreCompileInputs.cache
+D:\Apsara-ConsoleApplications\MDArray_Example\MDArray_Example\obj\Debug\net8.0\MDArray_Example.dll
+D:\Apsara-ConsoleApplications\MDArray_Example\MDArray_Example\obj\Debug\net8.0\refint\MDArray_Example.dll
+D:\Apsara-ConsoleApplications\MDArray_Example\MDArray_Example\obj\Debug\net8.0\MDArray_Example.pdb
+D:\Apsara-ConsoleApplications\MDArray_Example\MDArray_Example\obj\Debug\net8.0\MDArray_Example.genruntimeconfig.cache
+D:\Apsara-ConsoleApplications\MDArray_Example\MDArray_Example\obj\Debug\net8.0\ref\MDArray_Example.dll

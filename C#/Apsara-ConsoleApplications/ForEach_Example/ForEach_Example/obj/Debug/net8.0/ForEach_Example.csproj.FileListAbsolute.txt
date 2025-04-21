@@ -1,0 +1,14 @@
+D:\Apsara-ConsoleApplications\ForEach_Example\ForEach_Example\bin\Debug\net8.0\ForEach_Example.exe
+D:\Apsara-ConsoleApplications\ForEach_Example\ForEach_Example\bin\Debug\net8.0\ForEach_Example.deps.json
+D:\Apsara-ConsoleApplications\ForEach_Example\ForEach_Example\bin\Debug\net8.0\ForEach_Example.runtimeconfig.json
+D:\Apsara-ConsoleApplications\ForEach_Example\ForEach_Example\bin\Debug\net8.0\ForEach_Example.dll
+D:\Apsara-ConsoleApplications\ForEach_Example\ForEach_Example\bin\Debug\net8.0\ForEach_Example.pdb
+D:\Apsara-ConsoleApplications\ForEach_Example\ForEach_Example\obj\Debug\net8.0\ForEach_Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apsara-ConsoleApplications\ForEach_Example\ForEach_Example\obj\Debug\net8.0\ForEach_Example.AssemblyInfoInputs.cache
+D:\Apsara-ConsoleApplications\ForEach_Example\ForEach_Example\obj\Debug\net8.0\ForEach_Example.AssemblyInfo.cs
+D:\Apsara-ConsoleApplications\ForEach_Example\ForEach_Example\obj\Debug\net8.0\ForEach_Example.csproj.CoreCompileInputs.cache
+D:\Apsara-ConsoleApplications\ForEach_Example\ForEach_Example\obj\Debug\net8.0\ForEach_Example.dll
+D:\Apsara-ConsoleApplications\ForEach_Example\ForEach_Example\obj\Debug\net8.0\refint\ForEach_Example.dll
+D:\Apsara-ConsoleApplications\ForEach_Example\ForEach_Example\obj\Debug\net8.0\ForEach_Example.pdb
+D:\Apsara-ConsoleApplications\ForEach_Example\ForEach_Example\obj\Debug\net8.0\ForEach_Example.genruntimeconfig.cache
+D:\Apsara-ConsoleApplications\ForEach_Example\ForEach_Example\obj\Debug\net8.0\ref\ForEach_Example.dll
