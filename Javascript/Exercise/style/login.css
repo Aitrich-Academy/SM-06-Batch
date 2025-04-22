@@ -8,9 +8,20 @@
   border-radius: 40px;
 }
 
+<<<<<<< HEAD
+.submit{
+    background-color: midnightblue;
+    border-radius: 18px;
+  
+    width: 100px;
+    height: 30px;
+    color: white;
+}    
+=======
 /* h2 {
   padding-top: 30px;
 }
+>>>>>>> 73585042aea84ccb85cc975513909007e2852a77
 
 
 .submit {

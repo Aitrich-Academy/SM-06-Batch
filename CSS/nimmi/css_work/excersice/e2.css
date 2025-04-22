@@ -22,6 +22,7 @@
     justify-content:center;
     gap: 20px;
     margin-top: 40px;
+    position: absolute;
    
 }
 /* .box2{
@@ -38,6 +39,8 @@
     margin-left: -323px;
     margin-top: 63px; */
     margin: 70px;
+    position: relative;
+    
 }
 .div2{
     background-color: green;
@@ -48,6 +51,7 @@
 
     margin-right: 40px; */
     margin: 66px;
+    position:absolute;
 }
 .div3{
     background-color: cornflowerblue;
