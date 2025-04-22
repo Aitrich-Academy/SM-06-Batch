@@ -1,0 +1,14 @@
+D:\Apsara-ConsoleApplications\Pet_Workshop2\Pet_Workshop2\bin\Debug\net8.0\Pet_Workshop2.exe
+D:\Apsara-ConsoleApplications\Pet_Workshop2\Pet_Workshop2\bin\Debug\net8.0\Pet_Workshop2.deps.json
+D:\Apsara-ConsoleApplications\Pet_Workshop2\Pet_Workshop2\bin\Debug\net8.0\Pet_Workshop2.runtimeconfig.json
+D:\Apsara-ConsoleApplications\Pet_Workshop2\Pet_Workshop2\bin\Debug\net8.0\Pet_Workshop2.dll
+D:\Apsara-ConsoleApplications\Pet_Workshop2\Pet_Workshop2\bin\Debug\net8.0\Pet_Workshop2.pdb
+D:\Apsara-ConsoleApplications\Pet_Workshop2\Pet_Workshop2\obj\Debug\net8.0\Pet_Workshop2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apsara-ConsoleApplications\Pet_Workshop2\Pet_Workshop2\obj\Debug\net8.0\Pet_Workshop2.AssemblyInfoInputs.cache
+D:\Apsara-ConsoleApplications\Pet_Workshop2\Pet_Workshop2\obj\Debug\net8.0\Pet_Workshop2.AssemblyInfo.cs
+D:\Apsara-ConsoleApplications\Pet_Workshop2\Pet_Workshop2\obj\Debug\net8.0\Pet_Workshop2.csproj.CoreCompileInputs.cache
+D:\Apsara-ConsoleApplications\Pet_Workshop2\Pet_Workshop2\obj\Debug\net8.0\Pet_Workshop2.dll
+D:\Apsara-ConsoleApplications\Pet_Workshop2\Pet_Workshop2\obj\Debug\net8.0\refint\Pet_Workshop2.dll
+D:\Apsara-ConsoleApplications\Pet_Workshop2\Pet_Workshop2\obj\Debug\net8.0\Pet_Workshop2.pdb
+D:\Apsara-ConsoleApplications\Pet_Workshop2\Pet_Workshop2\obj\Debug\net8.0\Pet_Workshop2.genruntimeconfig.cache
+D:\Apsara-ConsoleApplications\Pet_Workshop2\Pet_Workshop2\obj\Debug\net8.0\ref\Pet_Workshop2.dll

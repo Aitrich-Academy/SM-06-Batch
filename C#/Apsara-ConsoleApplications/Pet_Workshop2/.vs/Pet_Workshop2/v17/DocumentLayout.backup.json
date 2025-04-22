@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Apsara-ConsoleApplications\\Pet_Workshop2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0ADFAD-8D4E-4350-9720-22F85E8CD7CB}|Pet_Workshop2\\Pet_Workshop2.csproj|d:\\apsara-consoleapplications\\pet_workshop2\\pet_workshop2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0ADFAD-8D4E-4350-9720-22F85E8CD7CB}|Pet_Workshop2\\Pet_Workshop2.csproj|solutionrelative:pet_workshop2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0ADFAD-8D4E-4350-9720-22F85E8CD7CB}|Pet_Workshop2\\Pet_Workshop2.csproj|d:\\apsara-consoleapplications\\pet_workshop2\\pet_workshop2\\enums\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0ADFAD-8D4E-4350-9720-22F85E8CD7CB}|Pet_Workshop2\\Pet_Workshop2.csproj|solutionrelative:pet_workshop2\\enums\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0ADFAD-8D4E-4350-9720-22F85E8CD7CB}|Pet_Workshop2\\Pet_Workshop2.csproj|d:\\apsara-consoleapplications\\pet_workshop2\\pet_workshop2\\enums\\petcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0ADFAD-8D4E-4350-9720-22F85E8CD7CB}|Pet_Workshop2\\Pet_Workshop2.csproj|solutionrelative:pet_workshop2\\enums\\petcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Apsara-ConsoleApplications\\Pet_Workshop2\\Pet_Workshop2\\Enums\\Class1.cs",
+              "RelativeDocumentMoniker": "Pet_Workshop2\\Enums\\Class1.cs",
+              "ToolTip": "D:\\Apsara-ConsoleApplications\\Pet_Workshop2\\Pet_Workshop2\\Enums\\Class1.cs",
+              "RelativeToolTip": "Pet_Workshop2\\Enums\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T05:53:38.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PetCategory.cs",
+              "DocumentMoniker": "D:\\Apsara-ConsoleApplications\\Pet_Workshop2\\Pet_Workshop2\\Enums\\PetCategory.cs",
+              "RelativeDocumentMoniker": "Pet_Workshop2\\Enums\\PetCategory.cs",
+              "ToolTip": "D:\\Apsara-ConsoleApplications\\Pet_Workshop2\\Pet_Workshop2\\Enums\\PetCategory.cs",
+              "RelativeToolTip": "Pet_Workshop2\\Enums\\PetCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:20:41.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Apsara-ConsoleApplications\\Pet_Workshop2\\Pet_Workshop2\\Program.cs",
+              "RelativeDocumentMoniker": "Pet_Workshop2\\Program.cs",
+              "ToolTip": "D:\\Apsara-ConsoleApplications\\Pet_Workshop2\\Pet_Workshop2\\Program.cs",
+              "RelativeToolTip": "Pet_Workshop2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:19:36.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 90,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

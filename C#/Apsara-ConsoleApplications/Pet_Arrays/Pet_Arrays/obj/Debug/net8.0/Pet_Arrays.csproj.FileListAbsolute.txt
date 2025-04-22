@@ -1,0 +1,14 @@
+D:\Apsara-ConsoleApplications\Pet_Arrays\Pet_Arrays\bin\Debug\net8.0\Pet_Arrays.exe
+D:\Apsara-ConsoleApplications\Pet_Arrays\Pet_Arrays\bin\Debug\net8.0\Pet_Arrays.deps.json
+D:\Apsara-ConsoleApplications\Pet_Arrays\Pet_Arrays\bin\Debug\net8.0\Pet_Arrays.runtimeconfig.json
+D:\Apsara-ConsoleApplications\Pet_Arrays\Pet_Arrays\bin\Debug\net8.0\Pet_Arrays.dll
+D:\Apsara-ConsoleApplications\Pet_Arrays\Pet_Arrays\bin\Debug\net8.0\Pet_Arrays.pdb
+D:\Apsara-ConsoleApplications\Pet_Arrays\Pet_Arrays\obj\Debug\net8.0\Pet_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apsara-ConsoleApplications\Pet_Arrays\Pet_Arrays\obj\Debug\net8.0\Pet_Arrays.AssemblyInfoInputs.cache
+D:\Apsara-ConsoleApplications\Pet_Arrays\Pet_Arrays\obj\Debug\net8.0\Pet_Arrays.AssemblyInfo.cs
+D:\Apsara-ConsoleApplications\Pet_Arrays\Pet_Arrays\obj\Debug\net8.0\Pet_Arrays.csproj.CoreCompileInputs.cache
+D:\Apsara-ConsoleApplications\Pet_Arrays\Pet_Arrays\obj\Debug\net8.0\Pet_Arrays.dll
+D:\Apsara-ConsoleApplications\Pet_Arrays\Pet_Arrays\obj\Debug\net8.0\refint\Pet_Arrays.dll
+D:\Apsara-ConsoleApplications\Pet_Arrays\Pet_Arrays\obj\Debug\net8.0\Pet_Arrays.pdb
+D:\Apsara-ConsoleApplications\Pet_Arrays\Pet_Arrays\obj\Debug\net8.0\Pet_Arrays.genruntimeconfig.cache
+D:\Apsara-ConsoleApplications\Pet_Arrays\Pet_Arrays\obj\Debug\net8.0\ref\Pet_Arrays.dll

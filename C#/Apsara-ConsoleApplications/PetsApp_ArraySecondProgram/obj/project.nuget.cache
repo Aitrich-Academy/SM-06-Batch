@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "PmLnOJ/V/7Q=",
+  "success": true,
+  "projectFilePath": "D:\\.NetCore-SM-02\\5. C#\\Workshop\\PetsApp_ArraySecondProgram\\PetsApp_ArraySecondProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Apsara\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\Apsara\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\Apsara\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\Apsara\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\.NetCore-SM-02\\5. C#\\Workshop\\PetsApp_ArraySecondProgram\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
+}

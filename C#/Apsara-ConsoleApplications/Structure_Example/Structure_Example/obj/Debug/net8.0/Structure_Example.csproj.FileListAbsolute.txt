@@ -1,0 +1,14 @@
+D:\Apsara-ConsoleApplications\Structure_Example\Structure_Example\bin\Debug\net8.0\Structure_Example.exe
+D:\Apsara-ConsoleApplications\Structure_Example\Structure_Example\bin\Debug\net8.0\Structure_Example.deps.json
+D:\Apsara-ConsoleApplications\Structure_Example\Structure_Example\bin\Debug\net8.0\Structure_Example.runtimeconfig.json
+D:\Apsara-ConsoleApplications\Structure_Example\Structure_Example\bin\Debug\net8.0\Structure_Example.dll
+D:\Apsara-ConsoleApplications\Structure_Example\Structure_Example\bin\Debug\net8.0\Structure_Example.pdb
+D:\Apsara-ConsoleApplications\Structure_Example\Structure_Example\obj\Debug\net8.0\Structure_Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apsara-ConsoleApplications\Structure_Example\Structure_Example\obj\Debug\net8.0\Structure_Example.AssemblyInfoInputs.cache
+D:\Apsara-ConsoleApplications\Structure_Example\Structure_Example\obj\Debug\net8.0\Structure_Example.AssemblyInfo.cs
+D:\Apsara-ConsoleApplications\Structure_Example\Structure_Example\obj\Debug\net8.0\Structure_Example.csproj.CoreCompileInputs.cache
+D:\Apsara-ConsoleApplications\Structure_Example\Structure_Example\obj\Debug\net8.0\Structure_Example.dll
+D:\Apsara-ConsoleApplications\Structure_Example\Structure_Example\obj\Debug\net8.0\refint\Structure_Example.dll
+D:\Apsara-ConsoleApplications\Structure_Example\Structure_Example\obj\Debug\net8.0\Structure_Example.pdb
+D:\Apsara-ConsoleApplications\Structure_Example\Structure_Example\obj\Debug\net8.0\Structure_Example.genruntimeconfig.cache
+D:\Apsara-ConsoleApplications\Structure_Example\Structure_Example\obj\Debug\net8.0\ref\Structure_Example.dll
