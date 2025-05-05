@@ -1,0 +1,14 @@
+D:\class_object_method\class_object_method\bin\Debug\net8.0\class_object_method.exe
+D:\class_object_method\class_object_method\bin\Debug\net8.0\class_object_method.deps.json
+D:\class_object_method\class_object_method\bin\Debug\net8.0\class_object_method.runtimeconfig.json
+D:\class_object_method\class_object_method\bin\Debug\net8.0\class_object_method.dll
+D:\class_object_method\class_object_method\bin\Debug\net8.0\class_object_method.pdb
+D:\class_object_method\class_object_method\obj\Debug\net8.0\class_object_method.GeneratedMSBuildEditorConfig.editorconfig
+D:\class_object_method\class_object_method\obj\Debug\net8.0\class_object_method.AssemblyInfoInputs.cache
+D:\class_object_method\class_object_method\obj\Debug\net8.0\class_object_method.AssemblyInfo.cs
+D:\class_object_method\class_object_method\obj\Debug\net8.0\class_object_method.csproj.CoreCompileInputs.cache
+D:\class_object_method\class_object_method\obj\Debug\net8.0\class_object_method.dll
+D:\class_object_method\class_object_method\obj\Debug\net8.0\refint\class_object_method.dll
+D:\class_object_method\class_object_method\obj\Debug\net8.0\class_object_method.pdb
+D:\class_object_method\class_object_method\obj\Debug\net8.0\class_object_method.genruntimeconfig.cache
+D:\class_object_method\class_object_method\obj\Debug\net8.0\ref\class_object_method.dll
