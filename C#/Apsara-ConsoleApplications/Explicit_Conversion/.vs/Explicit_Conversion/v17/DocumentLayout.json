@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Apsara-ConsoleApplications\\Explicit_Conversion\\",
+  "WorkspaceRootPath": "D:\\SM-06-Batch\\C#\\Apsara-ConsoleApplications\\Explicit_Conversion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D37EDAFA-4FBF-4037-9A54-94516DE66D86}|Explicit_Conversion\\Explicit_Conversion.csproj|d:\\apsara-consoleapplications\\explicit_conversion\\explicit_conversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D37EDAFA-4FBF-4037-9A54-94516DE66D86}|Explicit_Conversion\\Explicit_Conversion.csproj|d:\\sm-06-batch\\c#\\apsara-consoleapplications\\explicit_conversion\\explicit_conversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D37EDAFA-4FBF-4037-9A54-94516DE66D86}|Explicit_Conversion\\Explicit_Conversion.csproj|solutionrelative:explicit_conversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Apsara-ConsoleApplications\\Explicit_Conversion\\Explicit_Conversion\\Program.cs",
+              "DocumentMoniker": "D:\\SM-06-Batch\\C#\\Apsara-ConsoleApplications\\Explicit_Conversion\\Explicit_Conversion\\Program.cs",
               "RelativeDocumentMoniker": "Explicit_Conversion\\Program.cs",
-              "ToolTip": "D:\\Apsara-ConsoleApplications\\Explicit_Conversion\\Explicit_Conversion\\Program.cs",
+              "ToolTip": "D:\\SM-06-Batch\\C#\\Apsara-ConsoleApplications\\Explicit_Conversion\\Explicit_Conversion\\Program.cs",
               "RelativeToolTip": "Explicit_Conversion\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T04:42:35.021Z",
               "EditorCaption": ""
