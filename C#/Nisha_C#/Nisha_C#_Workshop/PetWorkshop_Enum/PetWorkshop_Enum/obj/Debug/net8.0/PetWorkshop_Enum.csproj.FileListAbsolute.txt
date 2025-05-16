@@ -1,0 +1,14 @@
+D:\ConsoleApplication_c#\C#_Workshop\PetWorkshop_Enum\PetWorkshop_Enum\bin\Debug\net8.0\PetWorkshop_Enum.exe
+D:\ConsoleApplication_c#\C#_Workshop\PetWorkshop_Enum\PetWorkshop_Enum\bin\Debug\net8.0\PetWorkshop_Enum.deps.json
+D:\ConsoleApplication_c#\C#_Workshop\PetWorkshop_Enum\PetWorkshop_Enum\bin\Debug\net8.0\PetWorkshop_Enum.runtimeconfig.json
+D:\ConsoleApplication_c#\C#_Workshop\PetWorkshop_Enum\PetWorkshop_Enum\bin\Debug\net8.0\PetWorkshop_Enum.dll
+D:\ConsoleApplication_c#\C#_Workshop\PetWorkshop_Enum\PetWorkshop_Enum\bin\Debug\net8.0\PetWorkshop_Enum.pdb
+D:\ConsoleApplication_c#\C#_Workshop\PetWorkshop_Enum\PetWorkshop_Enum\obj\Debug\net8.0\PetWorkshop_Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApplication_c#\C#_Workshop\PetWorkshop_Enum\PetWorkshop_Enum\obj\Debug\net8.0\PetWorkshop_Enum.AssemblyInfoInputs.cache
+D:\ConsoleApplication_c#\C#_Workshop\PetWorkshop_Enum\PetWorkshop_Enum\obj\Debug\net8.0\PetWorkshop_Enum.AssemblyInfo.cs
+D:\ConsoleApplication_c#\C#_Workshop\PetWorkshop_Enum\PetWorkshop_Enum\obj\Debug\net8.0\PetWorkshop_Enum.csproj.CoreCompileInputs.cache
+D:\ConsoleApplication_c#\C#_Workshop\PetWorkshop_Enum\PetWorkshop_Enum\obj\Debug\net8.0\PetWorkshop_Enum.dll
+D:\ConsoleApplication_c#\C#_Workshop\PetWorkshop_Enum\PetWorkshop_Enum\obj\Debug\net8.0\refint\PetWorkshop_Enum.dll
+D:\ConsoleApplication_c#\C#_Workshop\PetWorkshop_Enum\PetWorkshop_Enum\obj\Debug\net8.0\PetWorkshop_Enum.pdb
+D:\ConsoleApplication_c#\C#_Workshop\PetWorkshop_Enum\PetWorkshop_Enum\obj\Debug\net8.0\PetWorkshop_Enum.genruntimeconfig.cache
+D:\ConsoleApplication_c#\C#_Workshop\PetWorkshop_Enum\PetWorkshop_Enum\obj\Debug\net8.0\ref\PetWorkshop_Enum.dll
