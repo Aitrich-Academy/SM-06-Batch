@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PetWorkshop_Enum/1.0.0": {
+        "runtime": {
+          "PetWorkshop_Enum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PetWorkshop_Enum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
