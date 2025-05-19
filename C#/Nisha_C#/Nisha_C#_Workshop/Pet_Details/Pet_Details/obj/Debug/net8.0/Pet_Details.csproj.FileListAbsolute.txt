@@ -1,0 +1,14 @@
+D:\ConsoleApplication_c#\C#_Workshop\Pet_Details\Pet_Details\bin\Debug\net8.0\Pet_Details.exe
+D:\ConsoleApplication_c#\C#_Workshop\Pet_Details\Pet_Details\bin\Debug\net8.0\Pet_Details.deps.json
+D:\ConsoleApplication_c#\C#_Workshop\Pet_Details\Pet_Details\bin\Debug\net8.0\Pet_Details.runtimeconfig.json
+D:\ConsoleApplication_c#\C#_Workshop\Pet_Details\Pet_Details\bin\Debug\net8.0\Pet_Details.dll
+D:\ConsoleApplication_c#\C#_Workshop\Pet_Details\Pet_Details\bin\Debug\net8.0\Pet_Details.pdb
+D:\ConsoleApplication_c#\C#_Workshop\Pet_Details\Pet_Details\obj\Debug\net8.0\Pet_Details.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApplication_c#\C#_Workshop\Pet_Details\Pet_Details\obj\Debug\net8.0\Pet_Details.AssemblyInfoInputs.cache
+D:\ConsoleApplication_c#\C#_Workshop\Pet_Details\Pet_Details\obj\Debug\net8.0\Pet_Details.AssemblyInfo.cs
+D:\ConsoleApplication_c#\C#_Workshop\Pet_Details\Pet_Details\obj\Debug\net8.0\Pet_Details.csproj.CoreCompileInputs.cache
+D:\ConsoleApplication_c#\C#_Workshop\Pet_Details\Pet_Details\obj\Debug\net8.0\Pet_Details.dll
+D:\ConsoleApplication_c#\C#_Workshop\Pet_Details\Pet_Details\obj\Debug\net8.0\refint\Pet_Details.dll
+D:\ConsoleApplication_c#\C#_Workshop\Pet_Details\Pet_Details\obj\Debug\net8.0\Pet_Details.pdb
+D:\ConsoleApplication_c#\C#_Workshop\Pet_Details\Pet_Details\obj\Debug\net8.0\Pet_Details.genruntimeconfig.cache
+D:\ConsoleApplication_c#\C#_Workshop\Pet_Details\Pet_Details\obj\Debug\net8.0\ref\Pet_Details.dll

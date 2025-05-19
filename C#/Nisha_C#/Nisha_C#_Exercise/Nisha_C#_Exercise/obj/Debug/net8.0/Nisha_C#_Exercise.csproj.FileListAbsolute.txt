@@ -1,0 +1,14 @@
+D:\ConsoleApplication_c#\C#_Workshop\Nisha_C#_Exercise\Nisha_C#_Exercise\bin\Debug\net8.0\Nisha_C#_Exercise.exe
+D:\ConsoleApplication_c#\C#_Workshop\Nisha_C#_Exercise\Nisha_C#_Exercise\bin\Debug\net8.0\Nisha_C#_Exercise.deps.json
+D:\ConsoleApplication_c#\C#_Workshop\Nisha_C#_Exercise\Nisha_C#_Exercise\bin\Debug\net8.0\Nisha_C#_Exercise.runtimeconfig.json
+D:\ConsoleApplication_c#\C#_Workshop\Nisha_C#_Exercise\Nisha_C#_Exercise\bin\Debug\net8.0\Nisha_C#_Exercise.dll
+D:\ConsoleApplication_c#\C#_Workshop\Nisha_C#_Exercise\Nisha_C#_Exercise\bin\Debug\net8.0\Nisha_C#_Exercise.pdb
+D:\ConsoleApplication_c#\C#_Workshop\Nisha_C#_Exercise\Nisha_C#_Exercise\obj\Debug\net8.0\Nisha_C#_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApplication_c#\C#_Workshop\Nisha_C#_Exercise\Nisha_C#_Exercise\obj\Debug\net8.0\Nisha_C#_Exercise.AssemblyInfoInputs.cache
+D:\ConsoleApplication_c#\C#_Workshop\Nisha_C#_Exercise\Nisha_C#_Exercise\obj\Debug\net8.0\Nisha_C#_Exercise.AssemblyInfo.cs
+D:\ConsoleApplication_c#\C#_Workshop\Nisha_C#_Exercise\Nisha_C#_Exercise\obj\Debug\net8.0\Nisha_C#_Exercise.csproj.CoreCompileInputs.cache
+D:\ConsoleApplication_c#\C#_Workshop\Nisha_C#_Exercise\Nisha_C#_Exercise\obj\Debug\net8.0\Nisha_C#_Exercise.dll
+D:\ConsoleApplication_c#\C#_Workshop\Nisha_C#_Exercise\Nisha_C#_Exercise\obj\Debug\net8.0\refint\Nisha_C#_Exercise.dll
+D:\ConsoleApplication_c#\C#_Workshop\Nisha_C#_Exercise\Nisha_C#_Exercise\obj\Debug\net8.0\Nisha_C#_Exercise.pdb
+D:\ConsoleApplication_c#\C#_Workshop\Nisha_C#_Exercise\Nisha_C#_Exercise\obj\Debug\net8.0\Nisha_C#_Exercise.genruntimeconfig.cache
+D:\ConsoleApplication_c#\C#_Workshop\Nisha_C#_Exercise\Nisha_C#_Exercise\obj\Debug\net8.0\ref\Nisha_C#_Exercise.dll

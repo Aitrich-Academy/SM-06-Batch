@@ -1,0 +1,14 @@
+D:\ConsoleApplication_c#\C#_Workshop\petArray_Enum\petArray_Enum\bin\Debug\net8.0\petArray_Enum.exe
+D:\ConsoleApplication_c#\C#_Workshop\petArray_Enum\petArray_Enum\bin\Debug\net8.0\petArray_Enum.deps.json
+D:\ConsoleApplication_c#\C#_Workshop\petArray_Enum\petArray_Enum\bin\Debug\net8.0\petArray_Enum.runtimeconfig.json
+D:\ConsoleApplication_c#\C#_Workshop\petArray_Enum\petArray_Enum\bin\Debug\net8.0\petArray_Enum.dll
+D:\ConsoleApplication_c#\C#_Workshop\petArray_Enum\petArray_Enum\bin\Debug\net8.0\petArray_Enum.pdb
+D:\ConsoleApplication_c#\C#_Workshop\petArray_Enum\petArray_Enum\obj\Debug\net8.0\petArray_Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApplication_c#\C#_Workshop\petArray_Enum\petArray_Enum\obj\Debug\net8.0\petArray_Enum.AssemblyInfoInputs.cache
+D:\ConsoleApplication_c#\C#_Workshop\petArray_Enum\petArray_Enum\obj\Debug\net8.0\petArray_Enum.AssemblyInfo.cs
+D:\ConsoleApplication_c#\C#_Workshop\petArray_Enum\petArray_Enum\obj\Debug\net8.0\petArray_Enum.csproj.CoreCompileInputs.cache
+D:\ConsoleApplication_c#\C#_Workshop\petArray_Enum\petArray_Enum\obj\Debug\net8.0\petArray_Enum.dll
+D:\ConsoleApplication_c#\C#_Workshop\petArray_Enum\petArray_Enum\obj\Debug\net8.0\refint\petArray_Enum.dll
+D:\ConsoleApplication_c#\C#_Workshop\petArray_Enum\petArray_Enum\obj\Debug\net8.0\petArray_Enum.pdb
+D:\ConsoleApplication_c#\C#_Workshop\petArray_Enum\petArray_Enum\obj\Debug\net8.0\petArray_Enum.genruntimeconfig.cache
+D:\ConsoleApplication_c#\C#_Workshop\petArray_Enum\petArray_Enum\obj\Debug\net8.0\ref\petArray_Enum.dll

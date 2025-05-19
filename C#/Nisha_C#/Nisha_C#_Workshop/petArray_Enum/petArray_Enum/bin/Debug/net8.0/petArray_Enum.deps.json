@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "petArray_Enum/1.0.0": {
+        "runtime": {
+          "petArray_Enum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "petArray_Enum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

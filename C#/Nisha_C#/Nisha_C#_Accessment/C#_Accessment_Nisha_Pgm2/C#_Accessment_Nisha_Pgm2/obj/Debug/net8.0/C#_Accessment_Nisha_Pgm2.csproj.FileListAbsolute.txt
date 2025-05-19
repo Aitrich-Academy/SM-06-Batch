@@ -1,0 +1,15 @@
+D:\SM-06-Batch\C#\Nisha_C#\Nisha_C#_Accessment\C#_Accessment_Nisha_Pgm2\C#_Accessment_Nisha_Pgm2\bin\Debug\net8.0\C#_Accessment_Nisha_Pgm2.exe
+D:\SM-06-Batch\C#\Nisha_C#\Nisha_C#_Accessment\C#_Accessment_Nisha_Pgm2\C#_Accessment_Nisha_Pgm2\bin\Debug\net8.0\C#_Accessment_Nisha_Pgm2.deps.json
+D:\SM-06-Batch\C#\Nisha_C#\Nisha_C#_Accessment\C#_Accessment_Nisha_Pgm2\C#_Accessment_Nisha_Pgm2\bin\Debug\net8.0\C#_Accessment_Nisha_Pgm2.runtimeconfig.json
+D:\SM-06-Batch\C#\Nisha_C#\Nisha_C#_Accessment\C#_Accessment_Nisha_Pgm2\C#_Accessment_Nisha_Pgm2\bin\Debug\net8.0\C#_Accessment_Nisha_Pgm2.dll
+D:\SM-06-Batch\C#\Nisha_C#\Nisha_C#_Accessment\C#_Accessment_Nisha_Pgm2\C#_Accessment_Nisha_Pgm2\bin\Debug\net8.0\C#_Accessment_Nisha_Pgm2.pdb
+D:\SM-06-Batch\C#\Nisha_C#\Nisha_C#_Accessment\C#_Accessment_Nisha_Pgm2\C#_Accessment_Nisha_Pgm2\obj\Debug\net8.0\C#_Accessment_Nisha_Pgm2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SM-06-Batch\C#\Nisha_C#\Nisha_C#_Accessment\C#_Accessment_Nisha_Pgm2\C#_Accessment_Nisha_Pgm2\obj\Debug\net8.0\C#_Accessment_Nisha_Pgm2.AssemblyInfoInputs.cache
+D:\SM-06-Batch\C#\Nisha_C#\Nisha_C#_Accessment\C#_Accessment_Nisha_Pgm2\C#_Accessment_Nisha_Pgm2\obj\Debug\net8.0\C#_Accessment_Nisha_Pgm2.AssemblyInfo.cs
+D:\SM-06-Batch\C#\Nisha_C#\Nisha_C#_Accessment\C#_Accessment_Nisha_Pgm2\C#_Accessment_Nisha_Pgm2\obj\Debug\net8.0\C#_Accessment_Nisha_Pgm2.csproj.CoreCompileInputs.cache
+D:\SM-06-Batch\C#\Nisha_C#\Nisha_C#_Accessment\C#_Accessment_Nisha_Pgm2\C#_Accessment_Nisha_Pgm2\obj\Debug\net8.0\C#_Accessment_Nisha_Pgm2.sourcelink.json
+D:\SM-06-Batch\C#\Nisha_C#\Nisha_C#_Accessment\C#_Accessment_Nisha_Pgm2\C#_Accessment_Nisha_Pgm2\obj\Debug\net8.0\C#_Accessment_Nisha_Pgm2.dll
+D:\SM-06-Batch\C#\Nisha_C#\Nisha_C#_Accessment\C#_Accessment_Nisha_Pgm2\C#_Accessment_Nisha_Pgm2\obj\Debug\net8.0\refint\C#_Accessment_Nisha_Pgm2.dll
+D:\SM-06-Batch\C#\Nisha_C#\Nisha_C#_Accessment\C#_Accessment_Nisha_Pgm2\C#_Accessment_Nisha_Pgm2\obj\Debug\net8.0\C#_Accessment_Nisha_Pgm2.pdb
+D:\SM-06-Batch\C#\Nisha_C#\Nisha_C#_Accessment\C#_Accessment_Nisha_Pgm2\C#_Accessment_Nisha_Pgm2\obj\Debug\net8.0\C#_Accessment_Nisha_Pgm2.genruntimeconfig.cache
+D:\SM-06-Batch\C#\Nisha_C#\Nisha_C#_Accessment\C#_Accessment_Nisha_Pgm2\C#_Accessment_Nisha_Pgm2\obj\Debug\net8.0\ref\C#_Accessment_Nisha_Pgm2.dll
