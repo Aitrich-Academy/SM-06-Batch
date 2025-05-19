@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET_3MONTH\\Asp.netCore-3Months\\C#\\3. Collections\\Non-Generic\\HashTable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B51F3379-CDB7-4603-BE21-AD5D6842B9EF}|HashTable\\NonGeneric.csproj|d:\\asp.net_3month\\asp.netcore-3months\\c#\\3. collections\\non-generic\\hashtable\\hashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51F3379-CDB7-4603-BE21-AD5D6842B9EF}|HashTable\\NonGeneric.csproj|solutionrelative:hashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 523,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET_3MONTH\\Asp.netCore-3Months\\C#\\3. Collections\\Non-Generic\\HashTable\\HashTable\\Program.cs",
+              "RelativeDocumentMoniker": "HashTable\\Program.cs",
+              "ToolTip": "D:\\ASP.NET_3MONTH\\Asp.netCore-3Months\\C#\\3. Collections\\Non-Generic\\HashTable\\HashTable\\Program.cs",
+              "RelativeToolTip": "HashTable\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T07:57:23.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
