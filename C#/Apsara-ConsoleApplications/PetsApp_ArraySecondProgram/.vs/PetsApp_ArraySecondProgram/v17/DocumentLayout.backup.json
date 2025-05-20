@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ASP.NET_3MONTH\\Asp.netCore-3Months\\C#\\1. C# Basics\\Workshop\\PetsApp_ArraySecondProgram\\",
+  "WorkspaceRootPath": "D:\\SM-06-Batch\\C#\\Apsara-ConsoleApplications\\PetsApp_ArraySecondProgram\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{478D5C25-8C63-47E5-9B08-8D4515685980}|PetsApp_ArraySecondProgram.csproj|d:\\asp.net_3month\\asp.netcore-3months\\c#\\1. c# basics\\workshop\\petsapp_arraysecondprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{478D5C25-8C63-47E5-9B08-8D4515685980}|PetsApp_ArraySecondProgram.csproj|d:\\sm-06-batch\\c#\\apsara-consoleapplications\\petsapp_arraysecondprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{478D5C25-8C63-47E5-9B08-8D4515685980}|PetsApp_ArraySecondProgram.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ASP.NET_3MONTH\\Asp.netCore-3Months\\C#\\1. C# Basics\\Workshop\\PetsApp_ArraySecondProgram\\Program.cs",
+              "DocumentMoniker": "D:\\SM-06-Batch\\C#\\Apsara-ConsoleApplications\\PetsApp_ArraySecondProgram\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\ASP.NET_3MONTH\\Asp.netCore-3Months\\C#\\1. C# Basics\\Workshop\\PetsApp_ArraySecondProgram\\Program.cs",
+              "ToolTip": "D:\\SM-06-Batch\\C#\\Apsara-ConsoleApplications\\PetsApp_ArraySecondProgram\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T04:53:21.316Z",
               "EditorCaption": ""

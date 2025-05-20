@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ConsoleApplication_c#\\C#_Workshop\\Pet_Details\\Pet_Details\\Pet_Details.csproj": {}
+    "D:\\SM-06-Batch\\C#\\Nisha_C#\\Nisha_C#_Workshop\\Pet_Details\\Pet_Details\\Pet_Details.csproj": {}
   },
   "projects": {
-    "D:\\ConsoleApplication_c#\\C#_Workshop\\Pet_Details\\Pet_Details\\Pet_Details.csproj": {
+    "D:\\SM-06-Batch\\C#\\Nisha_C#\\Nisha_C#_Workshop\\Pet_Details\\Pet_Details\\Pet_Details.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ConsoleApplication_c#\\C#_Workshop\\Pet_Details\\Pet_Details\\Pet_Details.csproj",
+        "projectUniqueName": "D:\\SM-06-Batch\\C#\\Nisha_C#\\Nisha_C#_Workshop\\Pet_Details\\Pet_Details\\Pet_Details.csproj",
         "projectName": "Pet_Details",
-        "projectPath": "D:\\ConsoleApplication_c#\\C#_Workshop\\Pet_Details\\Pet_Details\\Pet_Details.csproj",
-        "packagesPath": "C:\\Users\\cloud\\.nuget\\packages\\",
-        "outputPath": "D:\\ConsoleApplication_c#\\C#_Workshop\\Pet_Details\\Pet_Details\\obj\\",
+        "projectPath": "D:\\SM-06-Batch\\C#\\Nisha_C#\\Nisha_C#_Workshop\\Pet_Details\\Pet_Details\\Pet_Details.csproj",
+        "packagesPath": "C:\\Users\\NIMISHA\\.nuget\\packages\\",
+        "outputPath": "D:\\SM-06-Batch\\C#\\Nisha_C#\\Nisha_C#_Workshop\\Pet_Details\\Pet_Details\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cloud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NIMISHA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PetsApp_ArraySecondProgram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+368f7feae54c083a27d4a3ff8816de3d74c7fd17")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b70c7698f61e9461cdbba8e6595b5c0759b02809")]
 [assembly: System.Reflection.AssemblyProductAttribute("PetsApp_ArraySecondProgram")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PetsApp_ArraySecondProgram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
