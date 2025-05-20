@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\console app\\PetArray\\PetArray\\PetArray.csproj",
+      "projectUniqueName": "D:\\SM-06-Batch\\C#\\Nimisha_c#\\PetArray\\PetArray\\PetArray.csproj",
       "projectName": "PetArray",
-      "projectPath": "D:\\console app\\PetArray\\PetArray\\PetArray.csproj",
+      "projectPath": "D:\\SM-06-Batch\\C#\\Nimisha_c#\\PetArray\\PetArray\\PetArray.csproj",
       "packagesPath": "C:\\Users\\NIMISHA\\.nuget\\packages\\",
-      "outputPath": "D:\\console app\\PetArray\\PetArray\\obj\\",
+      "outputPath": "D:\\SM-06-Batch\\C#\\Nimisha_c#\\PetArray\\PetArray\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

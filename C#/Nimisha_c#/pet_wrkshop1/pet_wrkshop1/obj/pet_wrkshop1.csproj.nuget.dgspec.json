@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\console app\\pet_wrkshop1\\pet_wrkshop1\\pet_wrkshop1.csproj": {}
+    "D:\\SM-06-Batch\\C#\\Nimisha_c#\\pet_wrkshop1\\pet_wrkshop1\\pet_wrkshop1.csproj": {}
   },
   "projects": {
-    "D:\\console app\\pet_wrkshop1\\pet_wrkshop1\\pet_wrkshop1.csproj": {
+    "D:\\SM-06-Batch\\C#\\Nimisha_c#\\pet_wrkshop1\\pet_wrkshop1\\pet_wrkshop1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\console app\\pet_wrkshop1\\pet_wrkshop1\\pet_wrkshop1.csproj",
+        "projectUniqueName": "D:\\SM-06-Batch\\C#\\Nimisha_c#\\pet_wrkshop1\\pet_wrkshop1\\pet_wrkshop1.csproj",
         "projectName": "pet_wrkshop1",
-        "projectPath": "D:\\console app\\pet_wrkshop1\\pet_wrkshop1\\pet_wrkshop1.csproj",
+        "projectPath": "D:\\SM-06-Batch\\C#\\Nimisha_c#\\pet_wrkshop1\\pet_wrkshop1\\pet_wrkshop1.csproj",
         "packagesPath": "C:\\Users\\NIMISHA\\.nuget\\packages\\",
-        "outputPath": "D:\\console app\\pet_wrkshop1\\pet_wrkshop1\\obj\\",
+        "outputPath": "D:\\SM-06-Batch\\C#\\Nimisha_c#\\pet_wrkshop1\\pet_wrkshop1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

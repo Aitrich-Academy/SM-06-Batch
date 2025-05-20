@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\ConsoleApplication_c#\\C#_Workshop\\petArray_Enum\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CB00FC3-3F72-49A7-A976-CF07E6BE7AE2}|petArray_Enum\\petArray_Enum.csproj|d:\\consoleapplication_c#\\c#_workshop\\petarray_enum\\petarray_enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB00FC3-3F72-49A7-A976-CF07E6BE7AE2}|petArray_Enum\\petArray_Enum.csproj|solutionrelative:petarray_enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4CB00FC3-3F72-49A7-A976-CF07E6BE7AE2}|petArray_Enum\\petArray_Enum.csproj|d:\\consoleapplication_c#\\c#_workshop\\petarray_enum\\petarray_enum\\enum\\petcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CB00FC3-3F72-49A7-A976-CF07E6BE7AE2}|petArray_Enum\\petArray_Enum.csproj|solutionrelative:petarray_enum\\enum\\petcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB00FC3-3F72-49A7-A976-CF07E6BE7AE2}|petArray_Enum\\petArray_Enum.csproj|d:\\consoleapplication_c#\\c#_workshop\\petarray_enum\\petarray_enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB00FC3-3F72-49A7-A976-CF07E6BE7AE2}|petArray_Enum\\petArray_Enum.csproj|solutionrelative:petarray_enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4CB00FC3-3F72-49A7-A976-CF07E6BE7AE2}|petArray_Enum\\petArray_Enum.csproj|d:\\consoleapplication_c#\\c#_workshop\\petarray_enum\\petarray_enum\\petarray_enum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ConsoleApplication_c#\\C#_Workshop\\petArray_Enum\\petArray_Enum\\Program.cs",
               "RelativeDocumentMoniker": "petArray_Enum\\Program.cs",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "petCategory.cs",
               "DocumentMoniker": "D:\\ConsoleApplication_c#\\C#_Workshop\\petArray_Enum\\petArray_Enum\\Enum\\petCategory.cs",
               "RelativeDocumentMoniker": "petArray_Enum\\Enum\\petCategory.cs",
@@ -63,7 +63,8 @@
               "RelativeToolTip": "petArray_Enum\\Enum\\petCategory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T16:35:32.158Z"
+              "WhenOpened": "2025-04-22T16:35:32.158Z",
+              "EditorCaption": ""
             }
           ]
         },
