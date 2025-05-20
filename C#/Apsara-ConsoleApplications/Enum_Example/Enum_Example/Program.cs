@@ -8,7 +8,7 @@ public class Program
 {
     static void Main()
     {
-        Days today = Days.Monday;
+        Days today = Days.Sunday;
         Console.WriteLine("Today is: " + today);         // Output: Today is: Monday
         Console.WriteLine("Value: " + (int)today);       // Output: Value: 1
     }

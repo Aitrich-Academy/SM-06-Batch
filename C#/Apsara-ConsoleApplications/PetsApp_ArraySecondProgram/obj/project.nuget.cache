@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "2dfvUWZtY48=",
+  "dgSpecHash": "5RTRxP1SaKQ=",
   "success": true,
-  "projectFilePath": "D:\\ASP.NET_3MONTH\\Asp.netCore-3Months\\C#\\1. C# Basics\\Workshop\\PetsApp_ArraySecondProgram\\PetsApp_ArraySecondProgram.csproj",
+  "projectFilePath": "D:\\SM-06-Batch\\C#\\Apsara-ConsoleApplications\\PetsApp_ArraySecondProgram\\PetsApp_ArraySecondProgram.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Apsara\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
-    "C:\\Users\\Apsara\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
-    "C:\\Users\\Apsara\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
-    "C:\\Users\\Apsara\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+    "C:\\Users\\NIMISHA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\NIMISHA\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\NIMISHA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\NIMISHA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Apsara-ConsoleApplications\\Pet_Workshop1\\",
+  "WorkspaceRootPath": "D:\\SM-06-Batch\\C#\\Apsara-ConsoleApplications\\Pet_Workshop1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96767523-499A-4832-94CA-0E597E2714DD}|Pet_Workshop1\\Pet_Workshop1.csproj|d:\\apsara-consoleapplications\\pet_workshop1\\pet_workshop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{96767523-499A-4832-94CA-0E597E2714DD}|Pet_Workshop1\\Pet_Workshop1.csproj|d:\\sm-06-batch\\c#\\apsara-consoleapplications\\pet_workshop1\\pet_workshop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96767523-499A-4832-94CA-0E597E2714DD}|Pet_Workshop1\\Pet_Workshop1.csproj|solutionrelative:pet_workshop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Apsara-ConsoleApplications\\Pet_Workshop1\\Pet_Workshop1\\Program.cs",
+              "DocumentMoniker": "D:\\SM-06-Batch\\C#\\Apsara-ConsoleApplications\\Pet_Workshop1\\Pet_Workshop1\\Program.cs",
               "RelativeDocumentMoniker": "Pet_Workshop1\\Program.cs",
-              "ToolTip": "D:\\Apsara-ConsoleApplications\\Pet_Workshop1\\Pet_Workshop1\\Program.cs",
+              "ToolTip": "D:\\SM-06-Batch\\C#\\Apsara-ConsoleApplications\\Pet_Workshop1\\Pet_Workshop1\\Program.cs",
               "RelativeToolTip": "Pet_Workshop1\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAIAAAAKAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T04:10:14.327Z",
               "EditorCaption": ""
