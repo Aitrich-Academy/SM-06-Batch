@@ -1,0 +1,14 @@
+D:\console app\PetArray\PetArray\obj\Debug\net8.0\PetArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\console app\PetArray\PetArray\obj\Debug\net8.0\PetArray.AssemblyInfoInputs.cache
+D:\console app\PetArray\PetArray\obj\Debug\net8.0\PetArray.AssemblyInfo.cs
+D:\console app\PetArray\PetArray\obj\Debug\net8.0\PetArray.csproj.CoreCompileInputs.cache
+D:\console app\PetArray\PetArray\bin\Debug\net8.0\PetArray.exe
+D:\console app\PetArray\PetArray\bin\Debug\net8.0\PetArray.deps.json
+D:\console app\PetArray\PetArray\bin\Debug\net8.0\PetArray.runtimeconfig.json
+D:\console app\PetArray\PetArray\bin\Debug\net8.0\PetArray.dll
+D:\console app\PetArray\PetArray\bin\Debug\net8.0\PetArray.pdb
+D:\console app\PetArray\PetArray\obj\Debug\net8.0\PetArray.dll
+D:\console app\PetArray\PetArray\obj\Debug\net8.0\refint\PetArray.dll
+D:\console app\PetArray\PetArray\obj\Debug\net8.0\PetArray.pdb
+D:\console app\PetArray\PetArray\obj\Debug\net8.0\PetArray.genruntimeconfig.cache
+D:\console app\PetArray\PetArray\obj\Debug\net8.0\ref\PetArray.dll

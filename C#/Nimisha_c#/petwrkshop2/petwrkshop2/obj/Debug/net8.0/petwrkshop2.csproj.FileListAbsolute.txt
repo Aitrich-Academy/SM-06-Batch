@@ -1,0 +1,14 @@
+D:\console app\petwrkshop2\petwrkshop2\obj\Debug\net8.0\petwrkshop2.GeneratedMSBuildEditorConfig.editorconfig
+D:\console app\petwrkshop2\petwrkshop2\obj\Debug\net8.0\petwrkshop2.AssemblyInfoInputs.cache
+D:\console app\petwrkshop2\petwrkshop2\obj\Debug\net8.0\petwrkshop2.AssemblyInfo.cs
+D:\console app\petwrkshop2\petwrkshop2\obj\Debug\net8.0\petwrkshop2.csproj.CoreCompileInputs.cache
+D:\console app\petwrkshop2\petwrkshop2\bin\Debug\net8.0\petwrkshop2.exe
+D:\console app\petwrkshop2\petwrkshop2\bin\Debug\net8.0\petwrkshop2.deps.json
+D:\console app\petwrkshop2\petwrkshop2\bin\Debug\net8.0\petwrkshop2.runtimeconfig.json
+D:\console app\petwrkshop2\petwrkshop2\bin\Debug\net8.0\petwrkshop2.dll
+D:\console app\petwrkshop2\petwrkshop2\bin\Debug\net8.0\petwrkshop2.pdb
+D:\console app\petwrkshop2\petwrkshop2\obj\Debug\net8.0\petwrkshop2.dll
+D:\console app\petwrkshop2\petwrkshop2\obj\Debug\net8.0\refint\petwrkshop2.dll
+D:\console app\petwrkshop2\petwrkshop2\obj\Debug\net8.0\petwrkshop2.pdb
+D:\console app\petwrkshop2\petwrkshop2\obj\Debug\net8.0\petwrkshop2.genruntimeconfig.cache
+D:\console app\petwrkshop2\petwrkshop2\obj\Debug\net8.0\ref\petwrkshop2.dll

@@ -1,0 +1,14 @@
+D:\console app\c#Assesment1\c#Assesment1\obj\Debug\net8.0\c#Assesment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\console app\c#Assesment1\c#Assesment1\obj\Debug\net8.0\c#Assesment1.AssemblyInfoInputs.cache
+D:\console app\c#Assesment1\c#Assesment1\obj\Debug\net8.0\c#Assesment1.AssemblyInfo.cs
+D:\console app\c#Assesment1\c#Assesment1\obj\Debug\net8.0\c#Assesment1.csproj.CoreCompileInputs.cache
+D:\console app\c#Assesment1\c#Assesment1\bin\Debug\net8.0\c#Assesment1.exe
+D:\console app\c#Assesment1\c#Assesment1\bin\Debug\net8.0\c#Assesment1.deps.json
+D:\console app\c#Assesment1\c#Assesment1\bin\Debug\net8.0\c#Assesment1.runtimeconfig.json
+D:\console app\c#Assesment1\c#Assesment1\bin\Debug\net8.0\c#Assesment1.dll
+D:\console app\c#Assesment1\c#Assesment1\bin\Debug\net8.0\c#Assesment1.pdb
+D:\console app\c#Assesment1\c#Assesment1\obj\Debug\net8.0\c#Assesment1.dll
+D:\console app\c#Assesment1\c#Assesment1\obj\Debug\net8.0\refint\c#Assesment1.dll
+D:\console app\c#Assesment1\c#Assesment1\obj\Debug\net8.0\c#Assesment1.pdb
+D:\console app\c#Assesment1\c#Assesment1\obj\Debug\net8.0\c#Assesment1.genruntimeconfig.cache
+D:\console app\c#Assesment1\c#Assesment1\obj\Debug\net8.0\ref\c#Assesment1.dll
