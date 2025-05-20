@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET_3MONTH\\Asp.netCore-3Months\\C#\\2. OOPs\\Abstraction\\Abstract\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC893985-998B-4402-9399-483D3B982206}|Abstract\\Abstract.csproj|d:\\asp.net_3month\\asp.netcore-3months\\c#\\2. oops\\abstraction\\abstract\\abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC893985-998B-4402-9399-483D3B982206}|Abstract\\Abstract.csproj|solutionrelative:abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC893985-998B-4402-9399-483D3B982206}|Abstract\\Abstract.csproj|d:\\asp.net_3month\\asp.netcore-3months\\c#\\2. oops\\abstraction\\abstract\\abstract\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC893985-998B-4402-9399-483D3B982206}|Abstract\\Abstract.csproj|solutionrelative:abstract\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC893985-998B-4402-9399-483D3B982206}|Abstract\\Abstract.csproj|d:\\asp.net_3month\\asp.netcore-3months\\c#\\2. oops\\abstraction\\abstract\\abstract\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC893985-998B-4402-9399-483D3B982206}|Abstract\\Abstract.csproj|solutionrelative:abstract\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC893985-998B-4402-9399-483D3B982206}|Abstract\\Abstract.csproj|d:\\asp.net_3month\\asp.netcore-3months\\c#\\2. oops\\abstraction\\abstract\\abstract\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC893985-998B-4402-9399-483D3B982206}|Abstract\\Abstract.csproj|solutionrelative:abstract\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET_3MONTH\\Asp.netCore-3Months\\C#\\2. OOPs\\Abstraction\\Abstract\\Abstract\\Program.cs",
+              "RelativeDocumentMoniker": "Abstract\\Program.cs",
+              "ToolTip": "D:\\ASP.NET_3MONTH\\Asp.netCore-3Months\\C#\\2. OOPs\\Abstraction\\Abstract\\Abstract\\Program.cs",
+              "RelativeToolTip": "Abstract\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:11:32.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "D:\\ASP.NET_3MONTH\\Asp.netCore-3Months\\C#\\2. OOPs\\Abstraction\\Abstract\\Abstract\\Dog.cs",
+              "RelativeDocumentMoniker": "Abstract\\Dog.cs",
+              "ToolTip": "D:\\ASP.NET_3MONTH\\Asp.netCore-3Months\\C#\\2. OOPs\\Abstraction\\Abstract\\Abstract\\Dog.cs",
+              "RelativeToolTip": "Abstract\\Dog.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:11:06.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "D:\\ASP.NET_3MONTH\\Asp.netCore-3Months\\C#\\2. OOPs\\Abstraction\\Abstract\\Abstract\\Pet.cs",
+              "RelativeDocumentMoniker": "Abstract\\Pet.cs",
+              "ToolTip": "D:\\ASP.NET_3MONTH\\Asp.netCore-3Months\\C#\\2. OOPs\\Abstraction\\Abstract\\Abstract\\Pet.cs",
+              "RelativeToolTip": "Abstract\\Pet.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:10:36.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "D:\\ASP.NET_3MONTH\\Asp.netCore-3Months\\C#\\2. OOPs\\Abstraction\\Abstract\\Abstract\\Cat.cs",
+              "RelativeDocumentMoniker": "Abstract\\Cat.cs",
+              "ToolTip": "D:\\ASP.NET_3MONTH\\Asp.netCore-3Months\\C#\\2. OOPs\\Abstraction\\Abstract\\Abstract\\Cat.cs",
+              "RelativeToolTip": "Abstract\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:10:22.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 90,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
