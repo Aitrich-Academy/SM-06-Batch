@@ -1,0 +1,14 @@
+D:\console app\C#assessment\C#assessment\bin\Debug\net8.0\C#assessment.exe
+D:\console app\C#assessment\C#assessment\bin\Debug\net8.0\C#assessment.deps.json
+D:\console app\C#assessment\C#assessment\bin\Debug\net8.0\C#assessment.runtimeconfig.json
+D:\console app\C#assessment\C#assessment\bin\Debug\net8.0\C#assessment.dll
+D:\console app\C#assessment\C#assessment\bin\Debug\net8.0\C#assessment.pdb
+D:\console app\C#assessment\C#assessment\obj\Debug\net8.0\C#assessment.GeneratedMSBuildEditorConfig.editorconfig
+D:\console app\C#assessment\C#assessment\obj\Debug\net8.0\C#assessment.AssemblyInfoInputs.cache
+D:\console app\C#assessment\C#assessment\obj\Debug\net8.0\C#assessment.AssemblyInfo.cs
+D:\console app\C#assessment\C#assessment\obj\Debug\net8.0\C#assessment.csproj.CoreCompileInputs.cache
+D:\console app\C#assessment\C#assessment\obj\Debug\net8.0\C#assessment.dll
+D:\console app\C#assessment\C#assessment\obj\Debug\net8.0\refint\C#assessment.dll
+D:\console app\C#assessment\C#assessment\obj\Debug\net8.0\C#assessment.pdb
+D:\console app\C#assessment\C#assessment\obj\Debug\net8.0\C#assessment.genruntimeconfig.cache
+D:\console app\C#assessment\C#assessment\obj\Debug\net8.0\ref\C#assessment.dll

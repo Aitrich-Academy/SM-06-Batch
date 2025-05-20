@@ -1,0 +1,14 @@
+D:\console app\pet_Excercise\pet_Excercise\bin\Debug\net8.0\pet_Excercise.exe
+D:\console app\pet_Excercise\pet_Excercise\bin\Debug\net8.0\pet_Excercise.deps.json
+D:\console app\pet_Excercise\pet_Excercise\bin\Debug\net8.0\pet_Excercise.runtimeconfig.json
+D:\console app\pet_Excercise\pet_Excercise\bin\Debug\net8.0\pet_Excercise.dll
+D:\console app\pet_Excercise\pet_Excercise\bin\Debug\net8.0\pet_Excercise.pdb
+D:\console app\pet_Excercise\pet_Excercise\obj\Debug\net8.0\pet_Excercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\console app\pet_Excercise\pet_Excercise\obj\Debug\net8.0\pet_Excercise.AssemblyInfoInputs.cache
+D:\console app\pet_Excercise\pet_Excercise\obj\Debug\net8.0\pet_Excercise.AssemblyInfo.cs
+D:\console app\pet_Excercise\pet_Excercise\obj\Debug\net8.0\pet_Excercise.csproj.CoreCompileInputs.cache
+D:\console app\pet_Excercise\pet_Excercise\obj\Debug\net8.0\pet_Excercise.dll
+D:\console app\pet_Excercise\pet_Excercise\obj\Debug\net8.0\refint\pet_Excercise.dll
+D:\console app\pet_Excercise\pet_Excercise\obj\Debug\net8.0\pet_Excercise.pdb
+D:\console app\pet_Excercise\pet_Excercise\obj\Debug\net8.0\pet_Excercise.genruntimeconfig.cache
+D:\console app\pet_Excercise\pet_Excercise\obj\Debug\net8.0\ref\pet_Excercise.dll
