@@ -1,0 +1,20 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+<<<<<<< HEAD:OOPs/Activity/Method_Overloading/Method_Overloading/obj/Debug/net8.0/Method_Overloading.GeneratedMSBuildEditorConfig.editorconfig
+build_property.RootNamespace = Method_Overloading
+build_property.ProjectDir = D:\SM-06-Batch\OOPs\Activity\Method_Overloading\Method_Overloading\
+=======
+build_property.RootNamespace = NonGeneric
+build_property.ProjectDir = D:\ASP.NET_3MONTH\Asp.netCore-3Months\C#\3. Collections\Non-Generic\Queue\Queue\
+>>>>>>> 2d00badb33b59470dca183bd7fcd96209dac07b1:Collections/Non-Generic/Queue/Queue/obj/Debug/net8.0/NonGeneric.GeneratedMSBuildEditorConfig.editorconfig
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
