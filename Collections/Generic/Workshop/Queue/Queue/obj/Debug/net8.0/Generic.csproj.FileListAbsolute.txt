@@ -1,0 +1,15 @@
+D:\ASP.NET_3MONTH\Asp.netCore-3Months\C#\3. Collections\Generic\Queue\Queue\bin\Debug\net8.0\Generic.exe
+D:\ASP.NET_3MONTH\Asp.netCore-3Months\C#\3. Collections\Generic\Queue\Queue\bin\Debug\net8.0\Generic.deps.json
+D:\ASP.NET_3MONTH\Asp.netCore-3Months\C#\3. Collections\Generic\Queue\Queue\bin\Debug\net8.0\Generic.runtimeconfig.json
+D:\ASP.NET_3MONTH\Asp.netCore-3Months\C#\3. Collections\Generic\Queue\Queue\bin\Debug\net8.0\Generic.dll
+D:\ASP.NET_3MONTH\Asp.netCore-3Months\C#\3. Collections\Generic\Queue\Queue\bin\Debug\net8.0\Generic.pdb
+D:\ASP.NET_3MONTH\Asp.netCore-3Months\C#\3. Collections\Generic\Queue\Queue\obj\Debug\net8.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET_3MONTH\Asp.netCore-3Months\C#\3. Collections\Generic\Queue\Queue\obj\Debug\net8.0\Generic.AssemblyInfoInputs.cache
+D:\ASP.NET_3MONTH\Asp.netCore-3Months\C#\3. Collections\Generic\Queue\Queue\obj\Debug\net8.0\Generic.AssemblyInfo.cs
+D:\ASP.NET_3MONTH\Asp.netCore-3Months\C#\3. Collections\Generic\Queue\Queue\obj\Debug\net8.0\Generic.csproj.CoreCompileInputs.cache
+D:\ASP.NET_3MONTH\Asp.netCore-3Months\C#\3. Collections\Generic\Queue\Queue\obj\Debug\net8.0\Generic.sourcelink.json
+D:\ASP.NET_3MONTH\Asp.netCore-3Months\C#\3. Collections\Generic\Queue\Queue\obj\Debug\net8.0\Generic.dll
+D:\ASP.NET_3MONTH\Asp.netCore-3Months\C#\3. Collections\Generic\Queue\Queue\obj\Debug\net8.0\refint\Generic.dll
+D:\ASP.NET_3MONTH\Asp.netCore-3Months\C#\3. Collections\Generic\Queue\Queue\obj\Debug\net8.0\Generic.pdb
+D:\ASP.NET_3MONTH\Asp.netCore-3Months\C#\3. Collections\Generic\Queue\Queue\obj\Debug\net8.0\Generic.genruntimeconfig.cache
+D:\ASP.NET_3MONTH\Asp.netCore-3Months\C#\3. Collections\Generic\Queue\Queue\obj\Debug\net8.0\ref\Generic.dll
