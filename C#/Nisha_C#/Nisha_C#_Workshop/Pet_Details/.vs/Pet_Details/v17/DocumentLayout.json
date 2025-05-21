@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ConsoleApplication_c#\\C#_Workshop\\Pet_Details\\",
+  "WorkspaceRootPath": "D:\\SM-06-Batch\\C#\\Nisha_C#\\Nisha_C#_Workshop\\Pet_Details\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E802520-3F50-4598-B4F8-1BDCB907BD6A}|Pet_Details\\Pet_Details.csproj|d:\\consoleapplication_c#\\c#_workshop\\pet_details\\pet_details\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E802520-3F50-4598-B4F8-1BDCB907BD6A}|Pet_Details\\Pet_Details.csproj|d:\\sm-06-batch\\c#\\nisha_c#\\nisha_c#_workshop\\pet_details\\pet_details\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E802520-3F50-4598-B4F8-1BDCB907BD6A}|Pet_Details\\Pet_Details.csproj|solutionrelative:pet_details\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ConsoleApplication_c#\\C#_Workshop\\Pet_Details\\Pet_Details\\Program.cs",
+              "DocumentMoniker": "D:\\SM-06-Batch\\C#\\Nisha_C#\\Nisha_C#_Workshop\\Pet_Details\\Pet_Details\\Program.cs",
               "RelativeDocumentMoniker": "Pet_Details\\Program.cs",
-              "ToolTip": "D:\\ConsoleApplication_c#\\C#_Workshop\\Pet_Details\\Pet_Details\\Program.cs",
+              "ToolTip": "D:\\SM-06-Batch\\C#\\Nisha_C#\\Nisha_C#_Workshop\\Pet_Details\\Pet_Details\\Program.cs",
               "RelativeToolTip": "Pet_Details\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T16:32:58.681Z",
               "EditorCaption": ""
