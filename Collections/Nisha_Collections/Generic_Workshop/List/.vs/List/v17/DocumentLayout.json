@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\rep1\\C#\\3. Collections\\Nisha_Collections\\Generic\\Generic_Workshop\\List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A849F6-88A9-4D0A-AC0D-A398F0A454AE}|List\\List.csproj|d:\\rep1\\c#\\3. collections\\nisha_collections\\generic\\generic_workshop\\list\\list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A849F6-88A9-4D0A-AC0D-A398F0A454AE}|List\\List.csproj|solutionrelative:list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\rep1\\C#\\3. Collections\\Nisha_Collections\\Generic\\Generic_Workshop\\List\\List\\Program.cs",
+              "RelativeDocumentMoniker": "List\\Program.cs",
+              "ToolTip": "D:\\rep1\\C#\\3. Collections\\Nisha_Collections\\Generic\\Generic_Workshop\\List\\List\\Program.cs",
+              "RelativeToolTip": "List\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T01:33:16.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 523,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

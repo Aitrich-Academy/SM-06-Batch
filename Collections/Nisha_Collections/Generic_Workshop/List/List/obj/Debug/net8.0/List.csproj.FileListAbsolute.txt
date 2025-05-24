@@ -1,0 +1,15 @@
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\List\List\bin\Debug\net8.0\List.exe
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\List\List\bin\Debug\net8.0\List.deps.json
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\List\List\bin\Debug\net8.0\List.runtimeconfig.json
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\List\List\bin\Debug\net8.0\List.dll
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\List\List\bin\Debug\net8.0\List.pdb
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\List\List\obj\Debug\net8.0\List.GeneratedMSBuildEditorConfig.editorconfig
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\List\List\obj\Debug\net8.0\List.AssemblyInfoInputs.cache
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\List\List\obj\Debug\net8.0\List.AssemblyInfo.cs
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\List\List\obj\Debug\net8.0\List.csproj.CoreCompileInputs.cache
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\List\List\obj\Debug\net8.0\List.sourcelink.json
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\List\List\obj\Debug\net8.0\List.dll
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\List\List\obj\Debug\net8.0\refint\List.dll
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\List\List\obj\Debug\net8.0\List.pdb
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\List\List\obj\Debug\net8.0\List.genruntimeconfig.cache
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\List\List\obj\Debug\net8.0\ref\List.dll
