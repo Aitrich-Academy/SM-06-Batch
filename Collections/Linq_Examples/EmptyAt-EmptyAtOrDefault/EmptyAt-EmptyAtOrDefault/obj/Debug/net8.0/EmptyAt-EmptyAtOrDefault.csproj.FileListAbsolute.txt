@@ -1,0 +1,14 @@
+D:\Linq_Examples\EmptyAt-EmptyAtOrDefault\EmptyAt-EmptyAtOrDefault\bin\Debug\net8.0\EmptyAt-EmptyAtOrDefault.exe
+D:\Linq_Examples\EmptyAt-EmptyAtOrDefault\EmptyAt-EmptyAtOrDefault\bin\Debug\net8.0\EmptyAt-EmptyAtOrDefault.deps.json
+D:\Linq_Examples\EmptyAt-EmptyAtOrDefault\EmptyAt-EmptyAtOrDefault\bin\Debug\net8.0\EmptyAt-EmptyAtOrDefault.runtimeconfig.json
+D:\Linq_Examples\EmptyAt-EmptyAtOrDefault\EmptyAt-EmptyAtOrDefault\bin\Debug\net8.0\EmptyAt-EmptyAtOrDefault.dll
+D:\Linq_Examples\EmptyAt-EmptyAtOrDefault\EmptyAt-EmptyAtOrDefault\bin\Debug\net8.0\EmptyAt-EmptyAtOrDefault.pdb
+D:\Linq_Examples\EmptyAt-EmptyAtOrDefault\EmptyAt-EmptyAtOrDefault\obj\Debug\net8.0\EmptyAt-EmptyAtOrDefault.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linq_Examples\EmptyAt-EmptyAtOrDefault\EmptyAt-EmptyAtOrDefault\obj\Debug\net8.0\EmptyAt-EmptyAtOrDefault.AssemblyInfoInputs.cache
+D:\Linq_Examples\EmptyAt-EmptyAtOrDefault\EmptyAt-EmptyAtOrDefault\obj\Debug\net8.0\EmptyAt-EmptyAtOrDefault.AssemblyInfo.cs
+D:\Linq_Examples\EmptyAt-EmptyAtOrDefault\EmptyAt-EmptyAtOrDefault\obj\Debug\net8.0\EmptyAt-EmptyAtOrDefault.csproj.CoreCompileInputs.cache
+D:\Linq_Examples\EmptyAt-EmptyAtOrDefault\EmptyAt-EmptyAtOrDefault\obj\Debug\net8.0\EmptyAt-EmptyAtOrDefault.dll
+D:\Linq_Examples\EmptyAt-EmptyAtOrDefault\EmptyAt-EmptyAtOrDefault\obj\Debug\net8.0\refint\EmptyAt-EmptyAtOrDefault.dll
+D:\Linq_Examples\EmptyAt-EmptyAtOrDefault\EmptyAt-EmptyAtOrDefault\obj\Debug\net8.0\EmptyAt-EmptyAtOrDefault.pdb
+D:\Linq_Examples\EmptyAt-EmptyAtOrDefault\EmptyAt-EmptyAtOrDefault\obj\Debug\net8.0\EmptyAt-EmptyAtOrDefault.genruntimeconfig.cache
+D:\Linq_Examples\EmptyAt-EmptyAtOrDefault\EmptyAt-EmptyAtOrDefault\obj\Debug\net8.0\ref\EmptyAt-EmptyAtOrDefault.dll

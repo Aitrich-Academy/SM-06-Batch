@@ -1,0 +1,14 @@
+D:\Linq_Examples\Single-SingleOrDefault\Single-SingleOrDefault\bin\Debug\net8.0\Single-SingleOrDefault.exe
+D:\Linq_Examples\Single-SingleOrDefault\Single-SingleOrDefault\bin\Debug\net8.0\Single-SingleOrDefault.deps.json
+D:\Linq_Examples\Single-SingleOrDefault\Single-SingleOrDefault\bin\Debug\net8.0\Single-SingleOrDefault.runtimeconfig.json
+D:\Linq_Examples\Single-SingleOrDefault\Single-SingleOrDefault\bin\Debug\net8.0\Single-SingleOrDefault.dll
+D:\Linq_Examples\Single-SingleOrDefault\Single-SingleOrDefault\bin\Debug\net8.0\Single-SingleOrDefault.pdb
+D:\Linq_Examples\Single-SingleOrDefault\Single-SingleOrDefault\obj\Debug\net8.0\Single-SingleOrDefault.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linq_Examples\Single-SingleOrDefault\Single-SingleOrDefault\obj\Debug\net8.0\Single-SingleOrDefault.AssemblyInfoInputs.cache
+D:\Linq_Examples\Single-SingleOrDefault\Single-SingleOrDefault\obj\Debug\net8.0\Single-SingleOrDefault.AssemblyInfo.cs
+D:\Linq_Examples\Single-SingleOrDefault\Single-SingleOrDefault\obj\Debug\net8.0\Single-SingleOrDefault.csproj.CoreCompileInputs.cache
+D:\Linq_Examples\Single-SingleOrDefault\Single-SingleOrDefault\obj\Debug\net8.0\Single-SingleOrDefault.dll
+D:\Linq_Examples\Single-SingleOrDefault\Single-SingleOrDefault\obj\Debug\net8.0\refint\Single-SingleOrDefault.dll
+D:\Linq_Examples\Single-SingleOrDefault\Single-SingleOrDefault\obj\Debug\net8.0\Single-SingleOrDefault.pdb
+D:\Linq_Examples\Single-SingleOrDefault\Single-SingleOrDefault\obj\Debug\net8.0\Single-SingleOrDefault.genruntimeconfig.cache
+D:\Linq_Examples\Single-SingleOrDefault\Single-SingleOrDefault\obj\Debug\net8.0\ref\Single-SingleOrDefault.dll

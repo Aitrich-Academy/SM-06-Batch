@@ -1,0 +1,14 @@
+D:\Linq_Examples\Linq_query\Linq_query\obj\Debug\net8.0\Linq_query.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linq_Examples\Linq_query\Linq_query\obj\Debug\net8.0\Linq_query.AssemblyInfoInputs.cache
+D:\Linq_Examples\Linq_query\Linq_query\obj\Debug\net8.0\Linq_query.AssemblyInfo.cs
+D:\Linq_Examples\Linq_query\Linq_query\obj\Debug\net8.0\Linq_query.csproj.CoreCompileInputs.cache
+D:\Linq_Examples\Linq_query\Linq_query\bin\Debug\net8.0\Linq_query.exe
+D:\Linq_Examples\Linq_query\Linq_query\bin\Debug\net8.0\Linq_query.deps.json
+D:\Linq_Examples\Linq_query\Linq_query\bin\Debug\net8.0\Linq_query.runtimeconfig.json
+D:\Linq_Examples\Linq_query\Linq_query\bin\Debug\net8.0\Linq_query.dll
+D:\Linq_Examples\Linq_query\Linq_query\bin\Debug\net8.0\Linq_query.pdb
+D:\Linq_Examples\Linq_query\Linq_query\obj\Debug\net8.0\Linq_query.dll
+D:\Linq_Examples\Linq_query\Linq_query\obj\Debug\net8.0\refint\Linq_query.dll
+D:\Linq_Examples\Linq_query\Linq_query\obj\Debug\net8.0\Linq_query.pdb
+D:\Linq_Examples\Linq_query\Linq_query\obj\Debug\net8.0\Linq_query.genruntimeconfig.cache
+D:\Linq_Examples\Linq_query\Linq_query\obj\Debug\net8.0\ref\Linq_query.dll

@@ -1,0 +1,14 @@
+D:\Linq_Examples\First-FirstorDefault\First-FirstorDefault\bin\Debug\net8.0\First-FirstorDefault.exe
+D:\Linq_Examples\First-FirstorDefault\First-FirstorDefault\bin\Debug\net8.0\First-FirstorDefault.deps.json
+D:\Linq_Examples\First-FirstorDefault\First-FirstorDefault\bin\Debug\net8.0\First-FirstorDefault.runtimeconfig.json
+D:\Linq_Examples\First-FirstorDefault\First-FirstorDefault\bin\Debug\net8.0\First-FirstorDefault.dll
+D:\Linq_Examples\First-FirstorDefault\First-FirstorDefault\bin\Debug\net8.0\First-FirstorDefault.pdb
+D:\Linq_Examples\First-FirstorDefault\First-FirstorDefault\obj\Debug\net8.0\First-FirstorDefault.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linq_Examples\First-FirstorDefault\First-FirstorDefault\obj\Debug\net8.0\First-FirstorDefault.AssemblyInfoInputs.cache
+D:\Linq_Examples\First-FirstorDefault\First-FirstorDefault\obj\Debug\net8.0\First-FirstorDefault.AssemblyInfo.cs
+D:\Linq_Examples\First-FirstorDefault\First-FirstorDefault\obj\Debug\net8.0\First-FirstorDefault.csproj.CoreCompileInputs.cache
+D:\Linq_Examples\First-FirstorDefault\First-FirstorDefault\obj\Debug\net8.0\First-FirstorDefault.dll
+D:\Linq_Examples\First-FirstorDefault\First-FirstorDefault\obj\Debug\net8.0\refint\First-FirstorDefault.dll
+D:\Linq_Examples\First-FirstorDefault\First-FirstorDefault\obj\Debug\net8.0\First-FirstorDefault.pdb
+D:\Linq_Examples\First-FirstorDefault\First-FirstorDefault\obj\Debug\net8.0\First-FirstorDefault.genruntimeconfig.cache
+D:\Linq_Examples\First-FirstorDefault\First-FirstorDefault\obj\Debug\net8.0\ref\First-FirstorDefault.dll
