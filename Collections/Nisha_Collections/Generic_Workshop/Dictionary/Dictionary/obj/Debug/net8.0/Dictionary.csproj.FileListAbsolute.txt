@@ -1,0 +1,15 @@
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Dictionary\Dictionary\bin\Debug\net8.0\Dictionary.exe
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Dictionary\Dictionary\bin\Debug\net8.0\Dictionary.deps.json
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Dictionary\Dictionary\bin\Debug\net8.0\Dictionary.runtimeconfig.json
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Dictionary\Dictionary\bin\Debug\net8.0\Dictionary.dll
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Dictionary\Dictionary\bin\Debug\net8.0\Dictionary.pdb
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfoInputs.cache
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfo.cs
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.csproj.CoreCompileInputs.cache
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.sourcelink.json
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.dll
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Dictionary\Dictionary\obj\Debug\net8.0\refint\Dictionary.dll
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.pdb
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.genruntimeconfig.cache
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Dictionary\Dictionary\obj\Debug\net8.0\ref\Dictionary.dll

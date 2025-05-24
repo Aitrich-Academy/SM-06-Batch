@@ -1,0 +1,15 @@
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\ArrayList\ArrayList\bin\Debug\net8.0\ArrayList.exe
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\ArrayList\ArrayList\bin\Debug\net8.0\ArrayList.deps.json
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\ArrayList\ArrayList\bin\Debug\net8.0\ArrayList.runtimeconfig.json
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\ArrayList\ArrayList\bin\Debug\net8.0\ArrayList.dll
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\ArrayList\ArrayList\bin\Debug\net8.0\ArrayList.pdb
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfoInputs.cache
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfo.cs
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.csproj.CoreCompileInputs.cache
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.sourcelink.json
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.dll
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\ArrayList\ArrayList\obj\Debug\net8.0\refint\ArrayList.dll
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.pdb
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.genruntimeconfig.cache
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\ArrayList\ArrayList\obj\Debug\net8.0\ref\ArrayList.dll

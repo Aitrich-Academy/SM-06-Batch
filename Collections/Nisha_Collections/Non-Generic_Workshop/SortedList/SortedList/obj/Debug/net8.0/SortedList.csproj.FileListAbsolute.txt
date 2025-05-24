@@ -1,0 +1,15 @@
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\SortedList\SortedList\bin\Debug\net8.0\SortedList.exe
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\SortedList\SortedList\bin\Debug\net8.0\SortedList.deps.json
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\SortedList\SortedList\bin\Debug\net8.0\SortedList.runtimeconfig.json
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\SortedList\SortedList\bin\Debug\net8.0\SortedList.dll
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\SortedList\SortedList\bin\Debug\net8.0\SortedList.pdb
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\SortedList\SortedList\obj\Debug\net8.0\SortedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\SortedList\SortedList\obj\Debug\net8.0\SortedList.AssemblyInfoInputs.cache
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\SortedList\SortedList\obj\Debug\net8.0\SortedList.AssemblyInfo.cs
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\SortedList\SortedList\obj\Debug\net8.0\SortedList.csproj.CoreCompileInputs.cache
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\SortedList\SortedList\obj\Debug\net8.0\SortedList.sourcelink.json
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\SortedList\SortedList\obj\Debug\net8.0\SortedList.dll
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\SortedList\SortedList\obj\Debug\net8.0\refint\SortedList.dll
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\SortedList\SortedList\obj\Debug\net8.0\SortedList.pdb
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\SortedList\SortedList\obj\Debug\net8.0\SortedList.genruntimeconfig.cache
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\SortedList\SortedList\obj\Debug\net8.0\ref\SortedList.dll
