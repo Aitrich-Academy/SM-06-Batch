@@ -1,0 +1,15 @@
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\Stack\Stack\bin\Debug\net8.0\Stack.exe
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\Stack\Stack\bin\Debug\net8.0\Stack.deps.json
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\Stack\Stack\bin\Debug\net8.0\Stack.runtimeconfig.json
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\Stack\Stack\bin\Debug\net8.0\Stack.dll
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\Stack\Stack\bin\Debug\net8.0\Stack.pdb
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\Stack\Stack\obj\Debug\net8.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\Stack\Stack\obj\Debug\net8.0\Stack.AssemblyInfoInputs.cache
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\Stack\Stack\obj\Debug\net8.0\Stack.AssemblyInfo.cs
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\Stack\Stack\obj\Debug\net8.0\Stack.csproj.CoreCompileInputs.cache
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\Stack\Stack\obj\Debug\net8.0\Stack.sourcelink.json
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\Stack\Stack\obj\Debug\net8.0\Stack.dll
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\Stack\Stack\obj\Debug\net8.0\refint\Stack.dll
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\Stack\Stack\obj\Debug\net8.0\Stack.pdb
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\Stack\Stack\obj\Debug\net8.0\Stack.genruntimeconfig.cache
+D:\rep1\C#\3. Collections\Nisha_Collections\Non_Generic\Non-Generic_Workshop\Stack\Stack\obj\Debug\net8.0\ref\Stack.dll

@@ -1,0 +1,15 @@
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Queue\Queue\bin\Debug\net8.0\Queue.exe
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Queue\Queue\bin\Debug\net8.0\Queue.deps.json
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Queue\Queue\bin\Debug\net8.0\Queue.runtimeconfig.json
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Queue\Queue\bin\Debug\net8.0\Queue.dll
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Queue\Queue\bin\Debug\net8.0\Queue.pdb
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Queue\Queue\obj\Debug\net8.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Queue\Queue\obj\Debug\net8.0\Queue.AssemblyInfoInputs.cache
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Queue\Queue\obj\Debug\net8.0\Queue.AssemblyInfo.cs
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Queue\Queue\obj\Debug\net8.0\Queue.csproj.CoreCompileInputs.cache
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Queue\Queue\obj\Debug\net8.0\Queue.sourcelink.json
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Queue\Queue\obj\Debug\net8.0\Queue.dll
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Queue\Queue\obj\Debug\net8.0\refint\Queue.dll
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Queue\Queue\obj\Debug\net8.0\Queue.pdb
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Queue\Queue\obj\Debug\net8.0\Queue.genruntimeconfig.cache
+D:\rep1\C#\3. Collections\Nisha_Collections\Generic\Generic_Workshop\Queue\Queue\obj\Debug\net8.0\ref\Queue.dll
