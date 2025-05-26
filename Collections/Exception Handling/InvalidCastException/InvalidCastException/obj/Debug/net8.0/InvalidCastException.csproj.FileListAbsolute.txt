@@ -1,0 +1,14 @@
+D:\InvalidCastException\InvalidCastException\bin\Debug\net8.0\InvalidCastException.exe
+D:\InvalidCastException\InvalidCastException\bin\Debug\net8.0\InvalidCastException.deps.json
+D:\InvalidCastException\InvalidCastException\bin\Debug\net8.0\InvalidCastException.runtimeconfig.json
+D:\InvalidCastException\InvalidCastException\bin\Debug\net8.0\InvalidCastException.dll
+D:\InvalidCastException\InvalidCastException\bin\Debug\net8.0\InvalidCastException.pdb
+D:\InvalidCastException\InvalidCastException\obj\Debug\net8.0\InvalidCastException.GeneratedMSBuildEditorConfig.editorconfig
+D:\InvalidCastException\InvalidCastException\obj\Debug\net8.0\InvalidCastException.AssemblyInfoInputs.cache
+D:\InvalidCastException\InvalidCastException\obj\Debug\net8.0\InvalidCastException.AssemblyInfo.cs
+D:\InvalidCastException\InvalidCastException\obj\Debug\net8.0\InvalidCastException.csproj.CoreCompileInputs.cache
+D:\InvalidCastException\InvalidCastException\obj\Debug\net8.0\InvalidCastException.dll
+D:\InvalidCastException\InvalidCastException\obj\Debug\net8.0\refint\InvalidCastException.dll
+D:\InvalidCastException\InvalidCastException\obj\Debug\net8.0\InvalidCastException.pdb
+D:\InvalidCastException\InvalidCastException\obj\Debug\net8.0\InvalidCastException.genruntimeconfig.cache
+D:\InvalidCastException\InvalidCastException\obj\Debug\net8.0\ref\InvalidCastException.dll

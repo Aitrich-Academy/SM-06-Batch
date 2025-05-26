@@ -1,0 +1,14 @@
+D:\Exception Handling\IndexOutOfRange\IndexOutOfRange\bin\Debug\net8.0\IndexOutOfRange.exe
+D:\Exception Handling\IndexOutOfRange\IndexOutOfRange\bin\Debug\net8.0\IndexOutOfRange.deps.json
+D:\Exception Handling\IndexOutOfRange\IndexOutOfRange\bin\Debug\net8.0\IndexOutOfRange.runtimeconfig.json
+D:\Exception Handling\IndexOutOfRange\IndexOutOfRange\bin\Debug\net8.0\IndexOutOfRange.dll
+D:\Exception Handling\IndexOutOfRange\IndexOutOfRange\bin\Debug\net8.0\IndexOutOfRange.pdb
+D:\Exception Handling\IndexOutOfRange\IndexOutOfRange\obj\Debug\net8.0\IndexOutOfRange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exception Handling\IndexOutOfRange\IndexOutOfRange\obj\Debug\net8.0\IndexOutOfRange.AssemblyInfoInputs.cache
+D:\Exception Handling\IndexOutOfRange\IndexOutOfRange\obj\Debug\net8.0\IndexOutOfRange.AssemblyInfo.cs
+D:\Exception Handling\IndexOutOfRange\IndexOutOfRange\obj\Debug\net8.0\IndexOutOfRange.csproj.CoreCompileInputs.cache
+D:\Exception Handling\IndexOutOfRange\IndexOutOfRange\obj\Debug\net8.0\IndexOutOfRange.dll
+D:\Exception Handling\IndexOutOfRange\IndexOutOfRange\obj\Debug\net8.0\refint\IndexOutOfRange.dll
+D:\Exception Handling\IndexOutOfRange\IndexOutOfRange\obj\Debug\net8.0\IndexOutOfRange.pdb
+D:\Exception Handling\IndexOutOfRange\IndexOutOfRange\obj\Debug\net8.0\IndexOutOfRange.genruntimeconfig.cache
+D:\Exception Handling\IndexOutOfRange\IndexOutOfRange\obj\Debug\net8.0\ref\IndexOutOfRange.dll

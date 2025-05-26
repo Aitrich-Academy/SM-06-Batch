@@ -1,0 +1,14 @@
+D:\Exception Handling\TryCatch_Example\TryCatch_Example\bin\Debug\net8.0\TryCatch_Example.exe
+D:\Exception Handling\TryCatch_Example\TryCatch_Example\bin\Debug\net8.0\TryCatch_Example.deps.json
+D:\Exception Handling\TryCatch_Example\TryCatch_Example\bin\Debug\net8.0\TryCatch_Example.runtimeconfig.json
+D:\Exception Handling\TryCatch_Example\TryCatch_Example\bin\Debug\net8.0\TryCatch_Example.dll
+D:\Exception Handling\TryCatch_Example\TryCatch_Example\bin\Debug\net8.0\TryCatch_Example.pdb
+D:\Exception Handling\TryCatch_Example\TryCatch_Example\obj\Debug\net8.0\TryCatch_Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exception Handling\TryCatch_Example\TryCatch_Example\obj\Debug\net8.0\TryCatch_Example.AssemblyInfoInputs.cache
+D:\Exception Handling\TryCatch_Example\TryCatch_Example\obj\Debug\net8.0\TryCatch_Example.AssemblyInfo.cs
+D:\Exception Handling\TryCatch_Example\TryCatch_Example\obj\Debug\net8.0\TryCatch_Example.csproj.CoreCompileInputs.cache
+D:\Exception Handling\TryCatch_Example\TryCatch_Example\obj\Debug\net8.0\TryCatch_Example.dll
+D:\Exception Handling\TryCatch_Example\TryCatch_Example\obj\Debug\net8.0\refint\TryCatch_Example.dll
+D:\Exception Handling\TryCatch_Example\TryCatch_Example\obj\Debug\net8.0\TryCatch_Example.pdb
+D:\Exception Handling\TryCatch_Example\TryCatch_Example\obj\Debug\net8.0\TryCatch_Example.genruntimeconfig.cache
+D:\Exception Handling\TryCatch_Example\TryCatch_Example\obj\Debug\net8.0\ref\TryCatch_Example.dll

@@ -1,0 +1,14 @@
+D:\Exception Handling\FormatException\FormatException\bin\Debug\net8.0\FormatException.exe
+D:\Exception Handling\FormatException\FormatException\bin\Debug\net8.0\FormatException.deps.json
+D:\Exception Handling\FormatException\FormatException\bin\Debug\net8.0\FormatException.runtimeconfig.json
+D:\Exception Handling\FormatException\FormatException\bin\Debug\net8.0\FormatException.dll
+D:\Exception Handling\FormatException\FormatException\bin\Debug\net8.0\FormatException.pdb
+D:\Exception Handling\FormatException\FormatException\obj\Debug\net8.0\FormatException.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exception Handling\FormatException\FormatException\obj\Debug\net8.0\FormatException.AssemblyInfoInputs.cache
+D:\Exception Handling\FormatException\FormatException\obj\Debug\net8.0\FormatException.AssemblyInfo.cs
+D:\Exception Handling\FormatException\FormatException\obj\Debug\net8.0\FormatException.csproj.CoreCompileInputs.cache
+D:\Exception Handling\FormatException\FormatException\obj\Debug\net8.0\FormatException.dll
+D:\Exception Handling\FormatException\FormatException\obj\Debug\net8.0\refint\FormatException.dll
+D:\Exception Handling\FormatException\FormatException\obj\Debug\net8.0\FormatException.pdb
+D:\Exception Handling\FormatException\FormatException\obj\Debug\net8.0\FormatException.genruntimeconfig.cache
+D:\Exception Handling\FormatException\FormatException\obj\Debug\net8.0\ref\FormatException.dll

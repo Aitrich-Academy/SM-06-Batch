@@ -1,0 +1,14 @@
+D:\Exception Handling\DivideByZero\DivideByZero\bin\Debug\net8.0\DivideByZero.exe
+D:\Exception Handling\DivideByZero\DivideByZero\bin\Debug\net8.0\DivideByZero.deps.json
+D:\Exception Handling\DivideByZero\DivideByZero\bin\Debug\net8.0\DivideByZero.runtimeconfig.json
+D:\Exception Handling\DivideByZero\DivideByZero\bin\Debug\net8.0\DivideByZero.dll
+D:\Exception Handling\DivideByZero\DivideByZero\bin\Debug\net8.0\DivideByZero.pdb
+D:\Exception Handling\DivideByZero\DivideByZero\obj\Debug\net8.0\DivideByZero.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exception Handling\DivideByZero\DivideByZero\obj\Debug\net8.0\DivideByZero.AssemblyInfoInputs.cache
+D:\Exception Handling\DivideByZero\DivideByZero\obj\Debug\net8.0\DivideByZero.AssemblyInfo.cs
+D:\Exception Handling\DivideByZero\DivideByZero\obj\Debug\net8.0\DivideByZero.csproj.CoreCompileInputs.cache
+D:\Exception Handling\DivideByZero\DivideByZero\obj\Debug\net8.0\DivideByZero.dll
+D:\Exception Handling\DivideByZero\DivideByZero\obj\Debug\net8.0\refint\DivideByZero.dll
+D:\Exception Handling\DivideByZero\DivideByZero\obj\Debug\net8.0\DivideByZero.pdb
+D:\Exception Handling\DivideByZero\DivideByZero\obj\Debug\net8.0\DivideByZero.genruntimeconfig.cache
+D:\Exception Handling\DivideByZero\DivideByZero\obj\Debug\net8.0\ref\DivideByZero.dll

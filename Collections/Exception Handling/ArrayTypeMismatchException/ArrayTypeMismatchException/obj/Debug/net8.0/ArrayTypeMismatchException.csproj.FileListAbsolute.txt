@@ -1,0 +1,14 @@
+D:\Exception Handling\ArrayTypeMismatchException\ArrayTypeMismatchException\bin\Debug\net8.0\ArrayTypeMismatchException.exe
+D:\Exception Handling\ArrayTypeMismatchException\ArrayTypeMismatchException\bin\Debug\net8.0\ArrayTypeMismatchException.deps.json
+D:\Exception Handling\ArrayTypeMismatchException\ArrayTypeMismatchException\bin\Debug\net8.0\ArrayTypeMismatchException.runtimeconfig.json
+D:\Exception Handling\ArrayTypeMismatchException\ArrayTypeMismatchException\bin\Debug\net8.0\ArrayTypeMismatchException.dll
+D:\Exception Handling\ArrayTypeMismatchException\ArrayTypeMismatchException\bin\Debug\net8.0\ArrayTypeMismatchException.pdb
+D:\Exception Handling\ArrayTypeMismatchException\ArrayTypeMismatchException\obj\Debug\net8.0\ArrayTypeMismatchException.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exception Handling\ArrayTypeMismatchException\ArrayTypeMismatchException\obj\Debug\net8.0\ArrayTypeMismatchException.AssemblyInfoInputs.cache
+D:\Exception Handling\ArrayTypeMismatchException\ArrayTypeMismatchException\obj\Debug\net8.0\ArrayTypeMismatchException.AssemblyInfo.cs
+D:\Exception Handling\ArrayTypeMismatchException\ArrayTypeMismatchException\obj\Debug\net8.0\ArrayTypeMismatchException.csproj.CoreCompileInputs.cache
+D:\Exception Handling\ArrayTypeMismatchException\ArrayTypeMismatchException\obj\Debug\net8.0\ArrayTypeMismatchException.dll
+D:\Exception Handling\ArrayTypeMismatchException\ArrayTypeMismatchException\obj\Debug\net8.0\refint\ArrayTypeMismatchException.dll
+D:\Exception Handling\ArrayTypeMismatchException\ArrayTypeMismatchException\obj\Debug\net8.0\ArrayTypeMismatchException.pdb
+D:\Exception Handling\ArrayTypeMismatchException\ArrayTypeMismatchException\obj\Debug\net8.0\ArrayTypeMismatchException.genruntimeconfig.cache
+D:\Exception Handling\ArrayTypeMismatchException\ArrayTypeMismatchException\obj\Debug\net8.0\ref\ArrayTypeMismatchException.dll
