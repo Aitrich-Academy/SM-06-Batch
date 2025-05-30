@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\oops_wrkshop\\polymorphism\\methodoverride\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4DE6D3-3254-477B-9808-93C9531C6FB1}|methodoverride\\methodoverride.csproj|d:\\oops_wrkshop\\polymorphism\\methodoverride\\methodoverride\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4DE6D3-3254-477B-9808-93C9531C6FB1}|methodoverride\\methodoverride.csproj|solutionrelative:methodoverride\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4DE6D3-3254-477B-9808-93C9531C6FB1}|methodoverride\\methodoverride.csproj|d:\\oops_wrkshop\\polymorphism\\methodoverride\\methodoverride\\petseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4DE6D3-3254-477B-9808-93C9531C6FB1}|methodoverride\\methodoverride.csproj|solutionrelative:methodoverride\\petseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4DE6D3-3254-477B-9808-93C9531C6FB1}|methodoverride\\methodoverride.csproj|d:\\oops_wrkshop\\polymorphism\\methodoverride\\methodoverride\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4DE6D3-3254-477B-9808-93C9531C6FB1}|methodoverride\\methodoverride.csproj|solutionrelative:methodoverride\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "petseller.cs",
+              "DocumentMoniker": "D:\\oops_wrkshop\\polymorphism\\methodoverride\\methodoverride\\petseller.cs",
+              "RelativeDocumentMoniker": "methodoverride\\petseller.cs",
+              "ToolTip": "D:\\oops_wrkshop\\polymorphism\\methodoverride\\methodoverride\\petseller.cs",
+              "RelativeToolTip": "methodoverride\\petseller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:14:28.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "D:\\oops_wrkshop\\polymorphism\\methodoverride\\methodoverride\\Pet.cs",
+              "RelativeDocumentMoniker": "methodoverride\\Pet.cs",
+              "ToolTip": "D:\\oops_wrkshop\\polymorphism\\methodoverride\\methodoverride\\Pet.cs",
+              "RelativeToolTip": "methodoverride\\Pet.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:03:34.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\oops_wrkshop\\polymorphism\\methodoverride\\methodoverride\\Program.cs",
+              "RelativeDocumentMoniker": "methodoverride\\Program.cs",
+              "ToolTip": "D:\\oops_wrkshop\\polymorphism\\methodoverride\\methodoverride\\Program.cs",
+              "RelativeToolTip": "methodoverride\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T09:54:56.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 90,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

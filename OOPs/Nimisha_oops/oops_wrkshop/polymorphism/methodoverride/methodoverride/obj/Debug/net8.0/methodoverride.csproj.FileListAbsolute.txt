@@ -1,0 +1,14 @@
+D:\oops_wrkshop\polymorphism\methodoverride\methodoverride\bin\Debug\net8.0\methodoverride.exe
+D:\oops_wrkshop\polymorphism\methodoverride\methodoverride\bin\Debug\net8.0\methodoverride.deps.json
+D:\oops_wrkshop\polymorphism\methodoverride\methodoverride\bin\Debug\net8.0\methodoverride.runtimeconfig.json
+D:\oops_wrkshop\polymorphism\methodoverride\methodoverride\bin\Debug\net8.0\methodoverride.dll
+D:\oops_wrkshop\polymorphism\methodoverride\methodoverride\bin\Debug\net8.0\methodoverride.pdb
+D:\oops_wrkshop\polymorphism\methodoverride\methodoverride\obj\Debug\net8.0\methodoverride.GeneratedMSBuildEditorConfig.editorconfig
+D:\oops_wrkshop\polymorphism\methodoverride\methodoverride\obj\Debug\net8.0\methodoverride.AssemblyInfoInputs.cache
+D:\oops_wrkshop\polymorphism\methodoverride\methodoverride\obj\Debug\net8.0\methodoverride.AssemblyInfo.cs
+D:\oops_wrkshop\polymorphism\methodoverride\methodoverride\obj\Debug\net8.0\methodoverride.csproj.CoreCompileInputs.cache
+D:\oops_wrkshop\polymorphism\methodoverride\methodoverride\obj\Debug\net8.0\methodoverride.dll
+D:\oops_wrkshop\polymorphism\methodoverride\methodoverride\obj\Debug\net8.0\refint\methodoverride.dll
+D:\oops_wrkshop\polymorphism\methodoverride\methodoverride\obj\Debug\net8.0\methodoverride.pdb
+D:\oops_wrkshop\polymorphism\methodoverride\methodoverride\obj\Debug\net8.0\methodoverride.genruntimeconfig.cache
+D:\oops_wrkshop\polymorphism\methodoverride\methodoverride\obj\Debug\net8.0\ref\methodoverride.dll

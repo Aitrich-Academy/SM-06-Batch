@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\oops_wrkshop\\polymorphism\\Methodoverload\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{946A344B-FBD5-4A3E-99C2-8DF226539887}|Methodoverload\\Methodoverload.csproj|d:\\oops_wrkshop\\polymorphism\\methodoverload\\methodoverload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{946A344B-FBD5-4A3E-99C2-8DF226539887}|Methodoverload\\Methodoverload.csproj|solutionrelative:methodoverload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{946A344B-FBD5-4A3E-99C2-8DF226539887}|Methodoverload\\Methodoverload.csproj|d:\\oops_wrkshop\\polymorphism\\methodoverload\\methodoverload\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{946A344B-FBD5-4A3E-99C2-8DF226539887}|Methodoverload\\Methodoverload.csproj|solutionrelative:methodoverload\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{946A344B-FBD5-4A3E-99C2-8DF226539887}|Methodoverload\\Methodoverload.csproj|d:\\oops_wrkshop\\polymorphism\\methodoverload\\methodoverload\\petseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{946A344B-FBD5-4A3E-99C2-8DF226539887}|Methodoverload\\Methodoverload.csproj|solutionrelative:methodoverload\\petseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{946A344B-FBD5-4A3E-99C2-8DF226539887}|Methodoverload\\Methodoverload.csproj|d:\\oops_wrkshop\\polymorphism\\methodoverload\\methodoverload\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{946A344B-FBD5-4A3E-99C2-8DF226539887}|Methodoverload\\Methodoverload.csproj|solutionrelative:methodoverload\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "D:\\oops_wrkshop\\polymorphism\\Methodoverload\\Methodoverload\\Pet.cs",
+              "RelativeDocumentMoniker": "Methodoverload\\Pet.cs",
+              "ToolTip": "D:\\oops_wrkshop\\polymorphism\\Methodoverload\\Methodoverload\\Pet.cs*",
+              "RelativeToolTip": "Methodoverload\\Pet.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T09:28:59.459Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PetSeller.cs",
+              "DocumentMoniker": "D:\\oops_wrkshop\\polymorphism\\Methodoverload\\Methodoverload\\PetSeller.cs",
+              "RelativeDocumentMoniker": "Methodoverload\\PetSeller.cs",
+              "ToolTip": "D:\\oops_wrkshop\\polymorphism\\Methodoverload\\Methodoverload\\PetSeller.cs*",
+              "RelativeToolTip": "Methodoverload\\PetSeller.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T09:40:07.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "D:\\oops_wrkshop\\polymorphism\\Methodoverload\\Methodoverload\\Dog.cs",
+              "RelativeDocumentMoniker": "Methodoverload\\Dog.cs",
+              "ToolTip": "D:\\oops_wrkshop\\polymorphism\\Methodoverload\\Methodoverload\\Dog.cs*",
+              "RelativeToolTip": "Methodoverload\\Dog.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T09:50:27.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\oops_wrkshop\\polymorphism\\Methodoverload\\Methodoverload\\Program.cs",
+              "RelativeDocumentMoniker": "Methodoverload\\Program.cs",
+              "ToolTip": "D:\\oops_wrkshop\\polymorphism\\Methodoverload\\Methodoverload\\Program.cs*",
+              "RelativeToolTip": "Methodoverload\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T09:25:35.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 90,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

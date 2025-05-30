@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\oops_wrkshop\\abstraction\\abstract\\Abstract\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8E0AA1-88F1-46EE-A732-B0C2816674B1}|Abstract\\Abstract.csproj|d:\\oops_wrkshop\\abstraction\\abstract\\abstract\\abstract\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8E0AA1-88F1-46EE-A732-B0C2816674B1}|Abstract\\Abstract.csproj|solutionrelative:abstract\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8E0AA1-88F1-46EE-A732-B0C2816674B1}|Abstract\\Abstract.csproj|d:\\oops_wrkshop\\abstraction\\abstract\\abstract\\abstract\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8E0AA1-88F1-46EE-A732-B0C2816674B1}|Abstract\\Abstract.csproj|solutionrelative:abstract\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8E0AA1-88F1-46EE-A732-B0C2816674B1}|Abstract\\Abstract.csproj|d:\\oops_wrkshop\\abstraction\\abstract\\abstract\\abstract\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8E0AA1-88F1-46EE-A732-B0C2816674B1}|Abstract\\Abstract.csproj|solutionrelative:abstract\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8E0AA1-88F1-46EE-A732-B0C2816674B1}|Abstract\\Abstract.csproj|d:\\oops_wrkshop\\abstraction\\abstract\\abstract\\abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8E0AA1-88F1-46EE-A732-B0C2816674B1}|Abstract\\Abstract.csproj|solutionrelative:abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "D:\\oops_wrkshop\\abstraction\\abstract\\Abstract\\Abstract\\Pet.cs",
+              "RelativeDocumentMoniker": "Abstract\\Pet.cs",
+              "ToolTip": "D:\\oops_wrkshop\\abstraction\\abstract\\Abstract\\Abstract\\Pet.cs",
+              "RelativeToolTip": "Abstract\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:10:37.564Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "D:\\oops_wrkshop\\abstraction\\abstract\\Abstract\\Abstract\\Cat.cs",
+              "RelativeDocumentMoniker": "Abstract\\Cat.cs",
+              "ToolTip": "D:\\oops_wrkshop\\abstraction\\abstract\\Abstract\\Abstract\\Cat.cs",
+              "RelativeToolTip": "Abstract\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:09:56.158Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "D:\\oops_wrkshop\\abstraction\\abstract\\Abstract\\Abstract\\Dog.cs",
+              "RelativeDocumentMoniker": "Abstract\\Dog.cs",
+              "ToolTip": "D:\\oops_wrkshop\\abstraction\\abstract\\Abstract\\Abstract\\Dog.cs",
+              "RelativeToolTip": "Abstract\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:10:17.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\oops_wrkshop\\abstraction\\abstract\\Abstract\\Abstract\\Program.cs",
+              "RelativeDocumentMoniker": "Abstract\\Program.cs",
+              "ToolTip": "D:\\oops_wrkshop\\abstraction\\abstract\\Abstract\\Abstract\\Program.cs",
+              "RelativeToolTip": "Abstract\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:07:23.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 90,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
