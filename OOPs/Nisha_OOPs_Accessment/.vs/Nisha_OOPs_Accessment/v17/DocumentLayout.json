@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPs_Accessment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80FB8AEB-DC50-4873-A1CB-1CAF65707369}|Nisha_OOPs_Accessment\\Nisha_OOPs_Accessment.csproj|d:\\rep1\\c#\\2. oops\\nisha_oops_accessment\\nisha_oops_accessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FB8AEB-DC50-4873-A1CB-1CAF65707369}|Nisha_OOPs_Accessment\\Nisha_OOPs_Accessment.csproj|solutionrelative:nisha_oops_accessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FB8AEB-DC50-4873-A1CB-1CAF65707369}|Nisha_OOPs_Accessment\\Nisha_OOPs_Accessment.csproj|d:\\rep1\\c#\\2. oops\\nisha_oops_accessment\\nisha_oops_accessment\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FB8AEB-DC50-4873-A1CB-1CAF65707369}|Nisha_OOPs_Accessment\\Nisha_OOPs_Accessment.csproj|solutionrelative:nisha_oops_accessment\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FB8AEB-DC50-4873-A1CB-1CAF65707369}|Nisha_OOPs_Accessment\\Nisha_OOPs_Accessment.csproj|d:\\rep1\\c#\\2. oops\\nisha_oops_accessment\\nisha_oops_accessment\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FB8AEB-DC50-4873-A1CB-1CAF65707369}|Nisha_OOPs_Accessment\\Nisha_OOPs_Accessment.csproj|solutionrelative:nisha_oops_accessment\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FB8AEB-DC50-4873-A1CB-1CAF65707369}|Nisha_OOPs_Accessment\\Nisha_OOPs_Accessment.csproj|d:\\rep1\\c#\\2. oops\\nisha_oops_accessment\\nisha_oops_accessment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FB8AEB-DC50-4873-A1CB-1CAF65707369}|Nisha_OOPs_Accessment\\Nisha_OOPs_Accessment.csproj|solutionrelative:nisha_oops_accessment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FB8AEB-DC50-4873-A1CB-1CAF65707369}|Nisha_OOPs_Accessment\\Nisha_OOPs_Accessment.csproj|d:\\rep1\\c#\\2. oops\\nisha_oops_accessment\\nisha_oops_accessment\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FB8AEB-DC50-4873-A1CB-1CAF65707369}|Nisha_OOPs_Accessment\\Nisha_OOPs_Accessment.csproj|solutionrelative:nisha_oops_accessment\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PartTimeEmployee.cs",
+              "DocumentMoniker": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPs_Accessment\\Nisha_OOPs_Accessment\\PartTimeEmployee.cs",
+              "RelativeDocumentMoniker": "Nisha_OOPs_Accessment\\PartTimeEmployee.cs",
+              "ToolTip": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPs_Accessment\\Nisha_OOPs_Accessment\\PartTimeEmployee.cs*",
+              "RelativeToolTip": "Nisha_OOPs_Accessment\\PartTimeEmployee.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T04:49:30.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FullTimeEmployee.cs",
+              "DocumentMoniker": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPs_Accessment\\Nisha_OOPs_Accessment\\FullTimeEmployee.cs",
+              "RelativeDocumentMoniker": "Nisha_OOPs_Accessment\\FullTimeEmployee.cs",
+              "ToolTip": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPs_Accessment\\Nisha_OOPs_Accessment\\FullTimeEmployee.cs",
+              "RelativeToolTip": "Nisha_OOPs_Accessment\\FullTimeEmployee.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAnwBcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T04:49:05.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPrintable.cs",
+              "DocumentMoniker": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPs_Accessment\\Nisha_OOPs_Accessment\\IPrintable.cs",
+              "RelativeDocumentMoniker": "Nisha_OOPs_Accessment\\IPrintable.cs",
+              "ToolTip": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPs_Accessment\\Nisha_OOPs_Accessment\\IPrintable.cs",
+              "RelativeToolTip": "Nisha_OOPs_Accessment\\IPrintable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T04:47:40.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPs_Accessment\\Nisha_OOPs_Accessment\\Employee.cs",
+              "RelativeDocumentMoniker": "Nisha_OOPs_Accessment\\Employee.cs",
+              "ToolTip": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPs_Accessment\\Nisha_OOPs_Accessment\\Employee.cs",
+              "RelativeToolTip": "Nisha_OOPs_Accessment\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T04:42:56.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPs_Accessment\\Nisha_OOPs_Accessment\\Program.cs",
+              "RelativeDocumentMoniker": "Nisha_OOPs_Accessment\\Program.cs",
+              "ToolTip": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPs_Accessment\\Nisha_OOPs_Accessment\\Program.cs*",
+              "RelativeToolTip": "Nisha_OOPs_Accessment\\Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T04:39:05.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 90,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
