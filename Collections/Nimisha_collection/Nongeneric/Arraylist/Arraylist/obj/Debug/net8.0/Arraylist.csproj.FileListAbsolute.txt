@@ -1,0 +1,14 @@
+D:\collection\Nongeneric\Arraylist\Arraylist\bin\Debug\net8.0\Arraylist.exe
+D:\collection\Nongeneric\Arraylist\Arraylist\bin\Debug\net8.0\Arraylist.deps.json
+D:\collection\Nongeneric\Arraylist\Arraylist\bin\Debug\net8.0\Arraylist.runtimeconfig.json
+D:\collection\Nongeneric\Arraylist\Arraylist\bin\Debug\net8.0\Arraylist.dll
+D:\collection\Nongeneric\Arraylist\Arraylist\bin\Debug\net8.0\Arraylist.pdb
+D:\collection\Nongeneric\Arraylist\Arraylist\obj\Debug\net8.0\Arraylist.GeneratedMSBuildEditorConfig.editorconfig
+D:\collection\Nongeneric\Arraylist\Arraylist\obj\Debug\net8.0\Arraylist.AssemblyInfoInputs.cache
+D:\collection\Nongeneric\Arraylist\Arraylist\obj\Debug\net8.0\Arraylist.AssemblyInfo.cs
+D:\collection\Nongeneric\Arraylist\Arraylist\obj\Debug\net8.0\Arraylist.csproj.CoreCompileInputs.cache
+D:\collection\Nongeneric\Arraylist\Arraylist\obj\Debug\net8.0\Arraylist.dll
+D:\collection\Nongeneric\Arraylist\Arraylist\obj\Debug\net8.0\refint\Arraylist.dll
+D:\collection\Nongeneric\Arraylist\Arraylist\obj\Debug\net8.0\Arraylist.pdb
+D:\collection\Nongeneric\Arraylist\Arraylist\obj\Debug\net8.0\Arraylist.genruntimeconfig.cache
+D:\collection\Nongeneric\Arraylist\Arraylist\obj\Debug\net8.0\ref\Arraylist.dll

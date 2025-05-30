@@ -1,0 +1,14 @@
+D:\collection\Generic\Workshop\Dictionary\Dictionary\bin\Debug\net8.0\Dictionary.exe
+D:\collection\Generic\Workshop\Dictionary\Dictionary\bin\Debug\net8.0\Dictionary.deps.json
+D:\collection\Generic\Workshop\Dictionary\Dictionary\bin\Debug\net8.0\Dictionary.runtimeconfig.json
+D:\collection\Generic\Workshop\Dictionary\Dictionary\bin\Debug\net8.0\Dictionary.dll
+D:\collection\Generic\Workshop\Dictionary\Dictionary\bin\Debug\net8.0\Dictionary.pdb
+D:\collection\Generic\Workshop\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\collection\Generic\Workshop\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfoInputs.cache
+D:\collection\Generic\Workshop\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfo.cs
+D:\collection\Generic\Workshop\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.csproj.CoreCompileInputs.cache
+D:\collection\Generic\Workshop\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.dll
+D:\collection\Generic\Workshop\Dictionary\Dictionary\obj\Debug\net8.0\refint\Dictionary.dll
+D:\collection\Generic\Workshop\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.pdb
+D:\collection\Generic\Workshop\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.genruntimeconfig.cache
+D:\collection\Generic\Workshop\Dictionary\Dictionary\obj\Debug\net8.0\ref\Dictionary.dll
