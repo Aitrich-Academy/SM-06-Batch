@@ -1,0 +1,14 @@
+D:\oops_wrkshop\pet_App\pet_App\bin\Debug\net8.0\pet_App.exe
+D:\oops_wrkshop\pet_App\pet_App\bin\Debug\net8.0\pet_App.deps.json
+D:\oops_wrkshop\pet_App\pet_App\bin\Debug\net8.0\pet_App.runtimeconfig.json
+D:\oops_wrkshop\pet_App\pet_App\bin\Debug\net8.0\pet_App.dll
+D:\oops_wrkshop\pet_App\pet_App\bin\Debug\net8.0\pet_App.pdb
+D:\oops_wrkshop\pet_App\pet_App\obj\Debug\net8.0\pet_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\oops_wrkshop\pet_App\pet_App\obj\Debug\net8.0\pet_App.AssemblyInfoInputs.cache
+D:\oops_wrkshop\pet_App\pet_App\obj\Debug\net8.0\pet_App.AssemblyInfo.cs
+D:\oops_wrkshop\pet_App\pet_App\obj\Debug\net8.0\pet_App.csproj.CoreCompileInputs.cache
+D:\oops_wrkshop\pet_App\pet_App\obj\Debug\net8.0\pet_App.dll
+D:\oops_wrkshop\pet_App\pet_App\obj\Debug\net8.0\refint\pet_App.dll
+D:\oops_wrkshop\pet_App\pet_App\obj\Debug\net8.0\pet_App.pdb
+D:\oops_wrkshop\pet_App\pet_App\obj\Debug\net8.0\pet_App.genruntimeconfig.cache
+D:\oops_wrkshop\pet_App\pet_App\obj\Debug\net8.0\ref\pet_App.dll

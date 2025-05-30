@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\oops_assessment\\Employee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51689ED3-C806-4C89-A9A6-D326C1374700}|Employee\\Employee.csproj|d:\\oops_assessment\\employee\\employee\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51689ED3-C806-4C89-A9A6-D326C1374700}|Employee\\Employee.csproj|solutionrelative:employee\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51689ED3-C806-4C89-A9A6-D326C1374700}|Employee\\Employee.csproj|d:\\oops_assessment\\employee\\employee\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51689ED3-C806-4C89-A9A6-D326C1374700}|Employee\\Employee.csproj|solutionrelative:employee\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51689ED3-C806-4C89-A9A6-D326C1374700}|Employee\\Employee.csproj|d:\\oops_assessment\\employee\\employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51689ED3-C806-4C89-A9A6-D326C1374700}|Employee\\Employee.csproj|solutionrelative:employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51689ED3-C806-4C89-A9A6-D326C1374700}|Employee\\Employee.csproj|d:\\oops_assessment\\employee\\employee\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51689ED3-C806-4C89-A9A6-D326C1374700}|Employee\\Employee.csproj|solutionrelative:employee\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51689ED3-C806-4C89-A9A6-D326C1374700}|Employee\\Employee.csproj|d:\\oops_assessment\\employee\\employee\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51689ED3-C806-4C89-A9A6-D326C1374700}|Employee\\Employee.csproj|solutionrelative:employee\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Parttimeemployee.cs",
+              "DocumentMoniker": "D:\\oops_assessment\\Employee\\Employee\\Parttimeemployee.cs",
+              "RelativeDocumentMoniker": "Employee\\Parttimeemployee.cs",
+              "ToolTip": "D:\\oops_assessment\\Employee\\Employee\\Parttimeemployee.cs",
+              "RelativeToolTip": "Employee\\Parttimeemployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:04:49.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Iprintable.cs",
+              "DocumentMoniker": "D:\\oops_assessment\\Employee\\Employee\\Iprintable.cs",
+              "RelativeDocumentMoniker": "Employee\\Iprintable.cs",
+              "ToolTip": "D:\\oops_assessment\\Employee\\Employee\\Iprintable.cs",
+              "RelativeToolTip": "Employee\\Iprintable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T04:57:58.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FulltimeEmployee.cs",
+              "DocumentMoniker": "D:\\oops_assessment\\Employee\\Employee\\FulltimeEmployee.cs",
+              "RelativeDocumentMoniker": "Employee\\FulltimeEmployee.cs",
+              "ToolTip": "D:\\oops_assessment\\Employee\\Employee\\FulltimeEmployee.cs",
+              "RelativeToolTip": "Employee\\FulltimeEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T04:53:12.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\oops_assessment\\Employee\\Employee\\Program.cs",
+              "RelativeDocumentMoniker": "Employee\\Program.cs",
+              "ToolTip": "D:\\oops_assessment\\Employee\\Employee\\Program.cs",
+              "RelativeToolTip": "Employee\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T04:51:58.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "D:\\oops_assessment\\Employee\\Employee\\Employ.cs",
+              "RelativeDocumentMoniker": "Employee\\Employ.cs",
+              "ToolTip": "D:\\oops_assessment\\Employee\\Employee\\Employ.cs",
+              "RelativeToolTip": "Employee\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T04:51:50.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 90,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

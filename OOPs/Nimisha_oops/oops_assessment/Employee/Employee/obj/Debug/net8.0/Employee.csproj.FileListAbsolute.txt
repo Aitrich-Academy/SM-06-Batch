@@ -1,0 +1,14 @@
+D:\oops_assessment\Employee\Employee\bin\Debug\net8.0\Employee.exe
+D:\oops_assessment\Employee\Employee\bin\Debug\net8.0\Employee.deps.json
+D:\oops_assessment\Employee\Employee\bin\Debug\net8.0\Employee.runtimeconfig.json
+D:\oops_assessment\Employee\Employee\bin\Debug\net8.0\Employee.dll
+D:\oops_assessment\Employee\Employee\bin\Debug\net8.0\Employee.pdb
+D:\oops_assessment\Employee\Employee\obj\Debug\net8.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\oops_assessment\Employee\Employee\obj\Debug\net8.0\Employee.AssemblyInfoInputs.cache
+D:\oops_assessment\Employee\Employee\obj\Debug\net8.0\Employee.AssemblyInfo.cs
+D:\oops_assessment\Employee\Employee\obj\Debug\net8.0\Employee.csproj.CoreCompileInputs.cache
+D:\oops_assessment\Employee\Employee\obj\Debug\net8.0\Employee.dll
+D:\oops_assessment\Employee\Employee\obj\Debug\net8.0\refint\Employee.dll
+D:\oops_assessment\Employee\Employee\obj\Debug\net8.0\Employee.pdb
+D:\oops_assessment\Employee\Employee\obj\Debug\net8.0\Employee.genruntimeconfig.cache
+D:\oops_assessment\Employee\Employee\obj\Debug\net8.0\ref\Employee.dll

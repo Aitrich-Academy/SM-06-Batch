@@ -1,0 +1,14 @@
+D:\oops_wrkshop\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.exe
+D:\oops_wrkshop\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.deps.json
+D:\oops_wrkshop\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.runtimeconfig.json
+D:\oops_wrkshop\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.dll
+D:\oops_wrkshop\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.pdb
+D:\oops_wrkshop\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\oops_wrkshop\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfoInputs.cache
+D:\oops_wrkshop\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfo.cs
+D:\oops_wrkshop\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.csproj.CoreCompileInputs.cache
+D:\oops_wrkshop\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.dll
+D:\oops_wrkshop\Encapsulation\Encapsulation\obj\Debug\net8.0\refint\Encapsulation.dll
+D:\oops_wrkshop\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.pdb
+D:\oops_wrkshop\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.genruntimeconfig.cache
+D:\oops_wrkshop\Encapsulation\Encapsulation\obj\Debug\net8.0\ref\Encapsulation.dll
