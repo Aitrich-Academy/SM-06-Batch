@@ -13,3 +13,18 @@ D:\rep1\C#\2. OOPs\Nisha_OOPs_Accessment\Nisha_OOPs_Accessment\obj\Debug\net8.0\
 D:\rep1\C#\2. OOPs\Nisha_OOPs_Accessment\Nisha_OOPs_Accessment\obj\Debug\net8.0\Nisha_OOPs_Accessment.pdb
 D:\rep1\C#\2. OOPs\Nisha_OOPs_Accessment\Nisha_OOPs_Accessment\obj\Debug\net8.0\Nisha_OOPs_Accessment.genruntimeconfig.cache
 D:\rep1\C#\2. OOPs\Nisha_OOPs_Accessment\Nisha_OOPs_Accessment\obj\Debug\net8.0\ref\Nisha_OOPs_Accessment.dll
+D:\SM-06-Batch\OOPs\Nisha_OOPs_Accessment\Nisha_OOPs_Accessment\bin\Debug\net8.0\Nisha_OOPs_Accessment.exe
+D:\SM-06-Batch\OOPs\Nisha_OOPs_Accessment\Nisha_OOPs_Accessment\bin\Debug\net8.0\Nisha_OOPs_Accessment.deps.json
+D:\SM-06-Batch\OOPs\Nisha_OOPs_Accessment\Nisha_OOPs_Accessment\bin\Debug\net8.0\Nisha_OOPs_Accessment.runtimeconfig.json
+D:\SM-06-Batch\OOPs\Nisha_OOPs_Accessment\Nisha_OOPs_Accessment\bin\Debug\net8.0\Nisha_OOPs_Accessment.dll
+D:\SM-06-Batch\OOPs\Nisha_OOPs_Accessment\Nisha_OOPs_Accessment\bin\Debug\net8.0\Nisha_OOPs_Accessment.pdb
+D:\SM-06-Batch\OOPs\Nisha_OOPs_Accessment\Nisha_OOPs_Accessment\obj\Debug\net8.0\Nisha_OOPs_Accessment.GeneratedMSBuildEditorConfig.editorconfig
+D:\SM-06-Batch\OOPs\Nisha_OOPs_Accessment\Nisha_OOPs_Accessment\obj\Debug\net8.0\Nisha_OOPs_Accessment.AssemblyInfoInputs.cache
+D:\SM-06-Batch\OOPs\Nisha_OOPs_Accessment\Nisha_OOPs_Accessment\obj\Debug\net8.0\Nisha_OOPs_Accessment.AssemblyInfo.cs
+D:\SM-06-Batch\OOPs\Nisha_OOPs_Accessment\Nisha_OOPs_Accessment\obj\Debug\net8.0\Nisha_OOPs_Accessment.csproj.CoreCompileInputs.cache
+D:\SM-06-Batch\OOPs\Nisha_OOPs_Accessment\Nisha_OOPs_Accessment\obj\Debug\net8.0\Nisha_OOPs_Accessment.sourcelink.json
+D:\SM-06-Batch\OOPs\Nisha_OOPs_Accessment\Nisha_OOPs_Accessment\obj\Debug\net8.0\Nisha_OOPs_Accessment.dll
+D:\SM-06-Batch\OOPs\Nisha_OOPs_Accessment\Nisha_OOPs_Accessment\obj\Debug\net8.0\refint\Nisha_OOPs_Accessment.dll
+D:\SM-06-Batch\OOPs\Nisha_OOPs_Accessment\Nisha_OOPs_Accessment\obj\Debug\net8.0\Nisha_OOPs_Accessment.pdb
+D:\SM-06-Batch\OOPs\Nisha_OOPs_Accessment\Nisha_OOPs_Accessment\obj\Debug\net8.0\Nisha_OOPs_Accessment.genruntimeconfig.cache
+D:\SM-06-Batch\OOPs\Nisha_OOPs_Accessment\Nisha_OOPs_Accessment\obj\Debug\net8.0\ref\Nisha_OOPs_Accessment.dll
