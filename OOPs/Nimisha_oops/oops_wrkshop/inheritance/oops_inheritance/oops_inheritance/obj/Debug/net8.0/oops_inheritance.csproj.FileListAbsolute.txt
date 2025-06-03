@@ -1,0 +1,14 @@
+D:\oops_wrkshop\inheritance\oops_inheritance\oops_inheritance\bin\Debug\net8.0\oops_inheritance.exe
+D:\oops_wrkshop\inheritance\oops_inheritance\oops_inheritance\bin\Debug\net8.0\oops_inheritance.deps.json
+D:\oops_wrkshop\inheritance\oops_inheritance\oops_inheritance\bin\Debug\net8.0\oops_inheritance.runtimeconfig.json
+D:\oops_wrkshop\inheritance\oops_inheritance\oops_inheritance\bin\Debug\net8.0\oops_inheritance.dll
+D:\oops_wrkshop\inheritance\oops_inheritance\oops_inheritance\bin\Debug\net8.0\oops_inheritance.pdb
+D:\oops_wrkshop\inheritance\oops_inheritance\oops_inheritance\obj\Debug\net8.0\oops_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\oops_wrkshop\inheritance\oops_inheritance\oops_inheritance\obj\Debug\net8.0\oops_inheritance.AssemblyInfoInputs.cache
+D:\oops_wrkshop\inheritance\oops_inheritance\oops_inheritance\obj\Debug\net8.0\oops_inheritance.AssemblyInfo.cs
+D:\oops_wrkshop\inheritance\oops_inheritance\oops_inheritance\obj\Debug\net8.0\oops_inheritance.csproj.CoreCompileInputs.cache
+D:\oops_wrkshop\inheritance\oops_inheritance\oops_inheritance\obj\Debug\net8.0\oops_inheritance.dll
+D:\oops_wrkshop\inheritance\oops_inheritance\oops_inheritance\obj\Debug\net8.0\refint\oops_inheritance.dll
+D:\oops_wrkshop\inheritance\oops_inheritance\oops_inheritance\obj\Debug\net8.0\oops_inheritance.pdb
+D:\oops_wrkshop\inheritance\oops_inheritance\oops_inheritance\obj\Debug\net8.0\oops_inheritance.genruntimeconfig.cache
+D:\oops_wrkshop\inheritance\oops_inheritance\oops_inheritance\obj\Debug\net8.0\ref\oops_inheritance.dll

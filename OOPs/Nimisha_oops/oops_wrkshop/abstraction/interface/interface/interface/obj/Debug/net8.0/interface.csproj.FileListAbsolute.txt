@@ -1,0 +1,14 @@
+D:\oops_wrkshop\abstraction\interface\interface\interface\obj\Debug\net8.0\interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\oops_wrkshop\abstraction\interface\interface\interface\obj\Debug\net8.0\interface.AssemblyInfoInputs.cache
+D:\oops_wrkshop\abstraction\interface\interface\interface\obj\Debug\net8.0\interface.AssemblyInfo.cs
+D:\oops_wrkshop\abstraction\interface\interface\interface\obj\Debug\net8.0\interface.csproj.CoreCompileInputs.cache
+D:\oops_wrkshop\abstraction\interface\interface\interface\bin\Debug\net8.0\Interface.exe
+D:\oops_wrkshop\abstraction\interface\interface\interface\bin\Debug\net8.0\Interface.deps.json
+D:\oops_wrkshop\abstraction\interface\interface\interface\bin\Debug\net8.0\Interface.runtimeconfig.json
+D:\oops_wrkshop\abstraction\interface\interface\interface\bin\Debug\net8.0\Interface.dll
+D:\oops_wrkshop\abstraction\interface\interface\interface\bin\Debug\net8.0\Interface.pdb
+D:\oops_wrkshop\abstraction\interface\interface\interface\obj\Debug\net8.0\Interface.dll
+D:\oops_wrkshop\abstraction\interface\interface\interface\obj\Debug\net8.0\refint\Interface.dll
+D:\oops_wrkshop\abstraction\interface\interface\interface\obj\Debug\net8.0\Interface.pdb
+D:\oops_wrkshop\abstraction\interface\interface\interface\obj\Debug\net8.0\Interface.genruntimeconfig.cache
+D:\oops_wrkshop\abstraction\interface\interface\interface\obj\Debug\net8.0\ref\Interface.dll

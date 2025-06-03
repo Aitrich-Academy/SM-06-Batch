@@ -1,0 +1,14 @@
+D:\collection\Generic\Workshop\List\List\bin\Debug\net8.0\List.exe
+D:\collection\Generic\Workshop\List\List\bin\Debug\net8.0\List.deps.json
+D:\collection\Generic\Workshop\List\List\bin\Debug\net8.0\List.runtimeconfig.json
+D:\collection\Generic\Workshop\List\List\bin\Debug\net8.0\List.dll
+D:\collection\Generic\Workshop\List\List\bin\Debug\net8.0\List.pdb
+D:\collection\Generic\Workshop\List\List\obj\Debug\net8.0\List.GeneratedMSBuildEditorConfig.editorconfig
+D:\collection\Generic\Workshop\List\List\obj\Debug\net8.0\List.AssemblyInfoInputs.cache
+D:\collection\Generic\Workshop\List\List\obj\Debug\net8.0\List.AssemblyInfo.cs
+D:\collection\Generic\Workshop\List\List\obj\Debug\net8.0\List.csproj.CoreCompileInputs.cache
+D:\collection\Generic\Workshop\List\List\obj\Debug\net8.0\List.dll
+D:\collection\Generic\Workshop\List\List\obj\Debug\net8.0\refint\List.dll
+D:\collection\Generic\Workshop\List\List\obj\Debug\net8.0\List.pdb
+D:\collection\Generic\Workshop\List\List\obj\Debug\net8.0\List.genruntimeconfig.cache
+D:\collection\Generic\Workshop\List\List\obj\Debug\net8.0\ref\List.dll
