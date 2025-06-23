@@ -1,0 +1,15 @@
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Interface\Interface\bin\Debug\net8.0\Interface.exe
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Interface\Interface\bin\Debug\net8.0\Interface.deps.json
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Interface\Interface\bin\Debug\net8.0\Interface.runtimeconfig.json
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Interface\Interface\bin\Debug\net8.0\Interface.dll
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Interface\Interface\bin\Debug\net8.0\Interface.pdb
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Interface\Interface\obj\Debug\net8.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Interface\Interface\obj\Debug\net8.0\Interface.AssemblyInfoInputs.cache
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Interface\Interface\obj\Debug\net8.0\Interface.AssemblyInfo.cs
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Interface\Interface\obj\Debug\net8.0\Interface.csproj.CoreCompileInputs.cache
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Interface\Interface\obj\Debug\net8.0\Interface.sourcelink.json
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Interface\Interface\obj\Debug\net8.0\Interface.dll
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Interface\Interface\obj\Debug\net8.0\refint\Interface.dll
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Interface\Interface\obj\Debug\net8.0\Interface.pdb
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Interface\Interface\obj\Debug\net8.0\Interface.genruntimeconfig.cache
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Interface\Interface\obj\Debug\net8.0\ref\Interface.dll
