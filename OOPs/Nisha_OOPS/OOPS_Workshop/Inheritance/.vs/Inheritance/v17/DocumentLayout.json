@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPS\\OOPS_Workshop\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00DCE0B1-DF18-4F2A-B8A9-FB1FAEA79683}|Inheritance\\Inheritance.csproj|d:\\rep1\\c#\\2. oops\\nisha_oops\\oops_workshop\\inheritance\\inheritance\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DCE0B1-DF18-4F2A-B8A9-FB1FAEA79683}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DCE0B1-DF18-4F2A-B8A9-FB1FAEA79683}|Inheritance\\Inheritance.csproj|d:\\rep1\\c#\\2. oops\\nisha_oops\\oops_workshop\\inheritance\\inheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DCE0B1-DF18-4F2A-B8A9-FB1FAEA79683}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DCE0B1-DF18-4F2A-B8A9-FB1FAEA79683}|Inheritance\\Inheritance.csproj|d:\\rep1\\c#\\2. oops\\nisha_oops\\oops_workshop\\inheritance\\inheritance\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DCE0B1-DF18-4F2A-B8A9-FB1FAEA79683}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DCE0B1-DF18-4F2A-B8A9-FB1FAEA79683}|Inheritance\\Inheritance.csproj|d:\\rep1\\c#\\2. oops\\nisha_oops\\oops_workshop\\inheritance\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DCE0B1-DF18-4F2A-B8A9-FB1FAEA79683}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPS\\OOPS_Workshop\\Inheritance\\Inheritance\\Pet.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Pet.cs",
+              "ToolTip": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPS\\OOPS_Workshop\\Inheritance\\Inheritance\\Pet.cs",
+              "RelativeToolTip": "Inheritance\\Pet.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T07:01:17.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPS\\OOPS_Workshop\\Inheritance\\Inheritance\\Dog.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Dog.cs",
+              "ToolTip": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPS\\OOPS_Workshop\\Inheritance\\Inheritance\\Dog.cs",
+              "RelativeToolTip": "Inheritance\\Dog.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T07:01:07.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPS\\OOPS_Workshop\\Inheritance\\Inheritance\\Cat.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Cat.cs",
+              "ToolTip": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPS\\OOPS_Workshop\\Inheritance\\Inheritance\\Cat.cs",
+              "RelativeToolTip": "Inheritance\\Cat.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T07:00:57.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPS\\OOPS_Workshop\\Inheritance\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Program.cs",
+              "ToolTip": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPS\\OOPS_Workshop\\Inheritance\\Inheritance\\Program.cs",
+              "RelativeToolTip": "Inheritance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T05:46:09.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 8,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

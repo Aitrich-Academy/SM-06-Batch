@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPS\\OOPS_Workshop\\Abstraction\\Abstract\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABE4C7E-D6A7-4F59-830C-BD23F54EE5BD}|Abstract\\Abstract.csproj|d:\\rep1\\c#\\2. oops\\nisha_oops\\oops_workshop\\abstraction\\abstract\\abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABE4C7E-D6A7-4F59-830C-BD23F54EE5BD}|Abstract\\Abstract.csproj|solutionrelative:abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABE4C7E-D6A7-4F59-830C-BD23F54EE5BD}|Abstract\\Abstract.csproj|d:\\rep1\\c#\\2. oops\\nisha_oops\\oops_workshop\\abstraction\\abstract\\abstract\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABE4C7E-D6A7-4F59-830C-BD23F54EE5BD}|Abstract\\Abstract.csproj|solutionrelative:abstract\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABE4C7E-D6A7-4F59-830C-BD23F54EE5BD}|Abstract\\Abstract.csproj|d:\\rep1\\c#\\2. oops\\nisha_oops\\oops_workshop\\abstraction\\abstract\\abstract\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABE4C7E-D6A7-4F59-830C-BD23F54EE5BD}|Abstract\\Abstract.csproj|solutionrelative:abstract\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABE4C7E-D6A7-4F59-830C-BD23F54EE5BD}|Abstract\\Abstract.csproj|d:\\rep1\\c#\\2. oops\\nisha_oops\\oops_workshop\\abstraction\\abstract\\abstract\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABE4C7E-D6A7-4F59-830C-BD23F54EE5BD}|Abstract\\Abstract.csproj|solutionrelative:abstract\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPS\\OOPS_Workshop\\Abstraction\\Abstract\\Abstract\\Cat.cs",
+              "RelativeDocumentMoniker": "Abstract\\Cat.cs",
+              "ToolTip": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPS\\OOPS_Workshop\\Abstraction\\Abstract\\Abstract\\Cat.cs",
+              "RelativeToolTip": "Abstract\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T21:10:32.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPS\\OOPS_Workshop\\Abstraction\\Abstract\\Abstract\\Dog.cs",
+              "RelativeDocumentMoniker": "Abstract\\Dog.cs",
+              "ToolTip": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPS\\OOPS_Workshop\\Abstraction\\Abstract\\Abstract\\Dog.cs",
+              "RelativeToolTip": "Abstract\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T21:10:17.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPS\\OOPS_Workshop\\Abstraction\\Abstract\\Abstract\\Pet.cs",
+              "RelativeDocumentMoniker": "Abstract\\Pet.cs",
+              "ToolTip": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPS\\OOPS_Workshop\\Abstraction\\Abstract\\Abstract\\Pet.cs",
+              "RelativeToolTip": "Abstract\\Pet.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T21:09:45.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPS\\OOPS_Workshop\\Abstraction\\Abstract\\Abstract\\Program.cs",
+              "RelativeDocumentMoniker": "Abstract\\Program.cs",
+              "ToolTip": "D:\\rep1\\C#\\2. OOPs\\Nisha_OOPS\\OOPS_Workshop\\Abstraction\\Abstract\\Abstract\\Program.cs",
+              "RelativeToolTip": "Abstract\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:22:29.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 90,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
