@@ -1,0 +1,15 @@
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.exe
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.deps.json
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.runtimeconfig.json
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.dll
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.pdb
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfoInputs.cache
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfo.cs
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.sourcelink.json
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.dll
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Inheritance\Inheritance\obj\Debug\net8.0\refint\Inheritance.dll
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.pdb
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.genruntimeconfig.cache
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Inheritance\Inheritance\obj\Debug\net8.0\ref\Inheritance.dll

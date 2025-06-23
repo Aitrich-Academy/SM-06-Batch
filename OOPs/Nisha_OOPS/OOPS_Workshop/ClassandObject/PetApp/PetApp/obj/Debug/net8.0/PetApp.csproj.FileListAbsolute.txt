@@ -1,0 +1,15 @@
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\PetApp\PetApp\bin\Debug\net8.0\PetApp.exe
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\PetApp\PetApp\bin\Debug\net8.0\PetApp.deps.json
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\PetApp\PetApp\bin\Debug\net8.0\PetApp.runtimeconfig.json
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\PetApp\PetApp\bin\Debug\net8.0\PetApp.dll
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\PetApp\PetApp\bin\Debug\net8.0\PetApp.pdb
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\PetApp\PetApp\obj\Debug\net8.0\PetApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\PetApp\PetApp\obj\Debug\net8.0\PetApp.AssemblyInfoInputs.cache
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\PetApp\PetApp\obj\Debug\net8.0\PetApp.AssemblyInfo.cs
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\PetApp\PetApp\obj\Debug\net8.0\PetApp.csproj.CoreCompileInputs.cache
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\PetApp\PetApp\obj\Debug\net8.0\PetApp.sourcelink.json
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\PetApp\PetApp\obj\Debug\net8.0\PetApp.dll
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\PetApp\PetApp\obj\Debug\net8.0\refint\PetApp.dll
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\PetApp\PetApp\obj\Debug\net8.0\PetApp.pdb
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\PetApp\PetApp\obj\Debug\net8.0\PetApp.genruntimeconfig.cache
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\PetApp\PetApp\obj\Debug\net8.0\ref\PetApp.dll

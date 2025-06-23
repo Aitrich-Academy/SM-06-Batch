@@ -1,0 +1,15 @@
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfoInputs.cache
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfo.cs
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.csproj.CoreCompileInputs.cache
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.sourcelink.json
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Encapsulation\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.exe
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Encapsulation\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.deps.json
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Encapsulation\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.runtimeconfig.json
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Encapsulation\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.dll
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Encapsulation\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.pdb
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.dll
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\refint\Encapsulation.dll
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.pdb
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.genruntimeconfig.cache
+D:\rep1\C#\2. OOPs\Nisha_OOPS\OOPS_Workshop\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\ref\Encapsulation.dll
