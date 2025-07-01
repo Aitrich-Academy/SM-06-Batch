@@ -1,0 +1,15 @@
+F:\rep1\C#\4. Exception Handling\Collection_Exception_Assessment_Nisha\Collection_Exception_Assessment_Nisha\bin\Debug\net8.0\Collection_Exception_Assessment_Nisha.exe
+F:\rep1\C#\4. Exception Handling\Collection_Exception_Assessment_Nisha\Collection_Exception_Assessment_Nisha\bin\Debug\net8.0\Collection_Exception_Assessment_Nisha.deps.json
+F:\rep1\C#\4. Exception Handling\Collection_Exception_Assessment_Nisha\Collection_Exception_Assessment_Nisha\bin\Debug\net8.0\Collection_Exception_Assessment_Nisha.runtimeconfig.json
+F:\rep1\C#\4. Exception Handling\Collection_Exception_Assessment_Nisha\Collection_Exception_Assessment_Nisha\bin\Debug\net8.0\Collection_Exception_Assessment_Nisha.dll
+F:\rep1\C#\4. Exception Handling\Collection_Exception_Assessment_Nisha\Collection_Exception_Assessment_Nisha\bin\Debug\net8.0\Collection_Exception_Assessment_Nisha.pdb
+F:\rep1\C#\4. Exception Handling\Collection_Exception_Assessment_Nisha\Collection_Exception_Assessment_Nisha\obj\Debug\net8.0\Collection_Exception_Assessment_Nisha.GeneratedMSBuildEditorConfig.editorconfig
+F:\rep1\C#\4. Exception Handling\Collection_Exception_Assessment_Nisha\Collection_Exception_Assessment_Nisha\obj\Debug\net8.0\Collection_Exception_Assessment_Nisha.AssemblyInfoInputs.cache
+F:\rep1\C#\4. Exception Handling\Collection_Exception_Assessment_Nisha\Collection_Exception_Assessment_Nisha\obj\Debug\net8.0\Collection_Exception_Assessment_Nisha.AssemblyInfo.cs
+F:\rep1\C#\4. Exception Handling\Collection_Exception_Assessment_Nisha\Collection_Exception_Assessment_Nisha\obj\Debug\net8.0\Collection_Exception_Assessment_Nisha.csproj.CoreCompileInputs.cache
+F:\rep1\C#\4. Exception Handling\Collection_Exception_Assessment_Nisha\Collection_Exception_Assessment_Nisha\obj\Debug\net8.0\Collection_Exception_Assessment_Nisha.sourcelink.json
+F:\rep1\C#\4. Exception Handling\Collection_Exception_Assessment_Nisha\Collection_Exception_Assessment_Nisha\obj\Debug\net8.0\Collection_Exception_Assessment_Nisha.dll
+F:\rep1\C#\4. Exception Handling\Collection_Exception_Assessment_Nisha\Collection_Exception_Assessment_Nisha\obj\Debug\net8.0\refint\Collection_Exception_Assessment_Nisha.dll
+F:\rep1\C#\4. Exception Handling\Collection_Exception_Assessment_Nisha\Collection_Exception_Assessment_Nisha\obj\Debug\net8.0\Collection_Exception_Assessment_Nisha.pdb
+F:\rep1\C#\4. Exception Handling\Collection_Exception_Assessment_Nisha\Collection_Exception_Assessment_Nisha\obj\Debug\net8.0\Collection_Exception_Assessment_Nisha.genruntimeconfig.cache
+F:\rep1\C#\4. Exception Handling\Collection_Exception_Assessment_Nisha\Collection_Exception_Assessment_Nisha\obj\Debug\net8.0\ref\Collection_Exception_Assessment_Nisha.dll
