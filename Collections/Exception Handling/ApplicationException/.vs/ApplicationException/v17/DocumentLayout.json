@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Exception Handling\\ApplicationException\\",
+  "WorkspaceRootPath": "D:\\SM-06-Batch\\Collections\\Exception Handling\\ApplicationException\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D3D46E8-47A3-4D24-9265-F6A6872F7B3F}|ApplicationException\\ApplicationException.csproj|d:\\exception handling\\applicationexception\\applicationexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D3D46E8-47A3-4D24-9265-F6A6872F7B3F}|ApplicationException\\ApplicationException.csproj|d:\\sm-06-batch\\collections\\exception handling\\applicationexception\\applicationexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D3D46E8-47A3-4D24-9265-F6A6872F7B3F}|ApplicationException\\ApplicationException.csproj|solutionrelative:applicationexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Exception Handling\\ApplicationException\\ApplicationException\\Program.cs",
+              "DocumentMoniker": "D:\\SM-06-Batch\\Collections\\Exception Handling\\ApplicationException\\ApplicationException\\Program.cs",
               "RelativeDocumentMoniker": "ApplicationException\\Program.cs",
-              "ToolTip": "D:\\Exception Handling\\ApplicationException\\ApplicationException\\Program.cs",
+              "ToolTip": "D:\\SM-06-Batch\\Collections\\Exception Handling\\ApplicationException\\ApplicationException\\Program.cs",
               "RelativeToolTip": "ApplicationException\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAwAcAAAAdAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T05:46:47.523Z",
               "EditorCaption": ""
