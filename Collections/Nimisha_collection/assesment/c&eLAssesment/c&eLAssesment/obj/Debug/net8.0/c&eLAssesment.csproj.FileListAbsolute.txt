@@ -1,0 +1,14 @@
+D:\collection\c&eLAssesment\c&eLAssesment\bin\Debug\net8.0\c&eLAssesment.exe
+D:\collection\c&eLAssesment\c&eLAssesment\bin\Debug\net8.0\c&eLAssesment.deps.json
+D:\collection\c&eLAssesment\c&eLAssesment\bin\Debug\net8.0\c&eLAssesment.runtimeconfig.json
+D:\collection\c&eLAssesment\c&eLAssesment\bin\Debug\net8.0\c&eLAssesment.dll
+D:\collection\c&eLAssesment\c&eLAssesment\bin\Debug\net8.0\c&eLAssesment.pdb
+D:\collection\c&eLAssesment\c&eLAssesment\obj\Debug\net8.0\c&eLAssesment.GeneratedMSBuildEditorConfig.editorconfig
+D:\collection\c&eLAssesment\c&eLAssesment\obj\Debug\net8.0\c&eLAssesment.AssemblyInfoInputs.cache
+D:\collection\c&eLAssesment\c&eLAssesment\obj\Debug\net8.0\c&eLAssesment.AssemblyInfo.cs
+D:\collection\c&eLAssesment\c&eLAssesment\obj\Debug\net8.0\c&eLAssesment.csproj.CoreCompileInputs.cache
+D:\collection\c&eLAssesment\c&eLAssesment\obj\Debug\net8.0\c&eLAssesment.dll
+D:\collection\c&eLAssesment\c&eLAssesment\obj\Debug\net8.0\refint\c&eLAssesment.dll
+D:\collection\c&eLAssesment\c&eLAssesment\obj\Debug\net8.0\c&eLAssesment.pdb
+D:\collection\c&eLAssesment\c&eLAssesment\obj\Debug\net8.0\c&eLAssesment.genruntimeconfig.cache
+D:\collection\c&eLAssesment\c&eLAssesment\obj\Debug\net8.0\ref\c&eLAssesment.dll
