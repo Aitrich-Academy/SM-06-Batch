@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\oops_excersice\\petappExcercise\\petappExcercise\\petappExcercise.csproj",
+      "projectUniqueName": "D:\\SM-06-Batch\\OOPs\\Nimisha_oops\\oops_excersice\\petappExcercise\\petappExcercise\\petappExcercise.csproj",
       "projectName": "petappExcercise",
-      "projectPath": "D:\\oops_excersice\\petappExcercise\\petappExcercise\\petappExcercise.csproj",
+      "projectPath": "D:\\SM-06-Batch\\OOPs\\Nimisha_oops\\oops_excersice\\petappExcercise\\petappExcercise\\petappExcercise.csproj",
       "packagesPath": "C:\\Users\\NIMISHA\\.nuget\\packages\\",
-      "outputPath": "D:\\oops_excersice\\petappExcercise\\petappExcercise\\obj\\",
+      "outputPath": "D:\\SM-06-Batch\\OOPs\\Nimisha_oops\\oops_excersice\\petappExcercise\\petappExcercise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

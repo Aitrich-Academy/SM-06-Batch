@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\oops_wrkshop\\Encapsulation\\Encapsulation\\Encapsulation.csproj": {}
+    "D:\\SM-06-Batch\\OOPs\\Nimisha_oops\\oops_wrkshop\\Encapsulation\\Encapsulation\\Encapsulation.csproj": {}
   },
   "projects": {
-    "D:\\oops_wrkshop\\Encapsulation\\Encapsulation\\Encapsulation.csproj": {
+    "D:\\SM-06-Batch\\OOPs\\Nimisha_oops\\oops_wrkshop\\Encapsulation\\Encapsulation\\Encapsulation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\oops_wrkshop\\Encapsulation\\Encapsulation\\Encapsulation.csproj",
+        "projectUniqueName": "D:\\SM-06-Batch\\OOPs\\Nimisha_oops\\oops_wrkshop\\Encapsulation\\Encapsulation\\Encapsulation.csproj",
         "projectName": "Encapsulation",
-        "projectPath": "D:\\oops_wrkshop\\Encapsulation\\Encapsulation\\Encapsulation.csproj",
+        "projectPath": "D:\\SM-06-Batch\\OOPs\\Nimisha_oops\\oops_wrkshop\\Encapsulation\\Encapsulation\\Encapsulation.csproj",
         "packagesPath": "C:\\Users\\NIMISHA\\.nuget\\packages\\",
-        "outputPath": "D:\\oops_wrkshop\\Encapsulation\\Encapsulation\\obj\\",
+        "outputPath": "D:\\SM-06-Batch\\OOPs\\Nimisha_oops\\oops_wrkshop\\Encapsulation\\Encapsulation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
