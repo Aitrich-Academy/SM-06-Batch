@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Apsara-WebApplications\\EntityFramework\\EF_CFA\\",
+  "WorkspaceRootPath": "D:\\Dotnet_Core\\SM-06-Batch\\EF\\EF_CFA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{560AA1E4-8E97-4308-958F-55F9777CB944}|EF_CFA\\EF_CFA.csproj|d:\\apsara-webapplications\\entityframework\\ef_cfa\\ef_cfa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{560AA1E4-8E97-4308-958F-55F9777CB944}|EF_CFA\\EF_CFA.csproj|d:\\dotnet_core\\sm-06-batch\\ef\\ef_cfa\\ef_cfa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{560AA1E4-8E97-4308-958F-55F9777CB944}|EF_CFA\\EF_CFA.csproj|solutionrelative:ef_cfa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{560AA1E4-8E97-4308-958F-55F9777CB944}|EF_CFA\\EF_CFA.csproj|d:\\apsara-webapplications\\entityframework\\ef_cfa\\ef_cfa\\migrations\\20250702062017_gvhhhhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{560AA1E4-8E97-4308-958F-55F9777CB944}|EF_CFA\\EF_CFA.csproj|d:\\dotnet_core\\sm-06-batch\\ef\\ef_cfa\\ef_cfa\\migrations\\20250702062017_gvhhhhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{560AA1E4-8E97-4308-958F-55F9777CB944}|EF_CFA\\EF_CFA.csproj|solutionrelative:ef_cfa\\migrations\\20250702062017_gvhhhhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{560AA1E4-8E97-4308-958F-55F9777CB944}|EF_CFA\\EF_CFA.csproj|d:\\apsara-webapplications\\entityframework\\ef_cfa\\ef_cfa\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{560AA1E4-8E97-4308-958F-55F9777CB944}|EF_CFA\\EF_CFA.csproj|d:\\dotnet_core\\sm-06-batch\\ef\\ef_cfa\\ef_cfa\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{560AA1E4-8E97-4308-958F-55F9777CB944}|EF_CFA\\EF_CFA.csproj|solutionrelative:ef_cfa\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{560AA1E4-8E97-4308-958F-55F9777CB944}|EF_CFA\\EF_CFA.csproj|d:\\apsara-webapplications\\entityframework\\ef_cfa\\ef_cfa\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{560AA1E4-8E97-4308-958F-55F9777CB944}|EF_CFA\\EF_CFA.csproj|d:\\dotnet_core\\sm-06-batch\\ef\\ef_cfa\\ef_cfa\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{560AA1E4-8E97-4308-958F-55F9777CB944}|EF_CFA\\EF_CFA.csproj|solutionrelative:ef_cfa\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,24 +40,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "20250702062017_gvhhhhh.cs",
-              "DocumentMoniker": "D:\\Apsara-WebApplications\\EntityFramework\\EF_CFA\\EF_CFA\\Migrations\\20250702062017_gvhhhhh.cs",
+              "DocumentMoniker": "D:\\Dotnet_Core\\SM-06-Batch\\EF\\EF_CFA\\EF_CFA\\Migrations\\20250702062017_gvhhhhh.cs",
               "RelativeDocumentMoniker": "EF_CFA\\Migrations\\20250702062017_gvhhhhh.cs",
-              "ToolTip": "D:\\Apsara-WebApplications\\EntityFramework\\EF_CFA\\EF_CFA\\Migrations\\20250702062017_gvhhhhh.cs",
+              "ToolTip": "D:\\Dotnet_Core\\SM-06-Batch\\EF\\EF_CFA\\EF_CFA\\Migrations\\20250702062017_gvhhhhh.cs",
               "RelativeToolTip": "EF_CFA\\Migrations\\20250702062017_gvhhhhh.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T06:52:45.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T06:52:45.857Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Apsara-WebApplications\\EntityFramework\\EF_CFA\\EF_CFA\\Program.cs",
+              "DocumentMoniker": "D:\\Dotnet_Core\\SM-06-Batch\\EF\\EF_CFA\\EF_CFA\\Program.cs",
               "RelativeDocumentMoniker": "EF_CFA\\Program.cs",
-              "ToolTip": "D:\\Apsara-WebApplications\\EntityFramework\\EF_CFA\\EF_CFA\\Program.cs*",
-              "RelativeToolTip": "EF_CFA\\Program.cs*",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBAAAAAAAAAA",
+              "ToolTip": "D:\\Dotnet_Core\\SM-06-Batch\\EF\\EF_CFA\\EF_CFA\\Program.cs",
+              "RelativeToolTip": "EF_CFA\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T07:41:38.307Z",
               "EditorCaption": ""
@@ -66,27 +65,25 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Apsara-WebApplications\\EntityFramework\\EF_CFA\\EF_CFA\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "D:\\Dotnet_Core\\SM-06-Batch\\EF\\EF_CFA\\EF_CFA\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "EF_CFA\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\Apsara-WebApplications\\EntityFramework\\EF_CFA\\EF_CFA\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Dotnet_Core\\SM-06-Batch\\EF\\EF_CFA\\EF_CFA\\Data\\AppDbContext.cs",
               "RelativeToolTip": "EF_CFA\\Data\\AppDbContext.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T07:39:37.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T07:39:37.434Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Apsara-WebApplications\\EntityFramework\\EF_CFA\\EF_CFA\\Models\\Product.cs",
+              "DocumentMoniker": "D:\\Dotnet_Core\\SM-06-Batch\\EF\\EF_CFA\\EF_CFA\\Models\\Product.cs",
               "RelativeDocumentMoniker": "EF_CFA\\Models\\Product.cs",
-              "ToolTip": "D:\\Apsara-WebApplications\\EntityFramework\\EF_CFA\\EF_CFA\\Models\\Product.cs",
+              "ToolTip": "D:\\Dotnet_Core\\SM-06-Batch\\EF\\EF_CFA\\EF_CFA\\Models\\Product.cs",
               "RelativeToolTip": "EF_CFA\\Models\\Product.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAYwBAAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T07:39:27.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T07:39:27.35Z"
             }
           ]
         },

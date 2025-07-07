@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bh02NhRb+Lk=",
+  "dgSpecHash": "bF92CANuoMU=",
   "success": true,
-  "projectFilePath": "D:\\Apsara-WebApplications\\EntityFramework\\EF_CFA\\EF_CFA\\EF_CFA.csproj",
+  "projectFilePath": "D:\\Dotnet_Core\\SM-06-Batch\\EF\\EF_CFA\\EF_CFA\\EF_CFA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Apsara\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Apsara\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

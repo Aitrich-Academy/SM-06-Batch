@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Apsara-WebApplications\\EntityFramework\\EF_CFA\\EF_CFA\\EF_CFA.csproj": {}
+    "D:\\Dotnet_Core\\SM-06-Batch\\EF\\EF_CFA\\EF_CFA\\EF_CFA.csproj": {}
   },
   "projects": {
-    "D:\\Apsara-WebApplications\\EntityFramework\\EF_CFA\\EF_CFA\\EF_CFA.csproj": {
+    "D:\\Dotnet_Core\\SM-06-Batch\\EF\\EF_CFA\\EF_CFA\\EF_CFA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Apsara-WebApplications\\EntityFramework\\EF_CFA\\EF_CFA\\EF_CFA.csproj",
+        "projectUniqueName": "D:\\Dotnet_Core\\SM-06-Batch\\EF\\EF_CFA\\EF_CFA\\EF_CFA.csproj",
         "projectName": "EF_CFA",
-        "projectPath": "D:\\Apsara-WebApplications\\EntityFramework\\EF_CFA\\EF_CFA\\EF_CFA.csproj",
+        "projectPath": "D:\\Dotnet_Core\\SM-06-Batch\\EF\\EF_CFA\\EF_CFA\\EF_CFA.csproj",
         "packagesPath": "C:\\Users\\Apsara\\.nuget\\packages\\",
-        "outputPath": "D:\\Apsara-WebApplications\\EntityFramework\\EF_CFA\\EF_CFA\\obj\\",
+        "outputPath": "D:\\Dotnet_Core\\SM-06-Batch\\EF\\EF_CFA\\EF_CFA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Apsara\\AppData\\Roaming\\NuGet\\NuGet.Config",
