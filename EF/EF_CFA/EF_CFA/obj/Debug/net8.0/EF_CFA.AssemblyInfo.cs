@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EF_CFA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8898f15650085f67d3a6ce15877fd50543dceb69")]
 [assembly: System.Reflection.AssemblyProductAttribute("EF_CFA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EF_CFA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
