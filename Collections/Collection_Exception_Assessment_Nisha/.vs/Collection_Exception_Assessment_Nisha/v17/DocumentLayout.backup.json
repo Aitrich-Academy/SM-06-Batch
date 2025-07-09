@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\rep1\\C#\\4. Exception Handling\\Collection_Exception_Assessment_Nisha\\",
+  "WorkspaceRootPath": "D:\\SM-06-Batch\\Collections\\Collection_Exception_Assessment_Nisha\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{018674B9-32B1-4E37-8177-E6C32BBBBFB1}|Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha.csproj|f:\\rep1\\c#\\4. exception handling\\collection_exception_assessment_nisha\\collection_exception_assessment_nisha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{018674B9-32B1-4E37-8177-E6C32BBBBFB1}|Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha.csproj|solutionrelative:collection_exception_assessment_nisha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{018674B9-32B1-4E37-8177-E6C32BBBBFB1}|Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha.csproj|d:\\sm-06-batch\\collections\\collection_exception_assessment_nisha\\collection_exception_assessment_nisha\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018674B9-32B1-4E37-8177-E6C32BBBBFB1}|Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha.csproj|solutionrelative:collection_exception_assessment_nisha\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{018674B9-32B1-4E37-8177-E6C32BBBBFB1}|Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha.csproj|f:\\rep1\\c#\\4. exception handling\\collection_exception_assessment_nisha\\collection_exception_assessment_nisha\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{018674B9-32B1-4E37-8177-E6C32BBBBFB1}|Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha.csproj|d:\\sm-06-batch\\collections\\collection_exception_assessment_nisha\\collection_exception_assessment_nisha\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{018674B9-32B1-4E37-8177-E6C32BBBBFB1}|Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha.csproj|solutionrelative:collection_exception_assessment_nisha\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{018674B9-32B1-4E37-8177-E6C32BBBBFB1}|Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha.csproj|f:\\rep1\\c#\\4. exception handling\\collection_exception_assessment_nisha\\collection_exception_assessment_nisha\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{018674B9-32B1-4E37-8177-E6C32BBBBFB1}|Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha.csproj|solutionrelative:collection_exception_assessment_nisha\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{018674B9-32B1-4E37-8177-E6C32BBBBFB1}|Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha.csproj|d:\\sm-06-batch\\collections\\collection_exception_assessment_nisha\\collection_exception_assessment_nisha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018674B9-32B1-4E37-8177-E6C32BBBBFB1}|Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha.csproj|solutionrelative:collection_exception_assessment_nisha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +30,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ShoppingCart.cs",
-              "DocumentMoniker": "F:\\rep1\\C#\\4. Exception Handling\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha\\ShoppingCart.cs",
+              "DocumentMoniker": "D:\\SM-06-Batch\\Collections\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha\\ShoppingCart.cs",
               "RelativeDocumentMoniker": "Collection_Exception_Assessment_Nisha\\ShoppingCart.cs",
-              "ToolTip": "F:\\rep1\\C#\\4. Exception Handling\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha\\ShoppingCart.cs",
+              "ToolTip": "D:\\SM-06-Batch\\Collections\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha\\ShoppingCart.cs",
               "RelativeToolTip": "Collection_Exception_Assessment_Nisha\\ShoppingCart.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T05:02:13.404Z",
               "EditorCaption": ""
@@ -45,24 +45,24 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Item.cs",
-              "DocumentMoniker": "F:\\rep1\\C#\\4. Exception Handling\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha\\Item.cs",
+              "DocumentMoniker": "D:\\SM-06-Batch\\Collections\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha\\Item.cs",
               "RelativeDocumentMoniker": "Collection_Exception_Assessment_Nisha\\Item.cs",
-              "ToolTip": "F:\\rep1\\C#\\4. Exception Handling\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha\\Item.cs",
+              "ToolTip": "D:\\SM-06-Batch\\Collections\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha\\Item.cs",
               "RelativeToolTip": "Collection_Exception_Assessment_Nisha\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T04:41:30.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\rep1\\C#\\4. Exception Handling\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha\\Program.cs",
+              "DocumentMoniker": "D:\\SM-06-Batch\\Collections\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha\\Program.cs",
               "RelativeDocumentMoniker": "Collection_Exception_Assessment_Nisha\\Program.cs",
-              "ToolTip": "F:\\rep1\\C#\\4. Exception Handling\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha\\Program.cs",
+              "ToolTip": "D:\\SM-06-Batch\\Collections\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha\\Program.cs",
               "RelativeToolTip": "Collection_Exception_Assessment_Nisha\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T04:35:02.521Z",
               "EditorCaption": ""

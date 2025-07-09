@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Collection_Exception_Assessment_Nisha")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+216bfe9fcbf269c4797ab23743312628dab7a2f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+581492737fb4eeb5cb4dd2cbddba17233ce3cb84")]
 [assembly: System.Reflection.AssemblyProductAttribute("Collection_Exception_Assessment_Nisha")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Collection_Exception_Assessment_Nisha")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
