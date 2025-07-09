@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\rep1\\C#\\4. Exception Handling\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha.csproj": {}
+    "D:\\SM-06-Batch\\Collections\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha.csproj": {}
   },
   "projects": {
-    "F:\\rep1\\C#\\4. Exception Handling\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha.csproj": {
+    "D:\\SM-06-Batch\\Collections\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\rep1\\C#\\4. Exception Handling\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha.csproj",
+        "projectUniqueName": "D:\\SM-06-Batch\\Collections\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha.csproj",
         "projectName": "Collection_Exception_Assessment_Nisha",
-        "projectPath": "F:\\rep1\\C#\\4. Exception Handling\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha.csproj",
-        "packagesPath": "C:\\Users\\cloud\\.nuget\\packages\\",
-        "outputPath": "F:\\rep1\\C#\\4. Exception Handling\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha\\obj\\",
+        "projectPath": "D:\\SM-06-Batch\\Collections\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha.csproj",
+        "packagesPath": "C:\\Users\\NIMISHA\\.nuget\\packages\\",
+        "outputPath": "D:\\SM-06-Batch\\Collections\\Collection_Exception_Assessment_Nisha\\Collection_Exception_Assessment_Nisha\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cloud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NIMISHA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
