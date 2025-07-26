@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Apsara-WebApplications\\MVC\\LoginRegister_Session\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9223E09A-F2F3-4A22-93EF-5549077DE0E4}|LoginRegister_Session\\LoginRegister_Session.csproj|d:\\apsara-webapplications\\mvc\\loginregister_session\\loginregister_session\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9223E09A-F2F3-4A22-93EF-5549077DE0E4}|LoginRegister_Session\\LoginRegister_Session.csproj|solutionrelative:loginregister_session\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223E09A-F2F3-4A22-93EF-5549077DE0E4}|LoginRegister_Session\\LoginRegister_Session.csproj|d:\\apsara-webapplications\\mvc\\loginregister_session\\loginregister_session\\views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9223E09A-F2F3-4A22-93EF-5549077DE0E4}|LoginRegister_Session\\LoginRegister_Session.csproj|solutionrelative:loginregister_session\\views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223E09A-F2F3-4A22-93EF-5549077DE0E4}|LoginRegister_Session\\LoginRegister_Session.csproj|d:\\apsara-webapplications\\mvc\\loginregister_session\\loginregister_session\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9223E09A-F2F3-4A22-93EF-5549077DE0E4}|LoginRegister_Session\\LoginRegister_Session.csproj|solutionrelative:loginregister_session\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223E09A-F2F3-4A22-93EF-5549077DE0E4}|LoginRegister_Session\\LoginRegister_Session.csproj|d:\\apsara-webapplications\\mvc\\loginregister_session\\loginregister_session\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9223E09A-F2F3-4A22-93EF-5549077DE0E4}|LoginRegister_Session\\LoginRegister_Session.csproj|solutionrelative:loginregister_session\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223E09A-F2F3-4A22-93EF-5549077DE0E4}|LoginRegister_Session\\LoginRegister_Session.csproj|d:\\apsara-webapplications\\mvc\\loginregister_session\\loginregister_session\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9223E09A-F2F3-4A22-93EF-5549077DE0E4}|LoginRegister_Session\\LoginRegister_Session.csproj|solutionrelative:loginregister_session\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223E09A-F2F3-4A22-93EF-5549077DE0E4}|LoginRegister_Session\\LoginRegister_Session.csproj|d:\\apsara-webapplications\\mvc\\loginregister_session\\loginregister_session\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9223E09A-F2F3-4A22-93EF-5549077DE0E4}|LoginRegister_Session\\LoginRegister_Session.csproj|solutionrelative:loginregister_session\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223E09A-F2F3-4A22-93EF-5549077DE0E4}|LoginRegister_Session\\LoginRegister_Session.csproj|d:\\apsara-webapplications\\mvc\\loginregister_session\\loginregister_session\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9223E09A-F2F3-4A22-93EF-5549077DE0E4}|LoginRegister_Session\\LoginRegister_Session.csproj|solutionrelative:loginregister_session\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223E09A-F2F3-4A22-93EF-5549077DE0E4}|LoginRegister_Session\\LoginRegister_Session.csproj|d:\\apsara-webapplications\\mvc\\loginregister_session\\loginregister_session\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9223E09A-F2F3-4A22-93EF-5549077DE0E4}|LoginRegister_Session\\LoginRegister_Session.csproj|solutionrelative:loginregister_session\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223E09A-F2F3-4A22-93EF-5549077DE0E4}|LoginRegister_Session\\LoginRegister_Session.csproj|d:\\apsara-webapplications\\mvc\\loginregister_session\\loginregister_session\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9223E09A-F2F3-4A22-93EF-5549077DE0E4}|LoginRegister_Session\\LoginRegister_Session.csproj|solutionrelative:loginregister_session\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\Apsara-WebApplications\\MVC\\LoginRegister_Session\\LoginRegister_Session\\Views\\Account\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "LoginRegister_Session\\Views\\Account\\Dashboard.cshtml",
+              "ToolTip": "D:\\Apsara-WebApplications\\MVC\\LoginRegister_Session\\LoginRegister_Session\\Views\\Account\\Dashboard.cshtml",
+              "RelativeToolTip": "LoginRegister_Session\\Views\\Account\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T07:07:53.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Apsara-WebApplications\\MVC\\LoginRegister_Session\\LoginRegister_Session\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "LoginRegister_Session\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Apsara-WebApplications\\MVC\\LoginRegister_Session\\LoginRegister_Session\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "LoginRegister_Session\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T07:06:01.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Apsara-WebApplications\\MVC\\LoginRegister_Session\\LoginRegister_Session\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "LoginRegister_Session\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Apsara-WebApplications\\MVC\\LoginRegister_Session\\LoginRegister_Session\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "LoginRegister_Session\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T07:05:48.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Apsara-WebApplications\\MVC\\LoginRegister_Session\\LoginRegister_Session\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "LoginRegister_Session\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Apsara-WebApplications\\MVC\\LoginRegister_Session\\LoginRegister_Session\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "LoginRegister_Session\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowC0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T06:57:25.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Apsara-WebApplications\\MVC\\LoginRegister_Session\\LoginRegister_Session\\Program.cs",
+              "RelativeDocumentMoniker": "LoginRegister_Session\\Program.cs",
+              "ToolTip": "D:\\Apsara-WebApplications\\MVC\\LoginRegister_Session\\LoginRegister_Session\\Program.cs",
+              "RelativeToolTip": "LoginRegister_Session\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T06:46:43.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Apsara-WebApplications\\MVC\\LoginRegister_Session\\LoginRegister_Session\\appsettings.json",
+              "RelativeDocumentMoniker": "LoginRegister_Session\\appsettings.json",
+              "ToolTip": "D:\\Apsara-WebApplications\\MVC\\LoginRegister_Session\\LoginRegister_Session\\appsettings.json",
+              "RelativeToolTip": "LoginRegister_Session\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-26T06:46:48.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Apsara-WebApplications\\MVC\\LoginRegister_Session\\LoginRegister_Session\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LoginRegister_Session\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Apsara-WebApplications\\MVC\\LoginRegister_Session\\LoginRegister_Session\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "LoginRegister_Session\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T06:46:32.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\Apsara-WebApplications\\MVC\\LoginRegister_Session\\LoginRegister_Session\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "LoginRegister_Session\\DTOs\\UserDTO.cs",
+              "ToolTip": "D:\\Apsara-WebApplications\\MVC\\LoginRegister_Session\\LoginRegister_Session\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "LoginRegister_Session\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T06:46:25.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Apsara-WebApplications\\MVC\\LoginRegister_Session\\LoginRegister_Session\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LoginRegister_Session\\Models\\User.cs",
+              "ToolTip": "D:\\Apsara-WebApplications\\MVC\\LoginRegister_Session\\LoginRegister_Session\\Models\\User.cs",
+              "RelativeToolTip": "LoginRegister_Session\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T06:45:39.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 90,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
