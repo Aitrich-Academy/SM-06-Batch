@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Mvc_Pet_App_StoredProcedure.props" />
+</Project>

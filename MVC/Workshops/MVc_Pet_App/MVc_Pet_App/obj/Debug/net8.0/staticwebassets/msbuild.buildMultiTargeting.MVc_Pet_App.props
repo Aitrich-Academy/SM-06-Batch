@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MVc_Pet_App.props" />
+</Project>

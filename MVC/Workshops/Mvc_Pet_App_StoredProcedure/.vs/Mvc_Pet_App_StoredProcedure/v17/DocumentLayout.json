@@ -1,0 +1,412 @@
+{
+  "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|c:\\users\\user\\onedrive\\desktop\\git\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app_storedprocedure\\mvc_pet_app_storedprocedure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|solutionrelative:mvc_pet_app_storedprocedure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|c:\\users\\user\\onedrive\\desktop\\git\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app_storedprocedure\\mvc_pet_app_storedprocedure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|solutionrelative:mvc_pet_app_storedprocedure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|c:\\users\\user\\onedrive\\desktop\\git\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app_storedprocedure\\mvc_pet_app_storedprocedure\\migrations\\petappdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|solutionrelative:mvc_pet_app_storedprocedure\\migrations\\petappdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|c:\\users\\user\\onedrive\\desktop\\git\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app_storedprocedure\\mvc_pet_app_storedprocedure\\extensions\\applicationservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|solutionrelative:mvc_pet_app_storedprocedure\\extensions\\applicationservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|c:\\users\\user\\onedrive\\desktop\\git\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app_storedprocedure\\mvc_pet_app_storedprocedure\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|solutionrelative:mvc_pet_app_storedprocedure\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|c:\\users\\user\\onedrive\\desktop\\git\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app_storedprocedure\\mvc_pet_app_storedprocedure\\repository\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|solutionrelative:mvc_pet_app_storedprocedure\\repository\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|c:\\users\\user\\onedrive\\desktop\\git\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app_storedprocedure\\mvc_pet_app_storedprocedure\\interface\\ipetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|solutionrelative:mvc_pet_app_storedprocedure\\interface\\ipetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|c:\\users\\user\\onedrive\\desktop\\git\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app_storedprocedure\\mvc_pet_app_storedprocedure\\models\\petcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|solutionrelative:mvc_pet_app_storedprocedure\\models\\petcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|c:\\users\\user\\onedrive\\desktop\\git\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app_storedprocedure\\mvc_pet_app_storedprocedure\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|solutionrelative:mvc_pet_app_storedprocedure\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|c:\\users\\user\\onedrive\\desktop\\git\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app_storedprocedure\\mvc_pet_app_storedprocedure\\models\\petappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|solutionrelative:mvc_pet_app_storedprocedure\\models\\petappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|c:\\users\\user\\onedrive\\desktop\\git\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app_storedprocedure\\mvc_pet_app_storedprocedure\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "D:\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|d:\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app_storedprocedure\\mvc_pet_app_storedprocedure\\repository\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|solutionrelative:mvc_pet_app_storedprocedure\\repository\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|d:\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app_storedprocedure\\mvc_pet_app_storedprocedure\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|solutionrelative:mvc_pet_app_storedprocedure\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|d:\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app_storedprocedure\\mvc_pet_app_storedprocedure\\views\\pets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|solutionrelative:mvc_pet_app_storedprocedure\\views\\pets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|d:\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app_storedprocedure\\mvc_pet_app_storedprocedure\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|solutionrelative:mvc_pet_app_storedprocedure\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|d:\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app_storedprocedure\\mvc_pet_app_storedprocedure\\views\\pets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|solutionrelative:mvc_pet_app_storedprocedure\\views\\pets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|d:\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app_storedprocedure\\mvc_pet_app_storedprocedure\\extensions\\applicationservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|solutionrelative:mvc_pet_app_storedprocedure\\extensions\\applicationservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|d:\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app_storedprocedure\\mvc_pet_app_storedprocedure\\interface\\ipetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|solutionrelative:mvc_pet_app_storedprocedure\\interface\\ipetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|d:\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app_storedprocedure\\mvc_pet_app_storedprocedure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|solutionrelative:mvc_pet_app_storedprocedure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|d:\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app_storedprocedure\\mvc_pet_app_storedprocedure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|solutionrelative:mvc_pet_app_storedprocedure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|d:\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app_storedprocedure\\mvc_pet_app_storedprocedure\\models\\petcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|solutionrelative:mvc_pet_app_storedprocedure\\models\\petcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|d:\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app_storedprocedure\\mvc_pet_app_storedprocedure\\models\\petappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|solutionrelative:mvc_pet_app_storedprocedure\\models\\petappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|d:\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app_storedprocedure\\mvc_pet_app_storedprocedure\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 57c7b645dabc87b555405422ae490740cbccf7b7
+      "RelativeMoniker": "D:0:0:{63D70927-CF8F-4634-963A-23EF1868E790}|Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure.csproj|solutionrelative:mvc_pet_app_storedprocedure\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+<<<<<<< HEAD
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PetAppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Migrations\\PetAppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Mvc_Pet_App_StoredProcedure\\Migrations\\PetAppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Migrations\\PetAppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Mvc_Pet_App_StoredProcedure\\Migrations\\PetAppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:56:44.727Z",
+              "EditorCaption": ""
+=======
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Views\\Pets\\Create.cshtml",
+              "RelativeDocumentMoniker": "Mvc_Pet_App_StoredProcedure\\Views\\Pets\\Create.cshtml",
+              "ToolTip": "D:\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Views\\Pets\\Create.cshtml",
+              "RelativeToolTip": "Mvc_Pet_App_StoredProcedure\\Views\\Pets\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T09:31:49.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "D:\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "Mvc_Pet_App_StoredProcedure\\Models\\Pet.cs",
+              "ToolTip": "D:\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Models\\Pet.cs",
+              "RelativeToolTip": "Mvc_Pet_App_StoredProcedure\\Models\\Pet.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:34:19.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PetsController.cs",
+              "DocumentMoniker": "D:\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Controllers\\PetsController.cs",
+              "RelativeDocumentMoniker": "Mvc_Pet_App_StoredProcedure\\Controllers\\PetsController.cs",
+              "ToolTip": "D:\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Controllers\\PetsController.cs",
+              "RelativeToolTip": "Mvc_Pet_App_StoredProcedure\\Controllers\\PetsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:58:08.102Z"
+>>>>>>> 57c7b645dabc87b555405422ae490740cbccf7b7
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\appsettings.json",
+              "RelativeDocumentMoniker": "Mvc_Pet_App_StoredProcedure\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\appsettings.json",
+              "RelativeToolTip": "Mvc_Pet_App_StoredProcedure\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-27T09:08:13.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PetRepository.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Repository\\PetRepository.cs",
+              "RelativeDocumentMoniker": "Mvc_Pet_App_StoredProcedure\\Repository\\PetRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Repository\\PetRepository.cs",
+              "RelativeToolTip": "Mvc_Pet_App_StoredProcedure\\Repository\\PetRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCoAAAAAAAAAAAAAAA==",
+=======
+              "DocumentMoniker": "D:\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Repository\\PetRepository.cs",
+              "RelativeDocumentMoniker": "Mvc_Pet_App_StoredProcedure\\Repository\\PetRepository.cs",
+              "ToolTip": "D:\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Repository\\PetRepository.cs",
+              "RelativeToolTip": "Mvc_Pet_App_StoredProcedure\\Repository\\PetRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAMAAAAAAAAA",
+>>>>>>> 57c7b645dabc87b555405422ae490740cbccf7b7
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:04:47.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 6,
+              "Title": "IPetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Interface\\IPetRepository.cs",
+              "RelativeDocumentMoniker": "Mvc_Pet_App_StoredProcedure\\Interface\\IPetRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Interface\\IPetRepository.cs",
+              "RelativeToolTip": "Mvc_Pet_App_StoredProcedure\\Interface\\IPetRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:04:38.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Program.cs",
+              "RelativeDocumentMoniker": "Mvc_Pet_App_StoredProcedure\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Program.cs",
+              "RelativeToolTip": "Mvc_Pet_App_StoredProcedure\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:02:34.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationServicesExtension.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Extensions\\ApplicationServicesExtension.cs",
+              "RelativeDocumentMoniker": "Mvc_Pet_App_StoredProcedure\\Extensions\\ApplicationServicesExtension.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Extensions\\ApplicationServicesExtension.cs",
+              "RelativeToolTip": "Mvc_Pet_App_StoredProcedure\\Extensions\\ApplicationServicesExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:10:30.765Z",
+              "EditorCaption": ""
+=======
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Views\\Pets\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mvc_Pet_App_StoredProcedure\\Views\\Pets\\Index.cshtml",
+              "ToolTip": "D:\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Views\\Pets\\Index.cshtml",
+              "RelativeToolTip": "Mvc_Pet_App_StoredProcedure\\Views\\Pets\\Index.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAcwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T09:31:53.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationServicesExtension.cs",
+              "DocumentMoniker": "D:\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Extensions\\ApplicationServicesExtension.cs",
+              "RelativeDocumentMoniker": "Mvc_Pet_App_StoredProcedure\\Extensions\\ApplicationServicesExtension.cs",
+              "ToolTip": "D:\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Extensions\\ApplicationServicesExtension.cs",
+              "RelativeToolTip": "Mvc_Pet_App_StoredProcedure\\Extensions\\ApplicationServicesExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:10:30.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPetRepository.cs",
+              "DocumentMoniker": "D:\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Interface\\IPetRepository.cs",
+              "RelativeDocumentMoniker": "Mvc_Pet_App_StoredProcedure\\Interface\\IPetRepository.cs",
+              "ToolTip": "D:\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Interface\\IPetRepository.cs",
+              "RelativeToolTip": "Mvc_Pet_App_StoredProcedure\\Interface\\IPetRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:04:38.683Z"
+>>>>>>> 57c7b645dabc87b555405422ae490740cbccf7b7
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+<<<<<<< HEAD
+              "Title": "PetCategory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Models\\PetCategory.cs",
+              "RelativeDocumentMoniker": "Mvc_Pet_App_StoredProcedure\\Models\\PetCategory.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Models\\PetCategory.cs",
+              "RelativeToolTip": "Mvc_Pet_App_StoredProcedure\\Models\\PetCategory.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T11:08:14.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PetsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Controllers\\PetsController.cs",
+              "RelativeDocumentMoniker": "Mvc_Pet_App_StoredProcedure\\Controllers\\PetsController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Controllers\\PetsController.cs",
+              "RelativeToolTip": "Mvc_Pet_App_StoredProcedure\\Controllers\\PetsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:58:08.102Z",
+              "EditorCaption": ""
+=======
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\appsettings.json",
+              "RelativeDocumentMoniker": "Mvc_Pet_App_StoredProcedure\\appsettings.json",
+              "ToolTip": "D:\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\appsettings.json",
+              "RelativeToolTip": "Mvc_Pet_App_StoredProcedure\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T08:57:48.894Z"
+>>>>>>> 57c7b645dabc87b555405422ae490740cbccf7b7
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+<<<<<<< HEAD
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "Mvc_Pet_App_StoredProcedure\\Models\\Pet.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Models\\Pet.cs",
+              "RelativeToolTip": "Mvc_Pet_App_StoredProcedure\\Models\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T11:07:51.191Z"
+=======
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Program.cs",
+              "RelativeDocumentMoniker": "Mvc_Pet_App_StoredProcedure\\Program.cs",
+              "ToolTip": "D:\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Program.cs",
+              "RelativeToolTip": "Mvc_Pet_App_StoredProcedure\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:02:34.825Z"
+>>>>>>> 57c7b645dabc87b555405422ae490740cbccf7b7
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+<<<<<<< HEAD
+              "Title": "PetAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Models\\PetAppDbContext.cs",
+              "RelativeDocumentMoniker": "Mvc_Pet_App_StoredProcedure\\Models\\PetAppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Models\\PetAppDbContext.cs",
+              "RelativeToolTip": "Mvc_Pet_App_StoredProcedure\\Models\\PetAppDbContext.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T11:08:03.959Z"
+=======
+              "Title": "PetCategory.cs",
+              "DocumentMoniker": "D:\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Models\\PetCategory.cs",
+              "RelativeDocumentMoniker": "Mvc_Pet_App_StoredProcedure\\Models\\PetCategory.cs",
+              "ToolTip": "D:\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Models\\PetCategory.cs",
+              "RelativeToolTip": "Mvc_Pet_App_StoredProcedure\\Models\\PetCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:34:48.248Z"
+>>>>>>> 57c7b645dabc87b555405422ae490740cbccf7b7
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+<<<<<<< HEAD
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Mvc_Pet_App_StoredProcedure\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Controllers\\HomeController.cs",
+=======
+              "Title": "PetAppDbContext.cs",
+              "DocumentMoniker": "D:\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Models\\PetAppDbContext.cs",
+              "RelativeDocumentMoniker": "Mvc_Pet_App_StoredProcedure\\Models\\PetAppDbContext.cs",
+              "ToolTip": "D:\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Models\\PetAppDbContext.cs",
+              "RelativeToolTip": "Mvc_Pet_App_StoredProcedure\\Models\\PetAppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:34:36.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Mvc_Pet_App_StoredProcedure\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.NetCore-SM-02\\MVC\\Workshops\\Mvc_Pet_App_StoredProcedure\\Mvc_Pet_App_StoredProcedure\\Controllers\\HomeController.cs",
+>>>>>>> 57c7b645dabc87b555405422ae490740cbccf7b7
+              "RelativeToolTip": "Mvc_Pet_App_StoredProcedure\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:03:19.68Z"
+<<<<<<< HEAD
+=======
+            }
+          ]
+        },
+        {
+          "DockedWidth": 8,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+>>>>>>> 57c7b645dabc87b555405422ae490740cbccf7b7
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

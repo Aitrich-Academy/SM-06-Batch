@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|c:\\users\\user\\onedrive\\desktop\\git\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app\\mvc_pet_app\\data\\petcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\data\\petcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|c:\\users\\user\\onedrive\\desktop\\git\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app\\mvc_pet_app\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|c:\\users\\user\\onedrive\\desktop\\git\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app\\mvc_pet_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|c:\\users\\user\\onedrive\\desktop\\git\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app\\mvc_pet_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|c:\\users\\user\\onedrive\\desktop\\git\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app\\mvc_pet_app\\data\\petdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\data\\petdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|c:\\users\\user\\onedrive\\desktop\\git\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app\\mvc_pet_app\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|c:\\users\\user\\onedrive\\desktop\\git\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app\\mvc_pet_app\\views\\pet\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\views\\pet\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|c:\\users\\user\\onedrive\\desktop\\git\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app\\mvc_pet_app\\views\\pet\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\views\\pet\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|c:\\users\\user\\onedrive\\desktop\\git\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app\\mvc_pet_app\\views\\pet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\views\\pet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|c:\\users\\user\\onedrive\\desktop\\git\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app\\mvc_pet_app\\views\\pet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\views\\pet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+=======
+  "WorkspaceRootPath": "D:\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|d:\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app\\mvc_pet_app\\data\\petcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\data\\petcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|d:\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app\\mvc_pet_app\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|d:\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app\\mvc_pet_app\\views\\pet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\views\\pet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|d:\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app\\mvc_pet_app\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|d:\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app\\mvc_pet_app\\data\\petdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\data\\petdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|d:\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app\\mvc_pet_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|d:\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app\\mvc_pet_app\\views\\pet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\views\\pet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|d:\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app\\mvc_pet_app\\views\\pet\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\views\\pet\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|d:\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app\\mvc_pet_app\\views\\pet\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\views\\pet\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|d:\\.netcore-sm-02\\mvc\\workshops\\mvc_pet_app\\mvc_pet_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+>>>>>>> 57c7b645dabc87b555405422ae490740cbccf7b7
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+<<<<<<< HEAD
+          "SelectedChildIndex": 2,
+=======
+          "SelectedChildIndex": 7,
+>>>>>>> 57c7b645dabc87b555405422ae490740cbccf7b7
+          "Children": [
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 5,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Models\\Pet.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Models\\Pet.cs",
+              "RelativeToolTip": "MVc_Pet_App\\Models\\Pet.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
+=======
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Views\\Pet\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Views\\Pet\\Index.cshtml",
+              "ToolTip": "D:\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Views\\Pet\\Index.cshtml",
+              "RelativeToolTip": "MVc_Pet_App\\Views\\Pet\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T07:36:36.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Views\\Pet\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Views\\Pet\\Edit.cshtml",
+              "ToolTip": "D:\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Views\\Pet\\Edit.cshtml",
+              "RelativeToolTip": "MVc_Pet_App\\Views\\Pet\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T07:36:22.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Views\\Pet\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Views\\Pet\\Delete.cshtml",
+              "ToolTip": "D:\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Views\\Pet\\Delete.cshtml",
+              "RelativeToolTip": "MVc_Pet_App\\Views\\Pet\\Delete.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T07:36:18.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Views\\Pet\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Views\\Pet\\Create.cshtml",
+              "ToolTip": "D:\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Views\\Pet\\Create.cshtml",
+              "RelativeToolTip": "MVc_Pet_App\\Views\\Pet\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T07:36:11.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "D:\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Models\\Pet.cs",
+              "ToolTip": "D:\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Models\\Pet.cs*",
+              "RelativeToolTip": "MVc_Pet_App\\Models\\Pet.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAAAAAA",
+>>>>>>> 57c7b645dabc87b555405422ae490740cbccf7b7
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:36:03.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PetDTO.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Data\\PetDTO.cs",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Data\\PetDTO.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Data\\PetDTO.cs",
+              "RelativeToolTip": "MVc_Pet_App\\Data\\PetDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+=======
+              "DocumentMoniker": "D:\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Data\\PetDTO.cs",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Data\\PetDTO.cs",
+              "ToolTip": "D:\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Data\\PetDTO.cs",
+              "RelativeToolTip": "MVc_Pet_App\\Data\\PetDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+>>>>>>> 57c7b645dabc87b555405422ae490740cbccf7b7
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:35:53.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PetContext.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Data\\PetContext.cs",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Data\\PetContext.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Data\\PetContext.cs",
+              "RelativeToolTip": "MVc_Pet_App\\Data\\PetContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+=======
+              "DocumentMoniker": "D:\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Data\\PetContext.cs",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Data\\PetContext.cs",
+              "ToolTip": "D:\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Data\\PetContext.cs",
+              "RelativeToolTip": "MVc_Pet_App\\Data\\PetContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwB0AAAAGAAAA",
+>>>>>>> 57c7b645dabc87b555405422ae490740cbccf7b7
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:34:39.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PetController.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Controllers\\PetController.cs",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Controllers\\PetController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Controllers\\PetController.cs",
+              "RelativeToolTip": "MVc_Pet_App\\Controllers\\PetController.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAwKcAAAAAAAAAAAAAAA==",
+=======
+              "DocumentMoniker": "D:\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Controllers\\PetController.cs",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Controllers\\PetController.cs",
+              "ToolTip": "D:\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Controllers\\PetController.cs",
+              "RelativeToolTip": "MVc_Pet_App\\Controllers\\PetController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHgAAAAZAAAA",
+>>>>>>> 57c7b645dabc87b555405422ae490740cbccf7b7
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:34:18.455Z"
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\appsettings.json",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\appsettings.json",
+              "RelativeToolTip": "MVc_Pet_App\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T08:19:12.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Program.cs",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Program.cs",
+=======
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Program.cs",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Program.cs",
+              "ToolTip": "D:\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Program.cs",
+>>>>>>> 57c7b645dabc87b555405422ae490740cbccf7b7
+              "RelativeToolTip": "MVc_Pet_App\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T08:19:15.318Z"
+<<<<<<< HEAD
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Views\\Pet\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Views\\Pet\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Views\\Pet\\Create.cshtml",
+              "RelativeToolTip": "MVc_Pet_App\\Views\\Pet\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T07:36:11.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Views\\Pet\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Views\\Pet\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Views\\Pet\\Delete.cshtml",
+              "RelativeToolTip": "MVc_Pet_App\\Views\\Pet\\Delete.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T07:36:18.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Views\\Pet\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Views\\Pet\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Views\\Pet\\Edit.cshtml",
+              "RelativeToolTip": "MVc_Pet_App\\Views\\Pet\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T07:36:22.582Z"
+=======
+>>>>>>> 57c7b645dabc87b555405422ae490740cbccf7b7
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+<<<<<<< HEAD
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Views\\Pet\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Views\\Pet\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\GIT\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\Views\\Pet\\Index.cshtml",
+              "RelativeToolTip": "MVc_Pet_App\\Views\\Pet\\Index.cshtml",
+=======
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\appsettings.json",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\appsettings.json",
+              "ToolTip": "D:\\.NetCore-SM-02\\MVC\\Workshops\\MVc_Pet_App\\MVc_Pet_App\\appsettings.json",
+              "RelativeToolTip": "MVc_Pet_App\\appsettings.json",
+>>>>>>> 57c7b645dabc87b555405422ae490740cbccf7b7
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T07:36:36.862Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
