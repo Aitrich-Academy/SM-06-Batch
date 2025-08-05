@@ -1,0 +1,11 @@
+D:\Apsara-WebApplications\WebAPI\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.exe
+D:\Apsara-WebApplications\WebAPI\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Apsara-WebApplications\WebAPI\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Apsara-WebApplications\WebAPI\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.dll
+D:\Apsara-WebApplications\WebAPI\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.deps.json
+D:\Apsara-WebApplications\WebAPI\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.runtimeconfig.json
+D:\Apsara-WebApplications\WebAPI\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.pdb
+D:\Apsara-WebApplications\WebAPI\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Apsara-WebApplications\WebAPI\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Apsara-WebApplications\WebAPI\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Apsara-WebApplications\WebAPI\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

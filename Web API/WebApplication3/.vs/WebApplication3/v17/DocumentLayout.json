@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Apsara-WebApplications\\WebAPI\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA38D92-E1A9-41D6-8BD5-C78BDB7197F9}|WebApplication3\\WebApplication3.csproj|d:\\apsara-webapplications\\webapi\\webapplication3\\webapplication3\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA38D92-E1A9-41D6-8BD5-C78BDB7197F9}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA38D92-E1A9-41D6-8BD5-C78BDB7197F9}|WebApplication3\\WebApplication3.csproj|d:\\apsara-webapplications\\webapi\\webapplication3\\webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FFA38D92-E1A9-41D6-8BD5-C78BDB7197F9}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA38D92-E1A9-41D6-8BD5-C78BDB7197F9}|WebApplication3\\WebApplication3.csproj|d:\\apsara-webapplications\\webapi\\webapplication3\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA38D92-E1A9-41D6-8BD5-C78BDB7197F9}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA38D92-E1A9-41D6-8BD5-C78BDB7197F9}|WebApplication3\\WebApplication3.csproj|d:\\apsara-webapplications\\webapi\\webapplication3\\webapplication3\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA38D92-E1A9-41D6-8BD5-C78BDB7197F9}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA38D92-E1A9-41D6-8BD5-C78BDB7197F9}|WebApplication3\\WebApplication3.csproj|d:\\apsara-webapplications\\webapi\\webapplication3\\webapplication3\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA38D92-E1A9-41D6-8BD5-C78BDB7197F9}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA38D92-E1A9-41D6-8BD5-C78BDB7197F9}|WebApplication3\\WebApplication3.csproj|d:\\apsara-webapplications\\webapi\\webapplication3\\webapplication3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FFA38D92-E1A9-41D6-8BD5-C78BDB7197F9}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Apsara-WebApplications\\WebAPI\\WebApplication3\\WebApplication3\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication3\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Apsara-WebApplications\\WebAPI\\WebApplication3\\WebApplication3\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication3\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T07:46:18.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Apsara-WebApplications\\WebAPI\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication3\\appsettings.json",
+              "ToolTip": "D:\\Apsara-WebApplications\\WebAPI\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeToolTip": "WebApplication3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-03T08:56:16.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Apsara-WebApplications\\WebAPI\\WebApplication3\\WebApplication3\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\Apsara-WebApplications\\WebAPI\\WebApplication3\\WebApplication3\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:54:18.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Apsara-WebApplications\\WebAPI\\WebApplication3\\WebApplication3\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Book.cs",
+              "ToolTip": "D:\\Apsara-WebApplications\\WebAPI\\WebApplication3\\WebApplication3\\Models\\Book.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:53:31.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Apsara-WebApplications\\WebAPI\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Program.cs",
+              "ToolTip": "D:\\Apsara-WebApplications\\WebAPI\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeToolTip": "WebApplication3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:55:40.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\Apsara-WebApplications\\WebAPI\\WebApplication3\\WebApplication3\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\Apsara-WebApplications\\WebAPI\\WebApplication3\\WebApplication3\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:02:18.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 8,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

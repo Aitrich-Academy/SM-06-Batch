@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Apsara-WebApplications\WebAPI\WebApplication1\WebApplication1\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2025-06-16T09:39:20.6094166Z||;True|2025-06-16T14:51:38.3307274+05:30||;True|2025-06-16T14:51:06.5069155+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
