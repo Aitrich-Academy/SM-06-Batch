@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VKEkzWb1txzoBgR3ffAazzZwWP0PTyFyGT1EpO3Nrrg=",
+  "Source": "WebApi_Login",
+  "BasePath": "_content/WebApi_Login",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
